@@ -37,13 +37,13 @@
     </xs:complexType>
     <xs:group name="lceBox.content">
         <xs:sequence>
-            <xs:group ref="lcInterationLabel2" minOccurs="0" maxOccurs="1"/>
+            <xs:group ref="lcInteractionLabel2" minOccurs="0" maxOccurs="1"/>
             <xs:choice minOccurs="0" maxOccurs="unbounded">
                 <xs:group ref="div.cnt"/>
             </xs:choice>
         </xs:sequence>
     </xs:group>
-    <xs:attributeGroup name="lceExplanation.attributes">
+    <xs:attributeGroup name="lceBox.attributes">
         <xs:attributeGroup ref="univ-atts"/>
         <xs:attribute name="outputclass" type="xs:string"/>
         <xs:attributeGroup ref="global-atts"/>
