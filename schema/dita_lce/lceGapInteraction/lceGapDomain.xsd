@@ -121,10 +121,10 @@
     </xs:complexType>
     <xs:group name="lceGapOption.content">
         <xs:sequence>
-            <xs:choice>
-                <xs:group ref="lceGapContent"/>
+            <xs:sequence>
                 <xs:group ref="image"/>
-            </xs:choice>
+                <xs:group ref="lceGapContent"/>
+            </xs:sequence>
         </xs:sequence>
     </xs:group>
     <xs:attributeGroup name="lceGapOption.attributes">
