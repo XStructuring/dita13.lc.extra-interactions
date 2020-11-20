@@ -340,6 +340,7 @@
         <xs:sequence>
             <xs:choice minOccurs="0" maxOccurs="unbounded">
              <xs:group ref="ph.cnt"/>
+                <xs:group ref="object"/>
             </xs:choice>
         </xs:sequence>
     </xs:group>
