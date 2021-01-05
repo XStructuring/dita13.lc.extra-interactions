@@ -81,6 +81,20 @@
     <uri name="urn:dita13lce:names:xsd:lceDataDomain.xsd" uri="lceDataDomain.xsd" />
   </group>
   
+  <group xml:base="lceEmptyElements/">
+    <system systemId="lceBrDomainMod.xsd" uri="lceBrDomainMod.xsd" />
+    <system systemId="urn:dita13lce:names:xsd:lceBrDomainMod.xsd" uri="lceBrDomainMod.xsd" />
+    
+    <uri name="lceBrDomainMod.xsd" uri="lceBrDomainMod.xsd" />
+    <uri name="urn:dita13lce:names:xsd:lceBrDomainMod.xsd" uri="lceBrDomainMod.xsd" />
+    
+    <system systemId="lceRefpointDomainMod.xsd" uri="lceRefpointDomainMod.xsd" />
+    <system systemId="urn:dita13lce:names:xsd:lceRefpointDomainMod.xsd" uri="lceRefpointDomainMod.xsd" />
+    
+    <uri name="lceRefpointDomainMod.xsd" uri="lceRefpointDomainMod.xsd" />
+    <uri name="urn:dita13lce:names:xsd:lceRefpointDomainMod.xsd" uri="lceRefpointDomainMod.xsd" />
+  </group>
+  
   <group xml:base="lceExplanation/">
     <system systemId="lceExplanationDomain.xsd" uri="lceExplanationDomain.xsd" />
     <system systemId="urn:dita13lce:names:xsd:lceExplanationDomain.xsd" uri="lceExplanationDomain.xsd" />

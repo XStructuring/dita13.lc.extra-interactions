@@ -6,6 +6,14 @@
         </xs:appinfo>
     </xs:annotation>
     
+    <xs:group name="lcebox-d-fig">
+        <xs:sequence>
+            <xs:choice>
+                <xs:element ref="lceBox"/>
+            </xs:choice>
+        </xs:sequence>
+    </xs:group>
+    
     <xs:group name="lceBox">
         <xs:sequence>
             <xs:choice>
@@ -24,7 +32,7 @@
         <xs:complexType>
             <xs:complexContent>
                 <xs:extension base="lceBox.class">
-                    <xs:attribute ref="class" default="- topic/div lcebox-d/lceBox "/>
+                    <xs:attribute ref="class" default="- topic/fig lcebox-d/lceBox "/>
                 </xs:extension>
             </xs:complexContent>
         </xs:complexType>
@@ -37,13 +45,16 @@
     </xs:complexType>
     <xs:group name="lceBox.content">
         <xs:sequence>
-            <xs:group ref="lcInteractionLabel2" minOccurs="0" maxOccurs="1"/>
+            <xs:group ref="title" minOccurs="0"/>
+            <xs:group ref="desc" minOccurs="0"/>
             <xs:choice minOccurs="0" maxOccurs="unbounded">
-                <xs:group ref="div.cnt"/>
+                <xs:group ref="fig.cnt"/>
             </xs:choice>
         </xs:sequence>
     </xs:group>
     <xs:attributeGroup name="lceBox.attributes">
+        <xs:attributeGroup ref="display-atts"/>
+        <xs:attribute name="spectitle" type="xs:string"/>
         <xs:attributeGroup ref="univ-atts"/>
         <xs:attribute name="outputclass" type="xs:string"/>
         <xs:attributeGroup ref="global-atts"/>

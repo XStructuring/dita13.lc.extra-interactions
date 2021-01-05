@@ -77,6 +77,8 @@
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceEntryDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceExplanationDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceBoxDomain.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceBrDomainMod.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceRefpointDomainMod.xsd"/>
    
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceAnswerAttsDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceOrientationAttsDomain.xsd"/>
@@ -108,6 +110,7 @@
             <xs:group ref="learning-d-fig"/>
             <!-- add -->
             <xs:group ref="equation-d-fig"/>
+            <xs:group ref="lcebox-d-fig"/>
          </xs:choice>
       </xs:group>
       <xs:group name="div">
@@ -133,6 +136,8 @@
             <!-- add -->
             <xs:group ref="equation-d-ph"/>
             <xs:group ref="lceinlineinteraction-d-ph"/>
+            <xs:group ref="lce-br-d-ph"/>
+            <xs:group ref="lce-refpoint-d-ph"/>
          </xs:choice>
       </xs:group>
       <xs:group name="foreign">
