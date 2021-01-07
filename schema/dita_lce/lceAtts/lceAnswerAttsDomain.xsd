@@ -26,7 +26,6 @@
   <xs:simpleType name="answertype-atts.class">
     <xs:restriction base="xs:string">
       <xs:enumeration value="predefined"/>
-      <xs:enumeration value="placeholder"/>
       <xs:enumeration value="fixed"/>
     </xs:restriction>
   </xs:simpleType>
