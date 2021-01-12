@@ -46,8 +46,23 @@
       <xs:enumeration value="m"/>
       <xs:enumeration value="l"/>
       <xs:enumeration value="xl"/>
-      
     </xs:restriction>
+  </xs:simpleType>
+    
+    <xs:attributeGroup name="lceAnswerformatAtt-d-attribute">
+      <xs:attribute name="answerformat" type="answerformat-atts.class" use="optional">
+        <xs:annotation>
+          <xs:documentation>This attribute should be uesd with gap answer elements. The attribute gives information over the kind of format in the gap.
+          </xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+    </xs:attributeGroup>
+    
+    <xs:simpleType name="answerformat-atts.class">
+      <xs:restriction base="xs:string">
+        <xs:enumeration value="text"/>
+        <xs:enumeration value="numerical"/>
+      </xs:restriction>
   </xs:simpleType>
   
 
