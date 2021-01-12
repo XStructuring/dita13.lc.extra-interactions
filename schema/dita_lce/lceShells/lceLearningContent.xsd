@@ -79,11 +79,13 @@
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceBoxDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceBrDomainMod.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceRefpointDomainMod.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceHotspotDomain.xsd"/>
    
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceAnswerAttsDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceOrientationAttsDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceEduAttsDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceContentclassAttsDomain.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lcePlaceholderAttsDomain.xsd"/>
    
    <!--  -->
 
@@ -167,9 +169,11 @@
       </xs:attributeGroup>
       <xs:attributeGroup name="base-attribute-extensions">
          <xs:attributeGroup ref="base-attribute-extensions"/>
-         <xs:attributeGroup ref="lceAnswerAtt-d-attribute"/>
+         <xs:attributeGroup ref="lceAnswertypeAtt-d-attribute"/>
          <xs:attributeGroup ref="lceOrientationAtt-d-attribute"/>
          <xs:attributeGroup ref="lceEduAtt-d-attribute"/>
+         <xs:attributeGroup ref="lceAnswerlenghAtt-d-attribute"/>
+         <xs:attributeGroup ref="lcePlaceholderAtt-d-attribute"/>
       </xs:attributeGroup>
    </xs:redefine>
    <xs:redefine schemaLocation="urn:oasis:names:tc:dita:xsd:metaDeclGrp.xsd:1.3">

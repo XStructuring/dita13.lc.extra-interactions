@@ -1,24 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <learningAssessment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:2.3" id="x01">
+    xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:2.3" id="ex01">
     <title>Question with explanation</title>
     <learningAssessmentbody>
         <lcInteraction>
             <lcSingleSelect2>
-                <lcQuestion2><p>What is the capital of The Netherlands?</p></lcQuestion2>
-                <lceExplanation><p>The capital doesn't have to be the town where the goverment is placed.</p></lceExplanation>
+                <lcQuestion2><p>Look at the figure, there are 5 triangles. Which triangle is
+                        equilateral?</p><image href="triangles.jpg" id="image_ujq_mc3_g4b"
+                    /></lcQuestion2>
+                <lceExplanation><p>A triangle is equilateral when all angles are 60 degrees, triangle A is the only triangle with angles of 60 degrees.</p></lceExplanation>
                 <lcAnswerOptionGroup2>
                     <lcAnswerOption2>
-                        <lcAnswerContent2><p>Den Hague</p></lcAnswerContent2>
+                        <lcAnswerContent2><p>A</p></lcAnswerContent2><lcCorrectResponse2/>
                     </lcAnswerOption2>
                     <lcAnswerOption2>
-                        <lcAnswerContent2><p>Amsterdam</p></lcAnswerContent2><lcCorrectResponse2/>
+                        <lcAnswerContent2><p>B</p></lcAnswerContent2>
                     </lcAnswerOption2>
                     <lcAnswerOption2>
-                        <lcAnswerContent2><p>Rotterdam</p></lcAnswerContent2>
+                        <lcAnswerContent2><p>C</p></lcAnswerContent2>
                     </lcAnswerOption2>
                     <lcAnswerOption2>
-                        <lcAnswerContent2><p>Utrecht</p></lcAnswerContent2>
+                        <lcAnswerContent2><p>D</p></lcAnswerContent2>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2>
+                        <lcAnswerContent2><p>E</p></lcAnswerContent2>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2>
+                        <lcAnswerContent2><p>F</p></lcAnswerContent2>
                     </lcAnswerOption2>
                 </lcAnswerOptionGroup2>
             </lcSingleSelect2>

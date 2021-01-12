@@ -18,14 +18,14 @@
 
   <xs:group name="lce-refpoint-d-ph">
     <xs:choice>
-      <xs:element ref="refpoint" />
+      <xs:element ref="lceRefpoint" />
     </xs:choice>
   </xs:group>
   
-  <xs:group name="refpoint">
+  <xs:group name="lceRefpoint">
       <xs:sequence>
          <xs:choice>
-            <xs:element ref="refpoint"/>
+           <xs:element ref="lceRefpoint"/>
          </xs:choice>
       </xs:sequence>
    </xs:group>
@@ -33,23 +33,23 @@
    
   <!-- Basic form: Single Effect Formatting Phrases -->
   
-  <xs:element name="refpoint">
+  <xs:element name="lceRefpoint">
     <xs:annotation>
-      <xs:documentation>The refpoint element is an empty element that can be used as an link-target for a point somewhere in the text.</xs:documentation>
+      <xs:documentation>The lceRefpoint element is an empty element that can be used as an link-target for a point somewhere in the text.</xs:documentation>
     </xs:annotation>
     <xs:complexType>
       <xs:complexContent>
-        <xs:extension base="refpoint.class">
-          <xs:attribute ref="class" default="- topic/ph lce-refpoint-d/refpoint "/>
+        <xs:extension base="lceRefpoint.class">
+          <xs:attribute ref="class" default="- topic/ph lce-refpoint-d/lceRefpoint "/>
         </xs:extension>
       </xs:complexContent>
     </xs:complexType>
   </xs:element>
-  <xs:complexType name="refpoint.class">
+  <xs:complexType name="lceRefpoint.class">
     <xs:sequence/>
-    <xs:attributeGroup ref="refpoint.attributes"/>
+    <xs:attributeGroup ref="lceRefpoint.attributes"/>
   </xs:complexType>
-  <xs:attributeGroup name="refpoint.attributes">
+  <xs:attributeGroup name="lceRefpoint.attributes">
     <xs:attribute name="id" type="xs:string"/>
   </xs:attributeGroup>
 

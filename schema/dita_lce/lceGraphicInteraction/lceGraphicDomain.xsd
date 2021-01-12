@@ -12,6 +12,7 @@
                 <xs:element ref="lceDrawing"/>
                 <xs:element ref="lceGraphicTextEntry"/>
                 <xs:element ref="lceGraphicAssociate"/>
+                <xs:element ref="lceHotspot"></xs:element>
             </xs:choice>
         </xs:sequence>
     </xs:group>
@@ -22,6 +23,7 @@
                 <xs:element ref="lceDrawing"/>
                 <xs:element ref="lceGraphicTextEntry"/>
                 <xs:element ref="lceGraphicAssociate"/>
+                <xs:element ref="lceHotspot"></xs:element>
             </xs:choice>
         </xs:sequence>
     </xs:group>

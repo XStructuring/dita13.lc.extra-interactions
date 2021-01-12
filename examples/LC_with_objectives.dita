@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningContent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningContent.xsd:3.0" id="ob01">
+    <title>Objectives</title>
+    <learningContentbody>
+        <lcObjectives>
+            <title>Mail basics</title>
+            <lcObjectivesStem>When you complete this lesson, you'll know how to perform
+                the following mail basics:</lcObjectivesStem>
+            <lcObjectivesGroup>
+                <lcObjective>Viewing the inbox</lcObjective>
+                <lcObjective>Opening a message</lcObjective>
+                <lcObjective>Moving messages to a folder</lcObjective>
+            </lcObjectivesGroup>
+        </lcObjectives>
+    </learningContentbody>
+</learningContent>

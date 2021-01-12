@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningAssessment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0" id="ex02">
+    <title>Hotspot with explanation</title>
+    <learningAssessmentbody>
+        <lcIntro>The lceHotspot is more or less the same as the lcHotspot2 beside that the new LCe
+            element lceExplanation is allowed. That couldn't be added to the lcHotspot2 element
+            because of its tight content model.</lcIntro>
+        <lcInteraction>
+            <lceHotspot>
+                <lcQuestion2><p>Which of these plantes is Saturn?</p>
+                    <p>Click on it.</p></lcQuestion2>
+                <lceExplanation>
+                    <p>The Saturn is different then all other planets. Saturn is the sixth planet
+                        from the Sun and the second-largest in the Solar System, after Jupiter. It
+                        is a gas giant. The planet's most famous feature is its prominent ring
+                        system, which is composed mostly of ice particles, with a smaller amount of
+                        rocky debris and dust. This is the only planet with a ring</p>
+                    <image href="Saturnus.jpg" id="image_s2x_1d3_g4b"/>
+                </lceExplanation>
+                <lcHotspotMap2>
+                    <image href="planets.jpg" id="image_wmy_tsx_ddb"/>
+                    <lcArea2>
+                        <lcAreaShape2>rect</lcAreaShape2>
+                        <lcAreaCoords2>49, 51, 50, 30</lcAreaCoords2>
+                        <lcCorrectResponse2/>
+                    </lcArea2>
+                    <lcArea2>
+                        <lcAreaShape2>rect</lcAreaShape2>
+                        <lcAreaCoords2>19, 69, 50, 30</lcAreaCoords2>
+                    </lcArea2>
+                    <lcArea2>
+                        <lcAreaShape2>rect</lcAreaShape2>
+                        <lcAreaCoords2>65, 35, 30, 30</lcAreaCoords2>
+                    </lcArea2>
+                    <lcArea2>
+                        <lcAreaShape2>rect</lcAreaShape2>
+                        <lcAreaCoords2>90, 30, 30, 30</lcAreaCoords2>
+                    </lcArea2>
+                </lcHotspotMap2>
+            </lceHotspot>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment>

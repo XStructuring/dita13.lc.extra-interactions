@@ -63,6 +63,12 @@
     
     <uri name="lceContentclassAttsDomain.xsd" uri="lceContentclassAttsDomain.xsd" />
     <uri name="urn:dita13lce:names:xsd:lceContentclassAttsDomain.xsd" uri="lceContentclassAttsDomain.xsd" />
+    
+    <system systemId="lcePlaceholderAttsDomain.xsd" uri="lcePlaceholderAttsDomain.xsd" />
+    <system systemId="urn:dita13lce:names:xsd:lcePlaceholderAttsDomain.xsd" uri="lcePlaceholderAttsDomain.xsd" />
+    
+    <uri name="lcePlaceholderAttsDomain.xsd" uri="lcePlaceholderAttsDomain.xsd" />
+    <uri name="urn:dita13lce:names:xsd:lcePlaceholderAttsDomain.xsd" uri="lcePlaceholderAttsDomain.xsd" />
   </group>
   
   <group xml:base="lceBox/">
@@ -155,6 +161,12 @@
     
     <uri name="lceGTEDomain.xsd" uri="lceGTEDomain.xsd" />
     <uri name="urn:dita13lce:names:xsd:lceGTEDomain.xsd" uri="lceGTEDomain.xsd" />
+    
+    <system systemId="lceHotspotDomain.xsd" uri="lceHotspotDomain.xsd" />
+    <system systemId="urn:dita13lce:names:xsd:lceHotspotDomain.xsd" uri="lceHotspotDomain.xsd" />
+    
+    <uri name="lceHotspotDomain.xsd" uri="lceHotspotDomain.xsd" />
+    <uri name="urn:dita13lce:names:xsd:lceHotspotDomain.xsd" uri="lceHotspotDomain.xsd" />
   </group>
  
   <group xml:base="lceInlineInteraction/">

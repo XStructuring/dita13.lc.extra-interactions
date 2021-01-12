@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:map.xsd">
-    <title>Map_with_interactions.ditamap</title>
+    <title>Learing content education</title>
     <topicgroup>
         <topicmeta>
-            <navtitle>LCE</navtitle>
+            <navtitle>Example LCE learningContent topics</navtitle>
+        </topicmeta>
+        <topicref href="LC_with_objectives.dita"/>
+        <topicref href="LC_with_theory.dita"/>
+    </topicgroup>
+    <topicgroup>
+        <topicmeta>
+            <navtitle>Example LCE learningAssessment topics</navtitle>
         </topicmeta>
         <topicref href="lceDrawing.dita"/>
         <topicref href="lceGapMatch.dita"/>
@@ -20,10 +27,13 @@
         <topicref href="lceChainMatching.dita"/>
         <topicref href="lceGaphicAssociate.dita"/>
         <topicref href="lceGraphicTextEntry_counting-pyramid.dita"/>
+        <topicref href="lcSingleSelect2_with_explanation.dita"/>
+        <topicref href="lceHotspot.dita"/>
+        <topicref href="lceBox_in_question_intro.dita"/>
     </topicgroup>
     <topicgroup>
         <topicmeta>
-            <navtitle>DITA L+T</navtitle>
+            <navtitle>Example DITA L+T learningAssessment topics</navtitle>
         </topicmeta>
         <topicref href="lcHotspot.dita"/>
         <topicref href="lcMatching2.dita"/>

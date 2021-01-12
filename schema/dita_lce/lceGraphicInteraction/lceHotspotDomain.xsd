@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"> 
+    <xs:annotation>
+        <xs:appinfo>
+            <dita:domainsModule xmlns:dita="http://dita.oasis-open.org/architecture/2005/">(lce lcehotspot-d)</dita:domainsModule>
+        </xs:appinfo>
+    </xs:annotation>
+    
+    <xs:group name="lceHotspot">
+        <xs:sequence>
+            <xs:choice>
+                <xs:element ref="lceHotspot"/>
+            </xs:choice>
+        </xs:sequence>
+    </xs:group>
+    
+    
+    
+<!-- ================================================================= -->
+    
+    <xs:element name="lceHotspot">
+        <xs:annotation>
+            <xs:documentation>In a lceHotspot interaction, the learner clicks on a region of the screen to indicate a choice. The LCE variant also allows the LCE element lceExplanation. That's not possible in the DITA L+T lcHotspot2</xs:documentation>
+        </xs:annotation>
+        <xs:complexType>
+            <xs:complexContent>
+                <xs:extension base="lceHotspot.class">
+                    <xs:attribute ref="class"
+                        default="+ topic/div learningInteractionBase2-d/lcInteractionBase2 lcehotspot-d/lceHotspot "/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+    </xs:element>
+    <xs:complexType name="lceHotspot.class">
+        <xs:sequence>
+            <xs:group ref="lceHotspot.content"/>
+        </xs:sequence>
+        <xs:attributeGroup ref="lceHotspot.attributes"/>
+    </xs:complexType>
+    <xs:group name="lceHotspot.content">
+        <xs:sequence>
+            <xs:group ref="lcInteractionLabel2" minOccurs="0"/>
+            <xs:group ref="lcQuestion2"/>
+            <xs:group ref="lceExplanation" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:group ref="lcHotspotMap2"/>
+            <xs:group ref="lcFeedbackIncorrect2" minOccurs="0"/>
+            <xs:group ref="lcFeedbackCorrect2" minOccurs="0"/>
+            <xs:group ref="data" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:group>
+    <xs:attributeGroup name="lceHotspot.attributes">
+        <xs:attribute name="id" type="xs:NMTOKEN"/>
+        <xs:attributeGroup ref="conref-atts"/>
+        <xs:attributeGroup ref="select-atts"/>
+        <xs:attributeGroup ref="localization-atts"/>
+        <xs:attribute name="outputclass" type="xs:string"/>
+        <xs:attributeGroup ref="global-atts"/>
+    </xs:attributeGroup>
+
+</xs:schema>

@@ -8,16 +8,16 @@
   
     <xs:annotation>
       <xs:appinfo>
-        <dita:domainsModule xmlns:dita="http://dita.oasis-open.org/architecture/2005/">a(base answertype)</dita:domainsModule>
+        <dita:domainsModule xmlns:dita="http://dita.oasis-open.org/architecture/2005/">a(base answeratts)</dita:domainsModule>
       </xs:appinfo>
       <xs:documentation/>
       
     </xs:annotation>
   
-  <xs:attributeGroup name="lceAnswerAtt-d-attribute">
+  <xs:attributeGroup name="lceAnswertypeAtt-d-attribute">
     <xs:attribute name="answertype" type="answertype-atts.class" use="optional">
       <xs:annotation>
-        <xs:documentation>this attribute should only be uesd with answer elements.
+        <xs:documentation>This attribute should only be uesd with answer elements.
         </xs:documentation>
       </xs:annotation>
     </xs:attribute>
@@ -27,6 +27,26 @@
     <xs:restriction base="xs:string">
       <xs:enumeration value="predefined"/>
       <xs:enumeration value="fixed"/>
+    </xs:restriction>
+  </xs:simpleType>
+  
+  <xs:attributeGroup name="lceAnswerlenghAtt-d-attribute">
+    <xs:attribute name="answerlengh" type="answerlengh-atts.class" use="optional">
+      <xs:annotation>
+        <xs:documentation>This attribute should only be uesd with gap answer elements. If the lengh for a gab is not defined than the output applicatie has to.
+        </xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+  </xs:attributeGroup>
+  
+  <xs:simpleType name="answerlengh-atts.class">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="xs"/>
+      <xs:enumeration value="s"/>
+      <xs:enumeration value="m"/>
+      <xs:enumeration value="l"/>
+      <xs:enumeration value="xl"/>
+      
     </xs:restriction>
   </xs:simpleType>
   

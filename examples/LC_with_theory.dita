@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningContent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningContent.xsd:3.0" id="theory01">
+    <title>Theory</title>
+    <learningContentbody>
+        <lcIntro><p>The intro contains an introduction of the subject following.</p></lcIntro>
+        <section>
+            <title>Secion title (optional)</title>
+            <p>Some content</p>
+        </section>
+        <section>
+            <title>Special content</title>
+            <lq contentclass="poem">
+                <p>
+                    <lines>My bounty is as boundless as the sea,</lines>
+                    <lines>My love as deep; the more I give to thee,</lines>
+                    <lines>The more I have, for both are infinite.</lines>
+                </p>
+                <p contentclass="source">Shakespeare: Romeo and Juliet</p>
+            </lq>
+            <lceBox contentclass="knowledge" frame="all">
+                <p>Use the present progressive tense for current action</p>
+            </lceBox>
+            <div contentclass="dialog" outputclass="bubbles">
+                <p><ph>Hans</ph><q>Hello Dolly</q></p>
+                <p><ph>Dolly</ph><q>Hi Hans. How are you?</q></p>
+            </div>
+        </section>
+        <section contentclass="excerpt" outputclass="linenumbers">
+            <title><ph>Umberto Eco</ph>Im Wald der Fiktionen. Sechs Streifzüge durch die Literatur</title>
+            <p>Es war einmal … „ein König!“, werden meine lieben Zuhörer sofort sagen. Richtig,
+                diesmal habt ihr’s erraten. Es war einmal der letzte König von Italien, Vittorio
+                Emanuele III., der nach dem Zweiten Weltkrieg ins Exil geschickt wurde. Dieser König
+                stand im Ruf, ein Mann von geringer humanistischer Bildung zu sein, mehr an
+                wirtschaftlichen und militärischen Fragen interessiert, wenn auch ein
+                leidenschaftlicher Sammler alter Münzen. Eines Tages, so wird erzählt, musste er
+                eine Gemäldeausstellung eröffnen und war also gezwungen, durch die Säle zu gehen und
+                die Bilder zu bewundern. Vor einer idyllischen Landschaft, die ein liebliches Tal
+                mit einem Dorf am Berghang zeigte, stand er lange betrachtend, dann fragte er den
+                Direktor der Ausstellung: „Wie viele Einwohner hat dieses Dorf?“</p>
+        </section>
+    </learningContentbody>
+</learningContent>

@@ -3,8 +3,8 @@
     xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:2.3" id="gte2">
     <title>Number pyramid</title>
     <learningAssessmentbody>
-        <lcIntro><p>The number pyramid is built as follows: add two number in one row, which are standing
-                next to each other. The result of this is the number above.</p></lcIntro>
+        <lcIntro><p>The number pyramid is built as follows: add two number in one row, which are
+                standing next to each other. The result of this is the number above.</p></lcIntro>
         <lcInteraction>
             <lceGraphicTextEntry>
                 <lcQuestion2><p>Fill in the missing numbers.</p></lcQuestion2>
@@ -19,17 +19,15 @@
                         <lcAreaCoords2>110,410,50,50</lcAreaCoords2>
                     </lceAreaGTE>
                     <lceAreaGTE>
-                        <lceAnswerOptionInline>
+                        <lceAnswerOptionInline answertype="predefined">
                             <lceAnswerContentInline>2</lceAnswerContentInline>
-                            <lcCorrectResponse2/>
                         </lceAnswerOptionInline>
                         <lcAreaShape2>rect</lcAreaShape2>
                         <lcAreaCoords2>270,410,50,50</lcAreaCoords2>
                     </lceAreaGTE>
                     <lceAreaGTE>
-                        <lceAnswerOptionInline>
+                        <lceAnswerOptionInline answertype="fixed">
                             <lceAnswerContentInline>3</lceAnswerContentInline>
-                            <lceStartEntry/>
                         </lceAnswerOptionInline>
                         <lcAreaShape2>rect</lcAreaShape2>
                         <lcAreaCoords2>430,410,50,50</lcAreaCoords2>
@@ -51,9 +49,8 @@
                         <lcAreaCoords2>180,280,50,50</lcAreaCoords2>
                     </lceAreaGTE>
                     <lceAreaGTE>
-                        <lceAnswerOptionInline>
+                        <lceAnswerOptionInline answertype="fixed">
                             <lceAnswerContentInline>5</lceAnswerContentInline>
-                            <lceStartEntry/>
                         </lceAnswerOptionInline>
                         <lcAreaShape2>rect</lcAreaShape2>
                         <lcAreaCoords2>380,280,50,50</lcAreaCoords2>
@@ -67,9 +64,8 @@
                         <lcAreaCoords2>580,280,50,50</lcAreaCoords2>
                     </lceAreaGTE>
                     <lceAreaGTE>
-                        <lceAnswerOptionInline>
+                        <lceAnswerOptionInline answertype="fixed">
                             <lceAnswerContentInline>10</lceAnswerContentInline>
-                            <lceStartEntry/>
                         </lceAnswerOptionInline>
                         <lcAreaShape2>rect</lcAreaShape2>
                         <lcAreaCoords2>250,180,50,50</lcAreaCoords2>
@@ -83,9 +79,8 @@
                         <lcAreaCoords2>470,180,50,50</lcAreaCoords2>
                     </lceAreaGTE>
                     <lceAreaGTE>
-                        <lceAnswerOptionInline>
+                        <lceAnswerOptionInline answertype="fixed">
                             <lceAnswerContentInline>21</lceAnswerContentInline>
-                            <lceStartEntry/>
                         </lceAnswerOptionInline>
                         <lcAreaShape2>rect</lcAreaShape2>
                         <lcAreaCoords2>50,350,50,50</lcAreaCoords2>

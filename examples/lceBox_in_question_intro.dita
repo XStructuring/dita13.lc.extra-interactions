@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningAssessment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0" id="box01">
+    <title>Question with box</title>
+    <learningAssessmentbody>
+        <lcIntro>
+            <p>Shakespeare’s plays were immediately big hits! He wrote different kinds of plays, all
+                of which could be divided into three categories:
+                <ul>
+                    <li><p>Tragedy – including Hamlet,
+                        Othello, King Lear and Romeo and Juliet</p></li>
+                    <li><p>Comedy – including Twelfth Night and the The
+                        Taming of the Shrew</p></li>
+                    <li><p>History – including Henry IV, Henry V and Richard III</p></li>
+                </ul></p>
+            <lceBox frame="all" expanse="column">
+                <title>Did you know?</title>
+                <p>Plays in Shakespeare’s time were different to the ones we have today. There were
+                    no female actors (women’s parts were played by men!), and audiences could be
+                    very rowdy. They would shout, boo and even throw food at the actors they didn’t
+                    like!</p>
+            </lceBox>
+        </lcIntro>
+        <lcInteraction>
+            <lcSingleSelect2>
+                <lcQuestion2><p>From which play is this quote:</p>
+                    <lq><p>The course of true love never did run smooth.</p></lq></lcQuestion2>
+                <lcAnswerOptionGroup2>
+                    <lcAnswerOption2>
+                        <lcAnswerContent2><p>A Midsummer Night’s Dream</p></lcAnswerContent2><lcCorrectResponse2/>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2>
+                        <lcAnswerContent2><p>Twelfth Night</p></lcAnswerContent2>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2>
+                        <lcAnswerContent2><p>Romeo and Juliet</p></lcAnswerContent2>
+                    </lcAnswerOption2>
+                </lcAnswerOptionGroup2>
+            </lcSingleSelect2>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment>
