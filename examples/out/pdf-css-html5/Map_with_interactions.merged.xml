@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<map xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" cascade="merge" class="- map/map " domains="(topic abbrev-d) (topic delay-d) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (map mapgroup-d) (topic markup-d xml-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) a(props deliveryTarget)" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:map.xsd" xtrc="map:1;3:73" xtrf="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/dita13.lc.extra-interactions/examples/Map_with_interactions.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Learing content education</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/title ">Learing content education</title>
+    <topicmeta xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicmeta "/><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_1" type="learningContent"><topicmeta class="- map/topicmeta " data-topic-id="ob01"><resourceid appid="ob01" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Objectives</navtitle><?ditaot gentext?></topicmeta></topicref><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_2" type="learningContent"><topicmeta class="- map/topicmeta " data-topic-id="theory01"><resourceid appid="theory01" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Theory</navtitle><?ditaot gentext?></topicmeta></topicref>
+    <topicmeta xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicmeta "/><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_3" type="learningAssessment"><topicmeta class="- map/topicmeta " data-topic-id="drawing"><resourceid appid="drawing" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Points</navtitle><?ditaot gentext?></topicmeta></topicref><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_4" type="learningAssessment"><topicmeta class="- map/topicmeta " data-topic-id="gm1"><resourceid appid="gm1" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Richard III</navtitle><?ditaot gentext?></topicmeta></topicref><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_5" type="learningAssessment"><topicmeta class="- map/topicmeta " data-topic-id="ggm1"><resourceid appid="ggm1" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Instruments</navtitle><?ditaot gentext?></topicmeta></topicref><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_6" type="learningAssessment"><topicmeta class="- map/topicmeta " data-topic-id="gte"><resourceid appid="gte" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Airport tags</navtitle><?ditaot gentext?></topicmeta></topicref><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_7" type="learningAssessment"><topicmeta class="- map/topicmeta " data-topic-id="ht1"><resourceid appid="ht1" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Olympic Games sponsors</navtitle><?ditaot gentext?></topicmeta></topicref><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_8" type="learningAssessment"><topicmeta class="- map/topicmeta " data-topic-id="lc1"><resourceid appid="lc1" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Richard III</navtitle><?ditaot gentext?></topicmeta></topicref><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_9" type="learningAssessment"><topicmeta class="- map/topicmeta " data-topic-id="mm1"><resourceid appid="mm1" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Shakespeare</navtitle><?ditaot gentext?></topicmeta></topicref><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_10" type="learningAssessment"><topicmeta class="- map/topicmeta " data-topic-id="pq"><resourceid appid="pq" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Write a manual</navtitle><?ditaot gentext?></topicmeta></topicref><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_11" type="learningAssessment"><topicmeta class="- map/topicmeta " data-topic-id="acrostic"><resourceid appid="acrostic" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Animals</navtitle><?ditaot gentext?></topicmeta></topicref><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_12" type="learningAssessment"><topicmeta class="- map/topicmeta " data-topic-id="cw1"><resourceid appid="cw1" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">Vegetables</navtitle><?ditaot gentext?></topicmeta></topicref><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_13" type="learningAssessment"><topicmeta class="- map/topicmeta " data-topic-id="temw"><resourceid appid="temw" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Mrs White</navtitle><?ditaot gentext?></topicmeta></topicref><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_14" type="learningAssessment"><topicmeta class="- map/topicmeta " data-topic-id="x2"><resourceid appid="x2" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Shakespeare plays</navtitle><?ditaot gentext?></topicmeta></topicref><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_15" type="learningAssessment"><topicmeta class="- map/topicmeta " data-topic-id="ga1"><resourceid appid="ga1" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">New routes</navtitle><?ditaot gentext?></topicmeta></topicref><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_16" type="learningAssessment"><topicmeta class="- map/topicmeta " data-topic-id="gte2"><resourceid appid="gte2" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">Number pyramid</navtitle><?ditaot gentext?></topicmeta></topicref><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_17" type="learningAssessment"><topicmeta class="- map/topicmeta " data-topic-id="ex01"><resourceid appid="ex01" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_17" class="- topic/navtitle ">Question with explanation</navtitle><?ditaot gentext?></topicmeta></topicref><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_18" type="learningAssessment"><topicmeta class="- map/topicmeta " data-topic-id="ex02"><resourceid appid="ex02" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_18" class="- topic/navtitle ">Hotspot with explanation</navtitle><?ditaot gentext?></topicmeta></topicref><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_19" type="learningAssessment"><topicmeta class="- map/topicmeta " data-topic-id="box01"><resourceid appid="box01" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_19" class="- topic/navtitle ">Question with box</navtitle><?ditaot gentext?></topicmeta></topicref>
+    <topicmeta xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicmeta "/><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_20" type="learningAssessment"><topicmeta class="- map/topicmeta " data-topic-id="hotspot"><resourceid appid="hotspot" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_20" class="- topic/navtitle ">Planets</navtitle><?ditaot gentext?></topicmeta></topicref><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_21" type="learningAssessment"><topicmeta class="- map/topicmeta " data-topic-id="matching"><resourceid appid="matching" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_21" class="- topic/navtitle ">City and country</navtitle><?ditaot gentext?></topicmeta></topicref><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_22" type="learningAssessment"><topicmeta class="- map/topicmeta " data-topic-id="ms"><resourceid appid="ms" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_22" class="- topic/navtitle ">Water</navtitle><?ditaot gentext?></topicmeta></topicref><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_23" type="learningAssessment"><topicmeta class="- map/topicmeta " data-topic-id="open"><resourceid appid="open" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_23" class="- topic/navtitle ">Postcard</navtitle><?ditaot gentext?></topicmeta></topicref><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_24" type="learningAssessment"><topicmeta class="- map/topicmeta " data-topic-id="order"><resourceid appid="order" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_24" class="- topic/navtitle ">Bremer Stadtmusikanten</navtitle><?ditaot gentext?></topicmeta></topicref><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_25" type="learningAssessment"><topicmeta class="- map/topicmeta " data-topic-id="ss"><resourceid appid="ss" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_25" class="- topic/navtitle ">The Netherlands</navtitle><?ditaot gentext?></topicmeta></topicref><topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_26" type="learningAssessment"><topicmeta class="- map/topicmeta " data-topic-id="tf"><resourceid appid="tf" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_26" class="- topic/navtitle ">Quiz</navtitle><?ditaot gentext?></topicmeta></topicref>
+</opentopic:map><learningContent xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase learningContent/learningContent " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="ob01" oid="ob01" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningContent.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Objectives</ph></title>
+    <learningContentbody class="- topic/body  learningBase/learningBasebody learningContent/learningContentbody ">
+        <lcObjectives class="- topic/section learningBase/lcObjectives ">
+            <title class="- topic/title ">Mail basics</title>
+            <lcObjectivesStem class="- topic/ph learningBase/lcObjectivesStem ">When you complete this lesson, you'll know how to perform
+                the following mail basics:</lcObjectivesStem>
+            <lcObjectivesGroup class="- topic/ul learningBase/lcObjectivesGroup ">
+                <lcObjective class="- topic/li learningBase/lcObjective ">Viewing the inbox</lcObjective>
+                <lcObjective class="- topic/li learningBase/lcObjective ">Opening a message</lcObjective>
+                <lcObjective class="- topic/li learningBase/lcObjective ">Moving messages to a folder</lcObjective>
+            </lcObjectivesGroup>
+        </lcObjectives>
+    </learningContentbody>
+</learningContent><learningContent xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase learningContent/learningContent " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="theory01" oid="theory01" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningContent.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Theory</ph></title>
+    <learningContentbody class="- topic/body  learningBase/learningBasebody learningContent/learningContentbody ">
+        <lcIntro class="- topic/section learningBase/lcIntro "><p class="- topic/p ">The intro contains an introduction of the subject following.</p></lcIntro>
+        <section class="- topic/section ">
+            <title class="- topic/title ">Secion title (optional)</title>
+            <p class="- topic/p ">Some content</p>
+        </section>
+        <section class="- topic/section ">
+            <title class="- topic/title ">Special content</title>
+            <lq class="- topic/lq " contentclass="poem">
+                <p class="- topic/p ">
+                    <lines class="- topic/lines " space="preserve">My bounty is as boundless as the sea,</lines>
+                    <lines class="- topic/lines " space="preserve">My love as deep; the more I give to thee,</lines>
+                    <lines class="- topic/lines " space="preserve">The more I have, for both are infinite.</lines>
+                </p>
+                <p class="- topic/p " contentclass="source">Shakespeare: Romeo and Juliet</p>
+            </lq>
+            <lceBox class="- topic/fig lcebox-d/lceBox " contentclass="knowledge" frame="all"><p class="- topic/p ">Use the present progressive tense for current action</p></lceBox>
+            <div class="- topic/div " contentclass="dialog" outputclass="bubbles">
+                <p class="- topic/p "><ph class="- topic/ph ">Hans</ph><q class="- topic/q ">Hello Dolly</q></p>
+                <p class="- topic/p "><ph class="- topic/ph ">Dolly</ph><q class="- topic/q ">Hi Hans. How are you?</q></p>
+            </div>
+        </section>
+        <section class="- topic/section " contentclass="excerpt" outputclass="linenumbers">
+            <title class="- topic/title "><ph class="- topic/ph ">Umberto Eco</ph>Im Wald der Fiktionen. Sechs Streifzüge durch die Literatur</title>
+            <p class="- topic/p ">Es war einmal … „ein König!“, werden meine lieben Zuhörer sofort sagen. Richtig,
+                diesmal habt ihr’s erraten. Es war einmal der letzte König von Italien, Vittorio
+                Emanuele III., der nach dem Zweiten Weltkrieg ins Exil geschickt wurde. Dieser König
+                stand im Ruf, ein Mann von geringer humanistischer Bildung zu sein, mehr an
+                wirtschaftlichen und militärischen Fragen interessiert, wenn auch ein
+                leidenschaftlicher Sammler alter Münzen. Eines Tages, so wird erzählt, musste er
+                eine Gemäldeausstellung eröffnen und war also gezwungen, durch die Säle zu gehen und
+                die Bilder zu bewundern. Vor einer idyllischen Landschaft, die ein liebliches Tal
+                mit einem Dorf am Berghang zeigte, stand er lange betrachtend, dann fragte er den
+                Direktor der Ausstellung: „Wie viele Einwohner hat dieses Dorf?“</p>
+        </section>
+    </learningContentbody>
+</learningContent><learningAssessment xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase     learningAssessment/learningAssessment " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="drawing" oid="drawing" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Points</ph></title>
+    <learningAssessmentbody class="- topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody ">
+        <lcInteraction class="- topic/section learningBase/lcInteraction ">
+            <lceDrawing class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 lcedraw-d/lceDrawing ">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 "><p class="- topic/p ">Draw the points <i class="+ topic/ph hi-d/i ">A</i> (2,3) and <i class="+ topic/ph hi-d/i ">B</i> (-1, -2) on the given paper.</p></lcQuestion2>
+                <lceDrawingImage class="+ topic/fig learningInteractionBase2-d/fig lcedraw-d/lceDrawingImage "><image class="- topic/image " href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/dita13.lc.extra-interactions/examples/mm-paper.jpg" id="unique_3_Connect_42_image_ifx_nbj_1db" nd:nd-id="image_ifx_nbj_1db" placement="inline"/></lceDrawingImage>
+                <lceDrawingAnswer class="+ topic/div learningInteractionBase2-d/div lcedraw-d/lceDrawingAnswer ">
+                    <p class="- topic/p ">Did you draw the x-axis and y-axis? </p>
+                    <p class="- topic/p "><i class="+ topic/ph hi-d/i ">A</i> (2,3) means the point with x=2 and y=3.</p>
+                </lceDrawingAnswer>
+            </lceDrawing>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment><learningAssessment xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase     learningAssessment/learningAssessment " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="gm1" oid="gm1" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Richard III</ph></title>
+    <learningAssessmentbody class="- topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody ">
+        <lcInteraction class="- topic/section learningBase/lcInteraction ">
+            <lceGapMatch class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 lcegapmatch-d/lceGapMatch ">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 "><p class="- topic/p ">Identify the missing words in this famous quote from Shakespeare's Richard III.</p></lcQuestion2>
+                <lceInlineInteractionText class="+ topic/div lceinlineinteraction-d/lceInlineInteractionText ">
+                    <p class="- topic/p ">Now is the <lceGap class="+ topic/xref learningInteractionBase2-d/xref  lcegapinteraction-d/lceGap " href="#unique_4_Connect_42_g1" type="lceGapOption"><?ditaot gentext?></lceGap> of our discontent</p>
+                    <p class="- topic/p ">Made glorious <lceGap class="+ topic/xref learningInteractionBase2-d/xref  lcegapinteraction-d/lceGap " href="#unique_4_Connect_42_g2" type="lceGapOption"><?ditaot gentext?></lceGap> by this sun of York;</p>
+                    <p class="- topic/p ">And all the clouds that lour'd upon our house</p>
+                    <p class="- topic/p ">In the deep bosom of the ocean buried.</p>
+                </lceInlineInteractionText>
+                <lceGapOptionGroup class="+ topic/p learningInteractionBase2-d/p lcegapinteraction-d/lceGapOptionGroup ">
+                    <lceGapOption class="+ topic/ph learningInteractionBase2-d/ph lcegapinteraction-d/lceGapOption " id="unique_4_Connect_42_g1" nd:nd-id="g1">
+                        <lceGapContent class="+ topic/ph learningInteractionBase2-d/ph lcegapinteraction-d/lceGapContent ">winter</lceGapContent>
+                    </lceGapOption>
+                    <lceGapOption class="+ topic/ph learningInteractionBase2-d/ph lcegapinteraction-d/lceGapOption ">
+                        <lceGapContent class="+ topic/ph learningInteractionBase2-d/ph lcegapinteraction-d/lceGapContent ">spring</lceGapContent>
+                    </lceGapOption>
+                  <lceGapOption class="+ topic/ph learningInteractionBase2-d/ph lcegapinteraction-d/lceGapOption " id="unique_4_Connect_42_g2" nd:nd-id="g2">
+                        <lceGapContent class="+ topic/ph learningInteractionBase2-d/ph lcegapinteraction-d/lceGapContent ">summer</lceGapContent>
+                    </lceGapOption>
+                    <lceGapOption class="+ topic/ph learningInteractionBase2-d/ph lcegapinteraction-d/lceGapOption ">
+                        <lceGapContent class="+ topic/ph learningInteractionBase2-d/ph lcegapinteraction-d/lceGapContent ">autumn</lceGapContent>
+                    </lceGapOption>
+                </lceGapOptionGroup>
+            </lceGapMatch>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment><learningAssessment xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase     learningAssessment/learningAssessment " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="ggm1" oid="ggm1" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Instruments</ph></title>
+    <learningAssessmentbody class="- topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody ">
+        <lcInteraction class="- topic/section learningBase/lcInteraction ">
+            <lceGraphicGapMatch class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 lceggm-d/lceGraphicGapMatch ">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 ">
+                    <p class="- topic/p ">Do you know the following instrumnets?</p>
+                    <p class="- topic/p ">Drag and drop the right names to the instruments.</p>
+                </lcQuestion2>
+                <lceGGMMap class="+ topic/fig learningInteractionBase2-d/fig lceggm-d/lceGGMMap "><image class="- topic/image " href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/dita13.lc.extra-interactions/examples/instrumenten.jpg" id="unique_5_Connect_42_image_tzr_fwm_1v" nd:nd-id="image_tzr_fwm_1v" placement="inline"/><lceAreaGGM class="+ topic/figgroup learningInteractionBase2-d/figgroup lceggm-d/lceAreaGGM ">
+                        <lceGap class="+ topic/xref learningInteractionBase2-d/xref  lcegapinteraction-d/lceGap " href="#unique_5_Connect_42_g1" type="lceGapOption"><?ditaot gentext?></lceGap>
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">rect</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">59, 51, 80, 30</lcAreaCoords2>
+                    </lceAreaGGM><lceAreaGGM class="+ topic/figgroup learningInteractionBase2-d/figgroup lceggm-d/lceAreaGGM ">
+                        <lceGap class="+ topic/xref learningInteractionBase2-d/xref  lcegapinteraction-d/lceGap " href="#unique_5_Connect_42_g2" type="lceGapOption"><?ditaot gentext?></lceGap>
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">rect</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">216, 224, 80, 30</lcAreaCoords2>
+                    </lceAreaGGM><lceAreaGGM class="+ topic/figgroup learningInteractionBase2-d/figgroup lceggm-d/lceAreaGGM ">
+                        <lceGap class="+ topic/xref learningInteractionBase2-d/xref  lcegapinteraction-d/lceGap " href="#unique_5_Connect_42_g3" type="lceGapOption"><?ditaot gentext?></lceGap>
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">rect</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">430, 53, 80, 30</lcAreaCoords2>
+                    </lceAreaGGM></lceGGMMap>
+                <lceGapOptionGroup class="+ topic/p learningInteractionBase2-d/p lcegapinteraction-d/lceGapOptionGroup ">
+                    <lceGapOption class="+ topic/ph learningInteractionBase2-d/ph lcegapinteraction-d/lceGapOption " id="unique_5_Connect_42_g1" nd:nd-id="g1">
+                        <lceGapContent class="+ topic/ph learningInteractionBase2-d/ph lcegapinteraction-d/lceGapContent ">trumpet</lceGapContent>
+                    </lceGapOption>
+                    <lceGapOption class="+ topic/ph learningInteractionBase2-d/ph lcegapinteraction-d/lceGapOption " id="unique_5_Connect_42_g2" nd:nd-id="g2">
+                        <lceGapContent class="+ topic/ph learningInteractionBase2-d/ph lcegapinteraction-d/lceGapContent ">xylophone</lceGapContent>
+                    </lceGapOption>
+                    <lceGapOption class="+ topic/ph learningInteractionBase2-d/ph lcegapinteraction-d/lceGapOption " id="unique_5_Connect_42_g3" nd:nd-id="g3">
+                        <lceGapContent class="+ topic/ph learningInteractionBase2-d/ph lcegapinteraction-d/lceGapContent ">drum</lceGapContent>
+                    </lceGapOption>
+                    <lceGapOption class="+ topic/ph learningInteractionBase2-d/ph lcegapinteraction-d/lceGapOption " id="unique_5_Connect_42_g4" nd:nd-id="g4">
+                        <lceGapContent class="+ topic/ph learningInteractionBase2-d/ph lcegapinteraction-d/lceGapContent ">violin</lceGapContent>
+                    </lceGapOption>
+                </lceGapOptionGroup>
+            </lceGraphicGapMatch>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment><learningAssessment xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase     learningAssessment/learningAssessment " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="gte" oid="gte" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Airport tags</ph></title>
+    <learningAssessmentbody class="- topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody ">
+        <lcIntro class="- topic/section learningBase/lcIntro " id="unique_6_Connect_42_lcIntro_yvw_ydl_scb" nd:nd-id="lcIntro_yvw_ydl_scb">
+            <p class="- topic/p ">The International Air Transport Association assigns three-letter codes to identify
+                airports worldwide. For example, London Heathrow has code LHR.</p>
+        </lcIntro>
+        <lcInteraction class="- topic/section learningBase/lcInteraction " id="unique_6_Connect_42_lcInteraction_nlx_dll_scb" nd:nd-id="lcInteraction_nlx_dll_scb">
+            <lceGraphicTextEntry class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 lcegraphictextentry-d/lceGraphicTextEntry ">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 ">
+                    <p class="- topic/p ">Some of the labels on the following diagram are missing: can you fill in the
+                        correct three-letter codes for the unlabeled airports?</p>
+                </lcQuestion2>
+                <lceGTEMap class="+ topic/fig learningInteractionBase2-d/fig lcegraphictextentry-d/lceGTEMap " id="unique_6_Connect_42_lceGTEMap_b5h_pll_scb" nd:nd-id="lceGTEMap_b5h_pll_scb"><image class="- topic/image " href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/dita13.lc.extra-interactions/examples/GB_airports.jpg" id="unique_6_Connect_42_image_x4d_hml_scb" nd:nd-id="image_x4d_hml_scb" placement="inline"/><lceAreaGTE class="+ topic/figgroup learningInteractionBase2-d/figgroup lceggm-d/lceAreaGGM ">
+                        <lceAnswerOptionInline class="+ topic/ph learningInteractionBase2-d/ph lceentry-d/lceAnswerOptionInline ">
+                            <lceAnswerContentInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceAnswerContentInline  ">GLA</lceAnswerContentInline>
+                            <lcCorrectResponse2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcCorrectResponse2 " name="lcCorrectResponse2" value="lcCorrectResponse2"/>
+                        </lceAnswerOptionInline>
+                        <lceAnswerOptionInline class="+ topic/ph learningInteractionBase2-d/ph lceentry-d/lceAnswerOptionInline ">
+                            <lceAnswerContentInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceAnswerContentInline  ">gla</lceAnswerContentInline><lceAlternativeResponse class="+ topic/data learningInteractionBase2-d/data lceentry-d/lceAlternativeResponse "/>
+                        </lceAnswerOptionInline>
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">rect</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">12,108,39,121</lcAreaCoords2>
+                    </lceAreaGTE><lceAreaGTE class="+ topic/figgroup learningInteractionBase2-d/figgroup lceggm-d/lceAreaGGM ">
+                        <lceAnswerOptionInline class="+ topic/ph learningInteractionBase2-d/ph lceentry-d/lceAnswerOptionInline ">
+                            <lceAnswerContentInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceAnswerContentInline  ">EDI</lceAnswerContentInline>
+                            <lcCorrectResponse2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcCorrectResponse2 " name="lcCorrectResponse2" value="lcCorrectResponse2"/>
+                        </lceAnswerOptionInline>
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">rect</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">128,103,155,126</lcAreaCoords2>
+                    </lceAreaGTE><lceAreaGTE class="+ topic/figgroup learningInteractionBase2-d/figgroup lceggm-d/lceAreaGGM ">
+                        <lceAnswerOptionInline class="+ topic/ph learningInteractionBase2-d/ph lceentry-d/lceAnswerOptionInline ">
+                            <lceAnswerContentInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceAnswerContentInline  ">MAN</lceAnswerContentInline>
+                            <lcCorrectResponse2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcCorrectResponse2 " name="lcCorrectResponse2" value="lcCorrectResponse2"/>
+                        </lceAnswerOptionInline>
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">rect</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">66,165,93,178</lcAreaCoords2>
+                    </lceAreaGTE></lceGTEMap>
+            </lceGraphicTextEntry>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment><learningAssessment xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase     learningAssessment/learningAssessment " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="ht1" oid="ht1" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Olympic Games sponsors</ph></title>
+    <learningAssessmentbody class="- topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody ">
+        <lcInteraction class="- topic/section learningBase/lcInteraction ">
+            <lceHottext class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 lcehottext-d/lceHottext ">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 ">Select the error in the following passage of text (or <i class="+ topic/ph hi-d/i ">No Error</i> if there is none).</lcQuestion2>
+                <lceInlineInteractionText class="+ topic/div lceinlineinteraction-d/lceInlineInteractionText ">
+                    <p class="- topic/p ">Sponsors of the Olympic Games <lceHottextOption class="+ topic/ph learningInteractionBase2-d/ph lcehottext-d/lceHottextOption ">
+                        <lceAnswerContentInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceAnswerContentInline  ">who bought</lceAnswerContentInline>
+                    </lceHottextOption> advertising time on United States television <lceHottextOption class="+ topic/ph learningInteractionBase2-d/ph lcehottext-d/lceHottextOption ">
+                        <lceAnswerContentInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceAnswerContentInline  ">includes</lceAnswerContentInline><lcCorrectResponse2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcCorrectResponse2 " name="lcCorrectResponse2" value="lcCorrectResponse2"/>
+                    </lceHottextOption> <lceHottextOption class="+ topic/ph learningInteractionBase2-d/ph lcehottext-d/lceHottextOption ">
+                        <lceAnswerContentInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceAnswerContentInline  ">at least</lceAnswerContentInline>
+                    </lceHottextOption> a dozen international firms <lceHottextOption class="+ topic/ph learningInteractionBase2-d/ph lcehottext-d/lceHottextOption ">
+                        <lceAnswerContentInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceAnswerContentInline  ">whose</lceAnswerContentInline>
+                    </lceHottextOption> names are familiar to American consumers. <lceHottextOption class="+ topic/ph learningInteractionBase2-d/ph lcehottext-d/lceHottextOption ">
+                        <lceAnswerContentInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceAnswerContentInline  ">No error.</lceAnswerContentInline>
+                    </lceHottextOption></p>
+                </lceInlineInteractionText>
+            </lceHottext>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment><learningAssessment xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase     learningAssessment/learningAssessment " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="lc1" oid="lc1" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Richard III</ph></title>
+    <learningAssessmentbody class="- topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody ">
+        <lcInteraction class="- topic/section learningBase/lcInteraction ">
+            <lceInlineChoice class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 lceinlinechoice-d/lceInlineChoice ">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 ">Choose the missing word in this famous quote from Shakespeare's Richard III.</lcQuestion2>
+                <lceInlineInteractionText class="+ topic/div lceinlineinteraction-d/lceInlineInteractionText ">
+                    <p class="- topic/p ">Now is the winter of our discontent</p>
+                    <p class="- topic/p ">Made glorious summer by this sun of <lceInlineChoiceOptions class="+ topic/ph learningInteractionBase2-d/ph lceinlinechoice-d/lceInlineChoiceOptions ">
+                        <lceChoiceOptionInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceChoiceOptionInline ">
+                            <lceAnswerContentInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceAnswerContentInline  ">Gloucester</lceAnswerContentInline>
+                        </lceChoiceOptionInline>
+                        <lceChoiceOptionInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceChoiceOptionInline ">
+                            <lceAnswerContentInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceAnswerContentInline  ">Lancaster</lceAnswerContentInline>
+                        </lceChoiceOptionInline>
+                        <lceChoiceOptionInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceChoiceOptionInline ">
+                            <lceAnswerContentInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceAnswerContentInline  ">York</lceAnswerContentInline>
+                            <lcCorrectResponse2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcCorrectResponse2 " name="lcCorrectResponse2" value="lcCorrectResponse2"/><lceFeedbackInline class="+ topic/ph lcefeedback-d/lceFeedbackInline  ">Right</lceFeedbackInline>
+                        </lceChoiceOptionInline>
+                    </lceInlineChoiceOptions></p>
+                    <p class="- topic/p ">And all the clouds that lour'd upon our house</p>
+                    <p class="- topic/p ">In the deep bosom of the ocean buried.</p>
+                </lceInlineInteractionText>
+                <lcFeedbackIncorrect2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcFeedbackIncorrect2 "><p class="- topic/p ">Wrong. You should read Richard III again.</p></lcFeedbackIncorrect2>
+                <lcFeedbackCorrect2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcFeedbackCorrect2 "><p class="- topic/p ">Good. You know Shakespeare very well.</p></lcFeedbackCorrect2>
+                
+            </lceInlineChoice>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment><learningAssessment xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase     learningAssessment/learningAssessment " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="mm1" oid="mm1" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Shakespeare</ph></title>
+    <learningAssessmentbody class="- topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody ">
+        <lcInteraction class="- topic/section learningBase/lcInteraction ">
+            <lceMultipleMatch class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 lcemultiplematch-d/lceMultipleMatch ">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 ">Match the following characters to the Shakespeare play they appeared in. Draw lines.
+                </lcQuestion2>
+                <lceMatchSet1 class="+ topic/ul lcemultiplematch-d/lceMatchSet1 ">
+                    <lceAssociableItem class="+ topic/li lcemultiplematch-d/lceAssociableItem " id="unique_9_Connect_42_i1" nd:nd-id="i1"><p class="- topic/p ">Capulet</p></lceAssociableItem>
+                    <lceAssociableItem class="+ topic/li lcemultiplematch-d/lceAssociableItem " id="unique_9_Connect_42_i2" nd:nd-id="i2"><p class="- topic/p ">Demetrius</p></lceAssociableItem>
+                    <lceAssociableItem class="+ topic/li lcemultiplematch-d/lceAssociableItem " id="unique_9_Connect_42_i3" nd:nd-id="i3"><p class="- topic/p ">Lysander</p></lceAssociableItem>
+                    <lceAssociableItem class="+ topic/li lcemultiplematch-d/lceAssociableItem " id="unique_9_Connect_42_i4" nd:nd-id="i4"><p class="- topic/p ">Prospero</p></lceAssociableItem>
+                </lceMatchSet1>
+                <lceMatchSet2 class="+ topic/ul lcemultiplematch-d/lceMatchSet2 ">
+                    <lceAssociableMatch class="+ topic/li lcemultiplematch-d/lceAssociableMatch " id="unique_9_Connect_42_m1" nd:nd-id="m1"><p class="- topic/p ">A Midsummer-Night's Dream</p></lceAssociableMatch>
+                    <lceAssociableMatch class="+ topic/li lcemultiplematch-d/lceAssociableMatch " id="unique_9_Connect_42_m2" nd:nd-id="m2"><p class="- topic/p ">Romeo and Juliet</p></lceAssociableMatch>
+                    <lceAssociableMatch class="+ topic/li lcemultiplematch-d/lceAssociableMatch " id="unique_9_Connect_42_m3" nd:nd-id="m3"><p class="- topic/p ">The Tempest</p></lceAssociableMatch>
+                </lceMatchSet2>
+                <lceMatchMap class="+ topic/div learningInteractionBase2-d/div lcematch-d/lceMatchMap ">
+                    <lceMatchPair class="+ topic/div lcematch-d/lceMatchPair ">
+                        <lceAssociable class="+ topic/xref lcematch-d/lceAssociable " href="#unique_9_Connect_42_i1" type="lceAssociableItem"><?ditaot gentext?>#mm1/i1</lceAssociable>
+                        <lceAssociable class="+ topic/xref lcematch-d/lceAssociable " href="#unique_9_Connect_42_m2" type="lceAssociableMatch"><?ditaot gentext?>#mm1/m2</lceAssociable>
+                    </lceMatchPair>
+                    <lceMatchPair class="+ topic/div lcematch-d/lceMatchPair ">
+                        <lceAssociable class="+ topic/xref lcematch-d/lceAssociable " href="#unique_9_Connect_42_i2" type="lceAssociableItem"><?ditaot gentext?>#mm1/i2</lceAssociable>
+                        <lceAssociable class="+ topic/xref lcematch-d/lceAssociable " href="#unique_9_Connect_42_m1" type="lceAssociableMatch"><?ditaot gentext?>#mm1/m1</lceAssociable>
+                    </lceMatchPair>
+                    <lceMatchPair class="+ topic/div lcematch-d/lceMatchPair ">
+                        <lceAssociable class="+ topic/xref lcematch-d/lceAssociable " href="#unique_9_Connect_42_i3" type="lceAssociableItem"><?ditaot gentext?>#mm1/i3</lceAssociable>
+                        <lceAssociable class="+ topic/xref lcematch-d/lceAssociable " href="#unique_9_Connect_42_m1" type="lceAssociableMatch"><?ditaot gentext?>#mm1/m1</lceAssociable>
+                    </lceMatchPair>
+                    <lceMatchPair class="+ topic/div lcematch-d/lceMatchPair ">
+                        <lceAssociable class="+ topic/xref lcematch-d/lceAssociable " href="#unique_9_Connect_42_i4" type="lceAssociableItem"><?ditaot gentext?>#mm1/i4</lceAssociable>
+                        <lceAssociable class="+ topic/xref lcematch-d/lceAssociable " href="#unique_9_Connect_42_m3" type="lceAssociableMatch"><?ditaot gentext?>#mm1/m3</lceAssociable>
+                    </lceMatchPair>
+                </lceMatchMap>
+            </lceMultipleMatch>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment><learningAssessment xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase     learningAssessment/learningAssessment " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="pq" oid="pq" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Write a manual</ph></title>
+    <learningAssessmentbody class="- topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody ">
+        <lcIntro class="- topic/section learningBase/lcIntro " id="unique_10_Connect_42_lcIntro_b3f_qnl_scb" nd:nd-id="lcIntro_b3f_qnl_scb">Some people call an user guide "manual".</lcIntro>
+        <lcInteraction class="- topic/section learningBase/lcInteraction " id="unique_10_Connect_42_lcInteraction_qhm_ynl_scb" nd:nd-id="lcInteraction_qhm_ynl_scb">
+            <lcePerformQuestion class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 lceperform-d/lcePerformQuestion ">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 ">
+                    <p class="- topic/p ">Write a manual about a task you choose. Write it in MS Word and upload
+                        it.</p>
+                </lcQuestion2>
+                <lceUploadObject class="+ topic/object lceperform-d/lceUploadObject ">
+                    <desc class="- topic/desc ">upload you work here</desc>
+                </lceUploadObject>
+            </lcePerformQuestion>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment><learningAssessment xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase     learningAssessment/learningAssessment " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="acrostic" oid="acrostic" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Animals</ph></title>
+    <learningAssessmentbody class="- topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody ">
+        <lcInteraction class="- topic/section learningBase/lcInteraction ">
+            <lceAcrosticPuzzle class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 lceacrosticinteraction-d/lceAcrosticPuzzle " id="unique_11_Connect_42_nn" nd:nd-id="nn">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 "><p class="- topic/p ">Follow the pictures clues, fill in the grid, and the arrowed column
+                    will reveal a key word related to this scene.</p></lcQuestion2>
+                <lcAsset2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAsset2 ">
+                    <image class="- topic/image " href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/dita13.lc.extra-interactions/examples/acrostic.jpg" id="unique_11_Connect_42_image_t1p_dzp_1db" nd:nd-id="image_t1p_dzp_1db" placement="inline"/>
+                </lcAsset2>
+                <lcePuzzleGrid class="+ topic/simpletable learningInteractionBase2-d/simpletable lcepuzzle-d/lcePuzzleGrid ">
+                    <lcePuzzleRow class="+ topic/strow learningInteractionBase2-d/strow lcepuzzle-d/lcePuzzleRow ">
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="1" dita-ot:y="1" id="unique_11_Connect_42_s0" nd:nd-id="s0"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="2" dita-ot:y="1" id="unique_11_Connect_42_s1" nd:nd-id="s1">K</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="3" dita-ot:y="1" id="unique_11_Connect_42_s2" nd:nd-id="s2">i</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="4" dita-ot:y="1" id="unique_11_Connect_42_s3" nd:nd-id="s3">t</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="5" dita-ot:y="1" id="unique_11_Connect_42_s4" nd:nd-id="s4">t</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="6" dita-ot:y="1" id="unique_11_Connect_42_s5" nd:nd-id="s5">e</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="7" dita-ot:y="1" id="unique_11_Connect_42_s6" nd:nd-id="s6">n</lcePuzzleEntry>
+                    </lcePuzzleRow>
+                    <lcePuzzleRow class="+ topic/strow learningInteractionBase2-d/strow lcepuzzle-d/lcePuzzleRow ">
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="1" dita-ot:y="2" id="unique_11_Connect_42_s7" nd:nd-id="s7">T</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="2" dita-ot:y="2" id="unique_11_Connect_42_s8" nd:nd-id="s8">e</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="3" dita-ot:y="2" id="unique_11_Connect_42_s9" nd:nd-id="s9">e</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="4" dita-ot:y="2" id="unique_11_Connect_42_s10" nd:nd-id="s10">t</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="5" dita-ot:y="2" id="unique_11_Connect_42_s11" nd:nd-id="s11">h</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="6" dita-ot:y="2" id="unique_11_Connect_42_s12" nd:nd-id="s12"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="7" dita-ot:y="2" id="unique_11_Connect_42_s13" nd:nd-id="s13"/>
+                    </lcePuzzleRow>
+                </lcePuzzleGrid>
+                <lcePuzzleOptionGroup class="+ topic/div learningInteractionBase2-d/div lcepuzzle-d/lcePuzzleOptionGroup  ">
+                    <lcePuzzleOption class="+ topic/div learningInteractionBase2-d/div lcepuzzle-d/lcePuzzleOption  ">
+                        <lcePuzzleClue class="+ topic/p learningInteractionBase2-d/dxref lcepuzzle-d/lcePuzzleClue ">Animal 1 is a ...</lcePuzzleClue>
+                        <lcePuzzleClueAnswer class="+ topic/p learningInteractionBase2-d/p lcepuzzle-d/lcePuzzleClueAnswer ">
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_11_Connect_42_s1" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_11_Connect_42_s2" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_11_Connect_42_s3" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_11_Connect_42_s4" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_11_Connect_42_s5" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_11_Connect_42_s6" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                        </lcePuzzleClueAnswer>
+                    </lcePuzzleOption>
+                    <lcePuzzleOption class="+ topic/div learningInteractionBase2-d/div lcepuzzle-d/lcePuzzleOption  ">
+                        <lcePuzzleClue class="+ topic/p learningInteractionBase2-d/dxref lcepuzzle-d/lcePuzzleClue ">Animal 2 is a ...</lcePuzzleClue>
+                        <lcePuzzleClueAnswer class="+ topic/p learningInteractionBase2-d/p lcepuzzle-d/lcePuzzleClueAnswer ">
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_11_Connect_42_s7" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_11_Connect_42_s8" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_11_Connect_42_s9" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_11_Connect_42_s10" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_11_Connect_42_s11" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                        </lcePuzzleClueAnswer>
+                    </lcePuzzleOption>
+                </lcePuzzleOptionGroup>
+                
+                <lcePuzzleSolution class="+ topic/div lcepuzzle-d/lcePuzzleSolution ">
+                    <p class="- topic/p ">The key word is:</p>
+                    <lcePuzzleSolutionWord class="+ topic/p lcepuzzle-d/lcePuzzleSolutionWord "><lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_11_Connect_42_s1" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef><lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_11_Connect_42_s8" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef></lcePuzzleSolutionWord>
+                </lcePuzzleSolution>
+            </lceAcrosticPuzzle>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment><learningAssessment xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase     learningAssessment/learningAssessment " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="cw1" oid="cw1" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Vegetables</ph></title>
+    <learningAssessmentbody class="- topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody ">
+        <lcInteraction class="- topic/section learningBase/lcInteraction " id="unique_12_Connect_42_lcInteraction_o3j_w15_qcb" nd:nd-id="lcInteraction_o3j_w15_qcb">
+            <lceCrossWordPuzzle class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 lcecrosswordinteraction-d/lceCrossWordPuzzle " id="unique_12_Connect_42_lceCrossWordPuzzle_lpd_fb5_qcb" nd:nd-id="lceCrossWordPuzzle_lpd_fb5_qcb">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 ">
+                    <p class="- topic/p ">Fill in the crossword puzzle.</p>
+                </lcQuestion2>
+                <lcePuzzleGrid class="+ topic/simpletable learningInteractionBase2-d/simpletable lcepuzzle-d/lcePuzzleGrid " id="unique_12_Connect_42_lceCrossWordGrid_xns_qb5_qcb" nd:nd-id="lceCrossWordGrid_xns_qb5_qcb">
+                    <lcePuzzleRow class="+ topic/strow learningInteractionBase2-d/strow lcepuzzle-d/lcePuzzleRow ">
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="1" dita-ot:y="1" id="unique_12_Connect_42_w1" nd:nd-id="w1">B</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="2" dita-ot:y="1" id="unique_12_Connect_42_w2" nd:nd-id="w2">R</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="3" dita-ot:y="1" id="unique_12_Connect_42_w3" nd:nd-id="w3">U</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="4" dita-ot:y="1" id="unique_12_Connect_42_w4" nd:nd-id="w4">S</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="5" dita-ot:y="1" id="unique_12_Connect_42_w5" nd:nd-id="w5">S</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="6" dita-ot:y="1" id="unique_12_Connect_42_w6" nd:nd-id="w6">E</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="7" dita-ot:y="1" id="unique_12_Connect_42_w7" nd:nd-id="w7">L</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="8" dita-ot:y="1" id="unique_12_Connect_42_w8" nd:nd-id="w8">S</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="9" dita-ot:y="1" id="unique_12_Connect_42_w9" nd:nd-id="w9">S</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="10" dita-ot:y="1" id="unique_12_Connect_42_w10" nd:nd-id="w10">P</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="11" dita-ot:y="1" id="unique_12_Connect_42_w11" nd:nd-id="w11">R</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="12" dita-ot:y="1" id="unique_12_Connect_42_w12" nd:nd-id="w12">O</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="13" dita-ot:y="1" id="unique_12_Connect_42_w13" nd:nd-id="w13">U</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="14" dita-ot:y="1" id="unique_12_Connect_42_w14" nd:nd-id="w14">T</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="15" dita-ot:y="1" id="unique_12_Connect_42_w15" nd:nd-id="w15">S</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="16" dita-ot:y="1"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="17" dita-ot:y="1"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="18" dita-ot:y="1"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="19" dita-ot:y="1"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="20" dita-ot:y="1"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="21" dita-ot:y="1"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="22" dita-ot:y="1"/>
+                    </lcePuzzleRow>
+                    <lcePuzzleRow class="+ topic/strow learningInteractionBase2-d/strow lcepuzzle-d/lcePuzzleRow ">
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="1" dita-ot:y="2"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="2" dita-ot:y="2"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="3" dita-ot:y="2"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="4" dita-ot:y="2"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="5" dita-ot:y="2"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="6" dita-ot:y="2"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="7" dita-ot:y="2"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="8" dita-ot:y="2"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="9" dita-ot:y="2"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="10" dita-ot:y="2"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="11" dita-ot:y="2" id="unique_12_Connect_42_w16" nd:nd-id="w16">H</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="12" dita-ot:y="2"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="13" dita-ot:y="2"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="14" dita-ot:y="2"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="15" dita-ot:y="2"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="16" dita-ot:y="2"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="17" dita-ot:y="2"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="18" dita-ot:y="2"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="19" dita-ot:y="2"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="20" dita-ot:y="2"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="21" dita-ot:y="2"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="22" dita-ot:y="2"/>
+                    </lcePuzzleRow>
+                    <lcePuzzleRow class="+ topic/strow learningInteractionBase2-d/strow lcepuzzle-d/lcePuzzleRow ">
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="1" dita-ot:y="3"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="2" dita-ot:y="3"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="3" dita-ot:y="3"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="4" dita-ot:y="3"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="5" dita-ot:y="3"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="6" dita-ot:y="3"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="7" dita-ot:y="3"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="8" dita-ot:y="3"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="9" dita-ot:y="3"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="10" dita-ot:y="3"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="11" dita-ot:y="3" id="unique_12_Connect_42_w17" nd:nd-id="w17">U</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="12" dita-ot:y="3"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="13" dita-ot:y="3"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="14" dita-ot:y="3"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="15" dita-ot:y="3"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="16" dita-ot:y="3"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="17" dita-ot:y="3"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="18" dita-ot:y="3"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="19" dita-ot:y="3"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="20" dita-ot:y="3"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="21" dita-ot:y="3"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="22" dita-ot:y="3"/>
+                    </lcePuzzleRow>
+                    <lcePuzzleRow class="+ topic/strow learningInteractionBase2-d/strow lcepuzzle-d/lcePuzzleRow ">
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="1" dita-ot:y="4"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="2" dita-ot:y="4"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="3" dita-ot:y="4"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="4" dita-ot:y="4"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="5" dita-ot:y="4"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="6" dita-ot:y="4"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="7" dita-ot:y="4"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="8" dita-ot:y="4"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="9" dita-ot:y="4"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="10" dita-ot:y="4"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="11" dita-ot:y="4" id="unique_12_Connect_42_w18" nd:nd-id="w18">B</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="12" dita-ot:y="4"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="13" dita-ot:y="4"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="14" dita-ot:y="4"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="15" dita-ot:y="4"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="16" dita-ot:y="4"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="17" dita-ot:y="4"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="18" dita-ot:y="4"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="19" dita-ot:y="4"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="20" dita-ot:y="4"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="21" dita-ot:y="4"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="22" dita-ot:y="4"/>
+                    </lcePuzzleRow>
+                    <lcePuzzleRow class="+ topic/strow learningInteractionBase2-d/strow lcepuzzle-d/lcePuzzleRow ">
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="1" dita-ot:y="5"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="2" dita-ot:y="5"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="3" dita-ot:y="5"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="4" dita-ot:y="5"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="5" dita-ot:y="5"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="6" dita-ot:y="5"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="7" dita-ot:y="5"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="8" dita-ot:y="5"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="9" dita-ot:y="5"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="10" dita-ot:y="5"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="11" dita-ot:y="5" id="unique_12_Connect_42_w19" nd:nd-id="w19">A</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="12" dita-ot:y="5"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="13" dita-ot:y="5"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="14" dita-ot:y="5"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="15" dita-ot:y="5"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="16" dita-ot:y="5"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="17" dita-ot:y="5"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="18" dita-ot:y="5"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="19" dita-ot:y="5"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="20" dita-ot:y="5"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="21" dita-ot:y="5"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="22" dita-ot:y="5"/>
+                    </lcePuzzleRow>
+                    <lcePuzzleRow class="+ topic/strow learningInteractionBase2-d/strow lcepuzzle-d/lcePuzzleRow ">
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="1" dita-ot:y="6"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="2" dita-ot:y="6"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="3" dita-ot:y="6"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="4" dita-ot:y="6"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="5" dita-ot:y="6"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="6" dita-ot:y="6"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="7" dita-ot:y="6"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="8" dita-ot:y="6"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="9" dita-ot:y="6"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="10" dita-ot:y="6"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="11" dita-ot:y="6" id="unique_12_Connect_42_w20" nd:nd-id="w20">R</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="12" dita-ot:y="6"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="13" dita-ot:y="6"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="14" dita-ot:y="6"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="15" dita-ot:y="6"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="16" dita-ot:y="6"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="17" dita-ot:y="6"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="18" dita-ot:y="6"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="19" dita-ot:y="6"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="20" dita-ot:y="6"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="21" dita-ot:y="6"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="22" dita-ot:y="6"/>
+                    </lcePuzzleRow>
+                    <lcePuzzleRow class="+ topic/strow learningInteractionBase2-d/strow lcepuzzle-d/lcePuzzleRow ">
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="1" dita-ot:y="7"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="2" dita-ot:y="7"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="3" dita-ot:y="7"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="4" dita-ot:y="7"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="5" dita-ot:y="7"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="6" dita-ot:y="7"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="7" dita-ot:y="7"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="8" dita-ot:y="7"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="9" dita-ot:y="7"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="10" dita-ot:y="7"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="11" dita-ot:y="7" id="unique_12_Connect_42_w21" nd:nd-id="w21">B</lcePuzzleEntry>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="12" dita-ot:y="7"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="13" dita-ot:y="7"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="14" dita-ot:y="7"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="15" dita-ot:y="7"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="16" dita-ot:y="7"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="17" dita-ot:y="7"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="18" dita-ot:y="7"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="19" dita-ot:y="7"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="20" dita-ot:y="7"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="21" dita-ot:y="7"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="22" dita-ot:y="7"/>
+                    </lcePuzzleRow>
+                    <lcePuzzleRow class="+ topic/strow learningInteractionBase2-d/strow lcepuzzle-d/lcePuzzleRow ">
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="1" dita-ot:y="8"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="2" dita-ot:y="8"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="3" dita-ot:y="8"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="4" dita-ot:y="8"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="5" dita-ot:y="8"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="6" dita-ot:y="8"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="7" dita-ot:y="8"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="8" dita-ot:y="8"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="9" dita-ot:y="8"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="10" dita-ot:y="8"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="11" dita-ot:y="8"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="12" dita-ot:y="8"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="13" dita-ot:y="8"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="14" dita-ot:y="8"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="15" dita-ot:y="8"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="16" dita-ot:y="8"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="17" dita-ot:y="8"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="18" dita-ot:y="8"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="19" dita-ot:y="8"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="20" dita-ot:y="8"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="21" dita-ot:y="8"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="22" dita-ot:y="8"/>
+                    </lcePuzzleRow>
+                    <lcePuzzleRow class="+ topic/strow learningInteractionBase2-d/strow lcepuzzle-d/lcePuzzleRow ">
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="1" dita-ot:y="9"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="2" dita-ot:y="9"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="3" dita-ot:y="9"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="4" dita-ot:y="9"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="5" dita-ot:y="9"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="6" dita-ot:y="9"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="7" dita-ot:y="9"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="8" dita-ot:y="9"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="9" dita-ot:y="9"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="10" dita-ot:y="9"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="11" dita-ot:y="9"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="12" dita-ot:y="9"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="13" dita-ot:y="9"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="14" dita-ot:y="9"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="15" dita-ot:y="9"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="16" dita-ot:y="9"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="17" dita-ot:y="9"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="18" dita-ot:y="9"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="19" dita-ot:y="9"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="20" dita-ot:y="9"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="21" dita-ot:y="9"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="22" dita-ot:y="9"/>
+                    </lcePuzzleRow>
+                    <lcePuzzleRow class="+ topic/strow learningInteractionBase2-d/strow lcepuzzle-d/lcePuzzleRow ">
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="1" dita-ot:y="10"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="2" dita-ot:y="10"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="3" dita-ot:y="10"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="4" dita-ot:y="10"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="5" dita-ot:y="10"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="6" dita-ot:y="10"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="7" dita-ot:y="10"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="8" dita-ot:y="10"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="9" dita-ot:y="10"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="10" dita-ot:y="10"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="11" dita-ot:y="10"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="12" dita-ot:y="10"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="13" dita-ot:y="10"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="14" dita-ot:y="10"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="15" dita-ot:y="10"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="16" dita-ot:y="10"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="17" dita-ot:y="10"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="18" dita-ot:y="10"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="19" dita-ot:y="10"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="20" dita-ot:y="10"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="21" dita-ot:y="10"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="22" dita-ot:y="10"/>
+                    </lcePuzzleRow>
+                    <lcePuzzleRow class="+ topic/strow learningInteractionBase2-d/strow lcepuzzle-d/lcePuzzleRow ">
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="1" dita-ot:y="11"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="2" dita-ot:y="11"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="3" dita-ot:y="11"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="4" dita-ot:y="11"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="5" dita-ot:y="11"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="6" dita-ot:y="11"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="7" dita-ot:y="11"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="8" dita-ot:y="11"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="9" dita-ot:y="11"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="10" dita-ot:y="11"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="11" dita-ot:y="11"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="12" dita-ot:y="11"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="13" dita-ot:y="11"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="14" dita-ot:y="11"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="15" dita-ot:y="11"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="16" dita-ot:y="11"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="17" dita-ot:y="11"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="18" dita-ot:y="11"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="19" dita-ot:y="11"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="20" dita-ot:y="11"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="21" dita-ot:y="11"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="22" dita-ot:y="11"/>
+                    </lcePuzzleRow>
+                    <lcePuzzleRow class="+ topic/strow learningInteractionBase2-d/strow lcepuzzle-d/lcePuzzleRow ">
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="1" dita-ot:y="12"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="2" dita-ot:y="12"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="3" dita-ot:y="12"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="4" dita-ot:y="12"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="5" dita-ot:y="12"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="6" dita-ot:y="12"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="7" dita-ot:y="12"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="8" dita-ot:y="12"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="9" dita-ot:y="12"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="10" dita-ot:y="12"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="11" dita-ot:y="12"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="12" dita-ot:y="12"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="13" dita-ot:y="12"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="14" dita-ot:y="12"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="15" dita-ot:y="12"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="16" dita-ot:y="12"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="17" dita-ot:y="12"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="18" dita-ot:y="12"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="19" dita-ot:y="12"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="20" dita-ot:y="12"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="21" dita-ot:y="12"/>
+                        <lcePuzzleEntry class="+ topic/stentry learningInteractionBase2-d/stentry lcepuzzle-d/lcePuzzleEntry " dita-ot:x="22" dita-ot:y="12"/>
+                    </lcePuzzleRow>
+                </lcePuzzleGrid>
+                <lcePuzzleOptionGroup class="+ topic/div learningInteractionBase2-d/div lcepuzzle-d/lcePuzzleOptionGroup  ">
+                    <p class="- topic/p ">Horizontal</p>
+                    <lcePuzzleOption class="+ topic/div learningInteractionBase2-d/div lcepuzzle-d/lcePuzzleOption  " orientation="horizontal">
+                        <lcePuzzleClue class="+ topic/p learningInteractionBase2-d/dxref lcepuzzle-d/lcePuzzleClue ">Small cabbage-like heads or buds growing along a
+                            stalk</lcePuzzleClue>
+                        <lcePuzzleClueAnswer class="+ topic/p learningInteractionBase2-d/p lcepuzzle-d/lcePuzzleClueAnswer ">
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_12_Connect_42_w1" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_12_Connect_42_w2" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_12_Connect_42_w3" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_12_Connect_42_w4" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_12_Connect_42_w5" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_12_Connect_42_w6" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_12_Connect_42_w7" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_12_Connect_42_w8" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_12_Connect_42_w9" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_12_Connect_42_w10" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_12_Connect_42_w11" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_12_Connect_42_w12" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_12_Connect_42_w13" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_12_Connect_42_w14" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_12_Connect_42_w11" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                        </lcePuzzleClueAnswer>
+                    </lcePuzzleOption>
+                </lcePuzzleOptionGroup>
+                <lcePuzzleOptionGroup class="+ topic/div learningInteractionBase2-d/div lcepuzzle-d/lcePuzzleOptionGroup  ">
+                    <p class="- topic/p ">Vertical</p>
+                    <lcePuzzleOption class="+ topic/div learningInteractionBase2-d/div lcepuzzle-d/lcePuzzleOption  " orientation="vertical">
+                        <lcePuzzleClue class="+ topic/p learningInteractionBase2-d/dxref lcepuzzle-d/lcePuzzleClue ">Long pinkish sour
+                            leafstalks usually eaten cooked and sweetened</lcePuzzleClue>
+                        <lcePuzzleClueAnswer class="+ topic/p learningInteractionBase2-d/p lcepuzzle-d/lcePuzzleClueAnswer ">
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_12_Connect_42_w11" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_12_Connect_42_w16" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_12_Connect_42_w17" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_12_Connect_42_w18" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_12_Connect_42_w19" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_12_Connect_42_w20" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                            <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_12_Connect_42_w21" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                        </lcePuzzleClueAnswer>
+                    </lcePuzzleOption>
+                    
+                </lcePuzzleOptionGroup>
+                <lcePuzzleSolution class="+ topic/div lcepuzzle-d/lcePuzzleSolution "><p class="- topic/p ">The word looking for is:</p>
+                    <lcePuzzleSolutionWord class="+ topic/p lcepuzzle-d/lcePuzzleSolutionWord ">
+                        <lcePuzzleEntryRef class="+ topic/xref learningInteractionBase2-d/xref  lcepuzzle-d/lcePuzzleEntryRef " href="#unique_12_Connect_42_w11" type="lcePuzzleEntry"><?ditaot gentext?></lcePuzzleEntryRef>
+                    </lcePuzzleSolutionWord>
+                </lcePuzzleSolution>
+            </lceCrossWordPuzzle>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment><learningAssessment xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase     learningAssessment/learningAssessment " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="temw" oid="temw" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Mrs White</ph></title>
+    <learningAssessmentbody class="- topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody ">
+        <lcIntro class="- topic/section learningBase/lcIntro "><p class="- topic/p ">Present Simple vs Present Continuous</p></lcIntro>
+        <lcInteraction class="- topic/section learningBase/lcInteraction ">
+            <lceTextEntry class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 lcetextentry-d/lceTextEntry ">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 "><p class="- topic/p ">Fill in the right form of the verb.
+                </p></lcQuestion2>
+                <lceInlineInteractionText class="+ topic/div lceinlineinteraction-d/lceInlineInteractionText ">
+                    <p class="- topic/p ">This is Mrs White. She <lceTextEntryOptions class="+ topic/ph learningInteractionBase2-d/ph lcetextentry-d/lceTextEntryOptions ">
+                        <lceAnswerOptionInline class="+ topic/ph learningInteractionBase2-d/ph lceentry-d/lceAnswerOptionInline ">
+                            <lceAnswerContentInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceAnswerContentInline  ">is</lceAnswerContentInline>
+                                <lcCorrectResponse2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcCorrectResponse2 " name="lcCorrectResponse2" value="lcCorrectResponse2"/>
+                        </lceAnswerOptionInline>
+                    </lceTextEntryOptions> (be) a primary school teacher.</p>
+                    <p class="- topic/p ">She <lceTextEntryOptions class="+ topic/ph learningInteractionBase2-d/ph lcetextentry-d/lceTextEntryOptions ">
+                        <lceAnswerOptionInline class="+ topic/ph learningInteractionBase2-d/ph lceentry-d/lceAnswerOptionInline ">
+                            <lceAnswerContentInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceAnswerContentInline  ">teachs</lceAnswerContentInline>
+                                <lcCorrectResponse2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcCorrectResponse2 " name="lcCorrectResponse2" value="lcCorrectResponse2"/>
+                        </lceAnswerOptionInline>
+                    </lceTextEntryOptions> (teach) English, Math and Geography.</p>
+                    <p class="- topic/p ">At the moment she <lceTextEntryOptions class="+ topic/ph learningInteractionBase2-d/ph lcetextentry-d/lceTextEntryOptions ">
+                        <lceAnswerOptionInline class="+ topic/ph learningInteractionBase2-d/ph lceentry-d/lceAnswerOptionInline ">
+                            <lceAnswerContentInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceAnswerContentInline  ">is teaching</lceAnswerContentInline>
+                                <lcCorrectResponse2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcCorrectResponse2 " name="lcCorrectResponse2" value="lcCorrectResponse2"/>
+                        </lceAnswerOptionInline>
+                    </lceTextEntryOptions> (teach) Math.</p>
+                    <p class="- topic/p ">...</p>
+                </lceInlineInteractionText>
+            </lceTextEntry>
+        </lcInteraction>
+        <section class="- topic/section "><image class="- topic/image " href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/dita13.lc.extra-interactions/examples/MrsWhite.jpg" id="unique_13_Connect_42_image_u4s_l1k_gbb" nd:nd-id="image_u4s_l1k_gbb" placement="inline"/></section>
+    </learningAssessmentbody>
+</learningAssessment><learningAssessment xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase     learningAssessment/learningAssessment " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="x2" oid="x2" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Shakespeare plays</ph></title>
+    <learningAssessmentbody class="- topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody ">
+        <lcInteraction class="- topic/section learningBase/lcInteraction ">
+            <lceChainMatching class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 learning2-d/lcMatching2 lcechainmatching-d/lceChainMatching ">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 "><p class="- topic/p ">Combine the correct kind, play and person?</p></lcQuestion2>
+                <lceChainTable class="+ topic/simpletable learningInteractionBase2-d/simpletable learning2-d/lcMatchTable2 lcechainmatching-d/lceChainTable ">
+                    <lceChainThead class="+ topic/sthead learningInteractionBase2-d/sthead lcechainmatching-d/lceChainThead ">
+                        <lcItem2 class="+ topic/stentry learningInteractionBase2-d/stentry learning2-d/lcItem2 " dita-ot:x="1" dita-ot:y="1"><p class="- topic/p ">Kind of play</p></lcItem2>
+                        <lcItem2 class="+ topic/stentry learningInteractionBase2-d/stentry learning2-d/lcItem2 " dita-ot:x="2" dita-ot:y="1"><p class="- topic/p ">Name </p></lcItem2>
+                        <lcItem2 class="+ topic/stentry learningInteractionBase2-d/stentry learning2-d/lcItem2 " dita-ot:x="3" dita-ot:y="1"><p class="- topic/p ">Person</p></lcItem2>
+                        <lcItem2 class="+ topic/stentry learningInteractionBase2-d/stentry learning2-d/lcItem2 " dita-ot:x="4" dita-ot:y="1"/>
+                    </lceChainThead>
+                    <lceChainRow class="+ topic/strow learningInteractionBase2-d/strow lcechainmatching-d/lceChainRow ">
+                        <lcItem2 class="+ topic/stentry learningInteractionBase2-d/stentry learning2-d/lcItem2 " dita-ot:x="1" dita-ot:y="2"><p class="- topic/p ">Comedy</p></lcItem2>
+                        <lcItem2 class="+ topic/stentry learningInteractionBase2-d/stentry learning2-d/lcItem2 " dita-ot:x="2" dita-ot:y="2"><p class="- topic/p ">Midsummer Night's Dream</p></lcItem2>
+                        <lcItem2 class="+ topic/stentry learningInteractionBase2-d/stentry learning2-d/lcItem2 " dita-ot:x="3" dita-ot:y="2"><p class="- topic/p ">Titania</p></lcItem2>
+                        <lcMatchingItemFeedback2 class="+ topic/stentry learningInteractionBase2-d/stentry learning2-d/lcMatchingItemFeedback2 " dita-ot:x="4" dita-ot:y="2"><lcFeedbackCorrect2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcFeedbackCorrect2 "><p class="- topic/p ">correct</p></lcFeedbackCorrect2><lcFeedbackIncorrect2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcFeedbackIncorrect2 "><p class="- topic/p ">sorry, wrong</p></lcFeedbackIncorrect2></lcMatchingItemFeedback2>
+                    </lceChainRow>
+                    <lceChainRow class="+ topic/strow learningInteractionBase2-d/strow lcechainmatching-d/lceChainRow ">
+                        <lcItem2 class="+ topic/stentry learningInteractionBase2-d/stentry learning2-d/lcItem2 " dita-ot:x="1" dita-ot:y="3">
+                            <p class="- topic/p ">History</p></lcItem2>
+                        <lcItem2 class="+ topic/stentry learningInteractionBase2-d/stentry learning2-d/lcItem2 " dita-ot:x="2" dita-ot:y="3"><p class="- topic/p ">King John</p></lcItem2>
+                        <lcItem2 class="+ topic/stentry learningInteractionBase2-d/stentry learning2-d/lcItem2 " dita-ot:x="3" dita-ot:y="3"><p class="- topic/p ">Lady Faulconbridge</p></lcItem2>
+                        <lcMatchingItemFeedback2 class="+ topic/stentry learningInteractionBase2-d/stentry learning2-d/lcMatchingItemFeedback2 " dita-ot:x="4" dita-ot:y="3"><lcFeedbackCorrect2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcFeedbackCorrect2 "><p class="- topic/p ">correct</p></lcFeedbackCorrect2><lcFeedbackIncorrect2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcFeedbackIncorrect2 "><p class="- topic/p ">sorry, wrong</p></lcFeedbackIncorrect2></lcMatchingItemFeedback2>
+                    </lceChainRow>
+                    <lceChainRow class="+ topic/strow learningInteractionBase2-d/strow lcechainmatching-d/lceChainRow ">
+                        <lcItem2 class="+ topic/stentry learningInteractionBase2-d/stentry learning2-d/lcItem2 " dita-ot:x="1" dita-ot:y="4"><p class="- topic/p ">Tragedy</p></lcItem2>
+                        <lcItem2 class="+ topic/stentry learningInteractionBase2-d/stentry learning2-d/lcItem2 " dita-ot:x="2" dita-ot:y="4"><p class="- topic/p ">Othello</p></lcItem2>
+                        <lcItem2 class="+ topic/stentry learningInteractionBase2-d/stentry learning2-d/lcItem2 " dita-ot:x="3" dita-ot:y="4"><p class="- topic/p ">Desdemona</p></lcItem2>
+                        <lcMatchingItemFeedback2 class="+ topic/stentry learningInteractionBase2-d/stentry learning2-d/lcMatchingItemFeedback2 " dita-ot:x="4" dita-ot:y="4"><lcFeedbackCorrect2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcFeedbackCorrect2 "><p class="- topic/p ">correct</p></lcFeedbackCorrect2><lcFeedbackIncorrect2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcFeedbackIncorrect2 "><p class="- topic/p ">sorry, wrong</p></lcFeedbackIncorrect2></lcMatchingItemFeedback2>
+                    </lceChainRow>
+                </lceChainTable>
+                <lcFeedbackCorrect2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcFeedbackCorrect2 "><p class="- topic/p ">You really know Shakespeare well</p></lcFeedbackCorrect2>
+            </lceChainMatching>
+            
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment><learningAssessment xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase     learningAssessment/learningAssessment " id="unique_15" topicrefclass="- map/topicref " nd:nd-id="ga1" oid="ga1" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">New routes</ph></title>
+    <learningAssessmentbody class="- topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody ">
+        <lcIntro class="- topic/section learningBase/lcIntro ">
+            <p class="- topic/p ">Frizz, a new low cost airline, already operates a service connecting Manchester and
+                Edinburgh but has recently opened two new routes: a service between London and Edinburgh
+                and one between London and Manchester.</p>
+        </lcIntro>
+        <lcInteraction class="- topic/section learningBase/lcInteraction ">
+            <lceGraphicAssociate class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 lcega-d/lceGraphicAssociate ">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 "><p class="- topic/p ">Mark the airline's new routes on the airport map:</p></lcQuestion2>
+                <lceGAMap class="+ topic/fig learningInteractionBase2-d/fig lcega-d/lceGAMap "><image class="- topic/image " href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/dita13.lc.extra-interactions/examples/GB_airports2.jpg" placement="inline"/><lceAssociableHotspot class="+ topic/figgroup learningInteractionBase2-d/figgroup lcega-d/lceAssociableHotspot " id="unique_15_Connect_42_ah1" nd:nd-id="ah1">
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">circle</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">77,115,8</lcAreaCoords2>
+                    </lceAssociableHotspot><lceAssociableHotspot class="+ topic/figgroup learningInteractionBase2-d/figgroup lcega-d/lceAssociableHotspot " id="unique_15_Connect_42_ah2" nd:nd-id="ah2">
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">circle</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">118,184,8</lcAreaCoords2>
+                    </lceAssociableHotspot><lceAssociableHotspot class="+ topic/figgroup learningInteractionBase2-d/figgroup lcega-d/lceAssociableHotspot " id="unique_15_Connect_42_ah3" nd:nd-id="ah3">
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">circle</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">150,235,8</lcAreaCoords2>
+                    </lceAssociableHotspot><lceAssociableHotspot class="+ topic/figgroup learningInteractionBase2-d/figgroup lcega-d/lceAssociableHotspot " id="unique_15_Connect_42_ah4" nd:nd-id="ah4">
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">circle</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">96,114,8</lcAreaCoords2>
+                    </lceAssociableHotspot></lceGAMap>
+                <lceMatchMap class="+ topic/div learningInteractionBase2-d/div lcematch-d/lceMatchMap ">
+                    <lceMatchPair class="+ topic/div lcematch-d/lceMatchPair ">
+                        <lceAssociable class="+ topic/xref lcematch-d/lceAssociable " href="#unique_15_Connect_42_ah3" type="lceAssociableHotspot"><?ditaot gentext?></lceAssociable>
+                        <lceAssociable class="+ topic/xref lcematch-d/lceAssociable " href="#unique_15_Connect_42_ah2" type="lceAssociableHotspot"><?ditaot gentext?></lceAssociable>
+                    </lceMatchPair>
+                    <lceMatchPair class="+ topic/div lcematch-d/lceMatchPair ">
+                        <lceAssociable class="+ topic/xref lcematch-d/lceAssociable " href="#unique_15_Connect_42_ah3" type="lceAssociableHotspot"><?ditaot gentext?></lceAssociable>
+                        <lceAssociable class="+ topic/xref lcematch-d/lceAssociable " href="#unique_15_Connect_42_ah4" type="lceAssociableHotspot"><?ditaot gentext?></lceAssociable>
+                    </lceMatchPair>
+                </lceMatchMap>
+            </lceGraphicAssociate>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment><learningAssessment xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase     learningAssessment/learningAssessment " id="unique_16" topicrefclass="- map/topicref " nd:nd-id="gte2" oid="gte2" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Number pyramid</ph></title>
+    <learningAssessmentbody class="- topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody ">
+        <lcIntro class="- topic/section learningBase/lcIntro "><p class="- topic/p ">The number pyramid is built as follows: add two number in one row, which are
+                standing next to each other. The result of this is the number above.</p></lcIntro>
+        <lcInteraction class="- topic/section learningBase/lcInteraction ">
+            <lceGraphicTextEntry class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 lcegraphictextentry-d/lceGraphicTextEntry ">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 "><p class="- topic/p ">Fill in the missing numbers.</p></lcQuestion2>
+                <lceGTEMap class="+ topic/fig learningInteractionBase2-d/fig lcegraphictextentry-d/lceGTEMap "><image class="- topic/image " href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/dita13.lc.extra-interactions/examples/counting_pyramid.jpg" placement="inline"/><lceAreaGTE class="+ topic/figgroup learningInteractionBase2-d/figgroup lceggm-d/lceAreaGGM ">
+                        <lceAnswerOptionInline class="+ topic/ph learningInteractionBase2-d/ph lceentry-d/lceAnswerOptionInline ">
+                            <lceAnswerContentInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceAnswerContentInline  ">3</lceAnswerContentInline>
+                            <lcCorrectResponse2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcCorrectResponse2 " name="lcCorrectResponse2" value="lcCorrectResponse2"/>
+                        </lceAnswerOptionInline>
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">rect</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">110,410,50,50</lcAreaCoords2>
+                    </lceAreaGTE><lceAreaGTE class="+ topic/figgroup learningInteractionBase2-d/figgroup lceggm-d/lceAreaGGM ">
+                        <lceAnswerOptionInline answertype="predefined" class="+ topic/ph learningInteractionBase2-d/ph lceentry-d/lceAnswerOptionInline ">
+                            <lceAnswerContentInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceAnswerContentInline  ">2</lceAnswerContentInline>
+                        </lceAnswerOptionInline>
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">rect</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">270,410,50,50</lcAreaCoords2>
+                    </lceAreaGTE><lceAreaGTE class="+ topic/figgroup learningInteractionBase2-d/figgroup lceggm-d/lceAreaGGM ">
+                        <lceAnswerOptionInline answertype="fixed" class="+ topic/ph learningInteractionBase2-d/ph lceentry-d/lceAnswerOptionInline ">
+                            <lceAnswerContentInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceAnswerContentInline  ">3</lceAnswerContentInline>
+                        </lceAnswerOptionInline>
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">rect</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">430,410,50,50</lcAreaCoords2>
+                    </lceAreaGTE><lceAreaGTE class="+ topic/figgroup learningInteractionBase2-d/figgroup lceggm-d/lceAreaGGM ">
+                        <lceAnswerOptionInline class="+ topic/ph learningInteractionBase2-d/ph lceentry-d/lceAnswerOptionInline ">
+                            <lceAnswerContentInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceAnswerContentInline  ">3</lceAnswerContentInline>
+                            <lcCorrectResponse2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcCorrectResponse2 " name="lcCorrectResponse2" value="lcCorrectResponse2"/>
+                        </lceAnswerOptionInline>
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">rect</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">720,410,50,50</lcAreaCoords2>
+                    </lceAreaGTE><lceAreaGTE class="+ topic/figgroup learningInteractionBase2-d/figgroup lceggm-d/lceAreaGGM ">
+                        <lceAnswerOptionInline class="+ topic/ph learningInteractionBase2-d/ph lceentry-d/lceAnswerOptionInline ">
+                            <lceAnswerContentInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceAnswerContentInline  ">5</lceAnswerContentInline>
+                            <lcCorrectResponse2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcCorrectResponse2 " name="lcCorrectResponse2" value="lcCorrectResponse2"/>
+                        </lceAnswerOptionInline>
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">rect</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">180,280,50,50</lcAreaCoords2>
+                    </lceAreaGTE><lceAreaGTE class="+ topic/figgroup learningInteractionBase2-d/figgroup lceggm-d/lceAreaGGM ">
+                        <lceAnswerOptionInline answertype="fixed" class="+ topic/ph learningInteractionBase2-d/ph lceentry-d/lceAnswerOptionInline ">
+                            <lceAnswerContentInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceAnswerContentInline  ">5</lceAnswerContentInline>
+                        </lceAnswerOptionInline>
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">rect</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">380,280,50,50</lcAreaCoords2>
+                    </lceAreaGTE><lceAreaGTE class="+ topic/figgroup learningInteractionBase2-d/figgroup lceggm-d/lceAreaGGM ">
+                        <lceAnswerOptionInline class="+ topic/ph learningInteractionBase2-d/ph lceentry-d/lceAnswerOptionInline ">
+                            <lceAnswerContentInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceAnswerContentInline  ">6</lceAnswerContentInline>
+                            <lcCorrectResponse2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcCorrectResponse2 " name="lcCorrectResponse2" value="lcCorrectResponse2"/>
+                        </lceAnswerOptionInline>
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">rect</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">580,280,50,50</lcAreaCoords2>
+                    </lceAreaGTE><lceAreaGTE class="+ topic/figgroup learningInteractionBase2-d/figgroup lceggm-d/lceAreaGGM ">
+                        <lceAnswerOptionInline answertype="fixed" class="+ topic/ph learningInteractionBase2-d/ph lceentry-d/lceAnswerOptionInline ">
+                            <lceAnswerContentInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceAnswerContentInline  ">10</lceAnswerContentInline>
+                        </lceAnswerOptionInline>
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">rect</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">250,180,50,50</lcAreaCoords2>
+                    </lceAreaGTE><lceAreaGTE class="+ topic/figgroup learningInteractionBase2-d/figgroup lceggm-d/lceAreaGGM ">
+                        <lceAnswerOptionInline class="+ topic/ph learningInteractionBase2-d/ph lceentry-d/lceAnswerOptionInline ">
+                            <lceAnswerContentInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceAnswerContentInline  ">11</lceAnswerContentInline>
+                            <lcCorrectResponse2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcCorrectResponse2 " name="lcCorrectResponse2" value="lcCorrectResponse2"/>
+                        </lceAnswerOptionInline>
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">rect</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">470,180,50,50</lcAreaCoords2>
+                    </lceAreaGTE><lceAreaGTE class="+ topic/figgroup learningInteractionBase2-d/figgroup lceggm-d/lceAreaGGM ">
+                        <lceAnswerOptionInline answertype="fixed" class="+ topic/ph learningInteractionBase2-d/ph lceentry-d/lceAnswerOptionInline ">
+                            <lceAnswerContentInline class="+ topic/ph learningInteractionBase2-d/ph lceinlineinteraction-d/lceAnswerContentInline  ">21</lceAnswerContentInline>
+                        </lceAnswerOptionInline>
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">rect</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">50,350,50,50</lcAreaCoords2>
+                    </lceAreaGTE></lceGTEMap>
+            </lceGraphicTextEntry>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment><learningAssessment xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase     learningAssessment/learningAssessment " id="unique_17" topicrefclass="- map/topicref " nd:nd-id="ex01" oid="ex01" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Question with explanation</ph></title>
+    <learningAssessmentbody class="- topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody ">
+        <lcInteraction class="- topic/section learningBase/lcInteraction ">
+            <lcSingleSelect2 class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 learning2-d/lcSingleSelect2 ">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 "><p class="- topic/p ">Look at the figure, there are 5 triangles. Which triangle is
+                        equilateral?</p><image class="- topic/image " href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/dita13.lc.extra-interactions/examples/triangles.jpg" id="unique_17_Connect_42_image_ujq_mc3_g4b" nd:nd-id="image_ujq_mc3_g4b" placement="inline"/></lcQuestion2>
+                <lceExplanation class="- topic/div lceexplanation-d/lceExplanation "><p class="- topic/p ">A triangle is equilateral when all angles are 60 degrees, triangle A is the only triangle with angles of 60 degrees.</p></lceExplanation>
+                <lcAnswerOptionGroup2 class="+ topic/ul learningInteractionBase2-d/ul learning2-d/lcAnswerOptionGroup2 ">
+                    <lcAnswerOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcAnswerOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">A</p></lcAnswerContent2><lcCorrectResponse2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcCorrectResponse2 " name="lcCorrectResponse2" value="lcCorrectResponse2"/>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcAnswerOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">B</p></lcAnswerContent2>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcAnswerOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">C</p></lcAnswerContent2>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcAnswerOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">D</p></lcAnswerContent2>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcAnswerOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">E</p></lcAnswerContent2>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcAnswerOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">F</p></lcAnswerContent2>
+                    </lcAnswerOption2>
+                </lcAnswerOptionGroup2>
+            </lcSingleSelect2>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment><learningAssessment xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase     learningAssessment/learningAssessment " id="unique_18" topicrefclass="- map/topicref " nd:nd-id="ex02" oid="ex02" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Hotspot with explanation</ph></title>
+    <learningAssessmentbody class="- topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody ">
+        <lcIntro class="- topic/section learningBase/lcIntro ">The lceHotspot is more or less the same as the lcHotspot2 beside that the new LCe
+            element lceExplanation is allowed. That couldn't be added to the lcHotspot2 element
+            because of its tight content model.</lcIntro>
+        <lcInteraction class="- topic/section learningBase/lcInteraction ">
+            <lceHotspot class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 lcehotspot-d/lceHotspot ">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 "><p class="- topic/p ">Which of these plantes is Saturn?</p>
+                    <p class="- topic/p ">Click on it.</p></lcQuestion2>
+                <lceExplanation class="- topic/div lceexplanation-d/lceExplanation ">
+                    <p class="- topic/p ">The Saturn is different then all other planets. Saturn is the sixth planet
+                        from the Sun and the second-largest in the Solar System, after Jupiter. It
+                        is a gas giant. The planet's most famous feature is its prominent ring
+                        system, which is composed mostly of ice particles, with a smaller amount of
+                        rocky debris and dust. This is the only planet with a ring</p>
+                    <image class="- topic/image " href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/dita13.lc.extra-interactions/examples/Saturnus.jpg" id="unique_18_Connect_42_image_s2x_1d3_g4b" nd:nd-id="image_s2x_1d3_g4b" placement="inline"/>
+                </lceExplanation>
+                <lcHotspotMap2 class="+ topic/fig learningInteractionBase2-d/figgroup learning2-d/lcHotspotMap2 "><image class="- topic/image " href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/dita13.lc.extra-interactions/examples/planets.jpg" id="unique_18_Connect_42_image_wmy_tsx_ddb" nd:nd-id="image_wmy_tsx_ddb" placement="inline"/><lcArea2 class="+ topic/figgroup learningInteractionBase2-d/figgroup learning2-d/lcArea2 ">
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">rect</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">49, 51, 50, 30</lcAreaCoords2>
+                        <lcCorrectResponse2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcCorrectResponse2 " name="lcCorrectResponse2" value="lcCorrectResponse2"/>
+                    </lcArea2><lcArea2 class="+ topic/figgroup learningInteractionBase2-d/figgroup learning2-d/lcArea2 ">
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">rect</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">19, 69, 50, 30</lcAreaCoords2>
+                    </lcArea2><lcArea2 class="+ topic/figgroup learningInteractionBase2-d/figgroup learning2-d/lcArea2 ">
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">rect</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">65, 35, 30, 30</lcAreaCoords2>
+                    </lcArea2><lcArea2 class="+ topic/figgroup learningInteractionBase2-d/figgroup learning2-d/lcArea2 ">
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">rect</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">90, 30, 30, 30</lcAreaCoords2>
+                    </lcArea2></lcHotspotMap2>
+            </lceHotspot>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment><learningAssessment xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase     learningAssessment/learningAssessment " id="unique_19" topicrefclass="- map/topicref " nd:nd-id="box01" oid="box01" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Question with box</ph></title>
+    <learningAssessmentbody class="- topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody ">
+        <lcIntro class="- topic/section learningBase/lcIntro ">
+            <p class="- topic/p ">Shakespeare’s plays were immediately big hits! He wrote different kinds of plays, all
+                of which could be divided into three categories:
+                <ul class="- topic/ul ">
+                    <li class="- topic/li "><p class="- topic/p ">Tragedy – including Hamlet,
+                        Othello, King Lear and Romeo and Juliet</p></li>
+                    <li class="- topic/li "><p class="- topic/p ">Comedy – including Twelfth Night and the The
+                        Taming of the Shrew</p></li>
+                    <li class="- topic/li "><p class="- topic/p ">History – including Henry IV, Henry V and Richard III</p></li>
+                </ul></p>
+            <lceBox class="- topic/fig lcebox-d/lceBox " expanse="column" frame="all" id="d31e2391"><title class="- topic/title ">Did you know?</title><p class="- topic/p ">Plays in Shakespeare’s time were different to the ones we have today. There were
+                    no female actors (women’s parts were played by men!), and audiences could be
+                    very rowdy. They would shout, boo and even throw food at the actors they didn’t
+                    like!</p></lceBox>
+        </lcIntro>
+        <lcInteraction class="- topic/section learningBase/lcInteraction ">
+            <lcSingleSelect2 class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 learning2-d/lcSingleSelect2 ">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 "><p class="- topic/p ">From which play is this quote:</p>
+                    <lq class="- topic/lq "><p class="- topic/p ">The course of true love never did run smooth.</p></lq></lcQuestion2>
+                <lcAnswerOptionGroup2 class="+ topic/ul learningInteractionBase2-d/ul learning2-d/lcAnswerOptionGroup2 ">
+                    <lcAnswerOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcAnswerOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">A Midsummer Night’s Dream</p></lcAnswerContent2><lcCorrectResponse2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcCorrectResponse2 " name="lcCorrectResponse2" value="lcCorrectResponse2"/>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcAnswerOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">Twelfth Night</p></lcAnswerContent2>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcAnswerOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">Romeo and Juliet</p></lcAnswerContent2>
+                    </lcAnswerOption2>
+                </lcAnswerOptionGroup2>
+            </lcSingleSelect2>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment><learningAssessment xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase     learningAssessment/learningAssessment " id="unique_20" topicrefclass="- map/topicref " nd:nd-id="hotspot" oid="hotspot" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Planets</ph></title>
+    <learningAssessmentbody class="- topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody ">
+        <lcInteraction class="- topic/section learningBase/lcInteraction ">
+            <lcHotspot2 class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 learning2-d/lcHotspot2 ">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 "><p class="- topic/p ">Which of these plantes is Saturn?</p>
+                <p class="- topic/p ">Click on it.</p></lcQuestion2>
+                <lcHotspotMap2 class="+ topic/fig learningInteractionBase2-d/figgroup learning2-d/lcHotspotMap2 "><image class="- topic/image " href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/dita13.lc.extra-interactions/examples/planets.jpg" id="unique_20_Connect_42_image_wmy_tsx_ddb" nd:nd-id="image_wmy_tsx_ddb" placement="inline"/><lcArea2 class="+ topic/figgroup learningInteractionBase2-d/figgroup learning2-d/lcArea2 ">
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">rect</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">49, 51, 50, 30</lcAreaCoords2><lcCorrectResponse2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcCorrectResponse2 " name="lcCorrectResponse2" value="lcCorrectResponse2"/>
+                    </lcArea2><lcArea2 class="+ topic/figgroup learningInteractionBase2-d/figgroup learning2-d/lcArea2 ">
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">rect</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">19, 69, 50, 30</lcAreaCoords2>
+                    </lcArea2><lcArea2 class="+ topic/figgroup learningInteractionBase2-d/figgroup learning2-d/lcArea2 ">
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">rect</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">65, 35, 30, 30</lcAreaCoords2>
+                    </lcArea2><lcArea2 class="+ topic/figgroup learningInteractionBase2-d/figgroup learning2-d/lcArea2 ">
+                        <lcAreaShape2 class="+ topic/keyword learningInteractionBase2-d/keyword learning2-d/lcAreaShape2 " translate="no">rect</lcAreaShape2>
+                        <lcAreaCoords2 class="+ topic/ph learningInteractionBase2-d/ph learning2-d/lcAreaCoords2 " translate="no">90, 30, 30, 30</lcAreaCoords2>
+                    </lcArea2></lcHotspotMap2>
+            </lcHotspot2>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment><learningAssessment xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase     learningAssessment/learningAssessment " id="unique_21" topicrefclass="- map/topicref " nd:nd-id="matching" oid="matching" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">City and country</ph></title>
+    <learningAssessmentbody class="- topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody ">
+        <lcInteraction class="- topic/section learningBase/lcInteraction ">
+            <lcMatching2 class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 learning2-d/lcMatching2 ">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 "><p class="- topic/p ">Match the city with the counry</p></lcQuestion2>
+                <lcMatchTable2 class="+ topic/simpletable learningInteractionBase2-d/simpletable learning2-d/lcMatchTable2 ">
+                    <lcMatchingPair2 class="+ topic/strow learningInteractionBase2-d/strow learning2-d/lcMatchingPair2 ">
+                        <lcItem2 class="+ topic/stentry learningInteractionBase2-d/stentry learning2-d/lcItem2 " dita-ot:x="1" dita-ot:y="1"><p class="- topic/p ">Paris</p></lcItem2>
+                        <lcMatchingItem2 class="+ topic/stentry learningInteractionBase2-d/stentry learning2-d/lcMatchingItem2 " dita-ot:x="2" dita-ot:y="1"><p class="- topic/p ">France</p></lcMatchingItem2>
+                    </lcMatchingPair2>
+                    <lcMatchingPair2 class="+ topic/strow learningInteractionBase2-d/strow learning2-d/lcMatchingPair2 ">
+                        <lcItem2 class="+ topic/stentry learningInteractionBase2-d/stentry learning2-d/lcItem2 " dita-ot:x="1" dita-ot:y="2"><p class="- topic/p ">London</p></lcItem2>
+                        <lcMatchingItem2 class="+ topic/stentry learningInteractionBase2-d/stentry learning2-d/lcMatchingItem2 " dita-ot:x="2" dita-ot:y="2"><p class="- topic/p ">Great Britian</p></lcMatchingItem2>
+                    </lcMatchingPair2>
+                    <lcMatchingPair2 class="+ topic/strow learningInteractionBase2-d/strow learning2-d/lcMatchingPair2 ">
+                        <lcItem2 class="+ topic/stentry learningInteractionBase2-d/stentry learning2-d/lcItem2 " dita-ot:x="1" dita-ot:y="3"><p class="- topic/p ">Berlin</p></lcItem2>
+                        <lcMatchingItem2 class="+ topic/stentry learningInteractionBase2-d/stentry learning2-d/lcMatchingItem2 " dita-ot:x="2" dita-ot:y="3"><p class="- topic/p ">Germany</p></lcMatchingItem2>
+                    </lcMatchingPair2>
+                    <lcMatchingPair2 class="+ topic/strow learningInteractionBase2-d/strow learning2-d/lcMatchingPair2 ">
+                        <lcItem2 class="+ topic/stentry learningInteractionBase2-d/stentry learning2-d/lcItem2 " dita-ot:x="1" dita-ot:y="4"><p class="- topic/p ">Rome</p></lcItem2>
+                        <lcMatchingItem2 class="+ topic/stentry learningInteractionBase2-d/stentry learning2-d/lcMatchingItem2 " dita-ot:x="2" dita-ot:y="4"><p class="- topic/p ">Italy</p></lcMatchingItem2>
+                    </lcMatchingPair2>
+                </lcMatchTable2>
+            </lcMatching2>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment><learningAssessment xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase     learningAssessment/learningAssessment " id="unique_22" topicrefclass="- map/topicref " nd:nd-id="ms" oid="ms" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Water</ph></title>
+    <learningAssessmentbody class="- topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody ">
+        <lcInteraction class="- topic/section learningBase/lcInteraction ">
+            <lcMultipleSelect2 class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 learning2-d/lcMultipleSelect2 ">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 "><p class="- topic/p ">Which of the following elements are used to form water?</p></lcQuestion2>
+                <lcAnswerOptionGroup2 class="+ topic/ul learningInteractionBase2-d/ul learning2-d/lcAnswerOptionGroup2 ">
+                    <lcAnswerOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcAnswerOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">Hydrogen</p></lcAnswerContent2><lcCorrectResponse2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcCorrectResponse2 " name="lcCorrectResponse2" value="lcCorrectResponse2"/>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcAnswerOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">Helium</p></lcAnswerContent2>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcAnswerOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">Carbon</p></lcAnswerContent2>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcAnswerOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">Oxygen</p></lcAnswerContent2><lcCorrectResponse2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcCorrectResponse2 " name="lcCorrectResponse2" value="lcCorrectResponse2"/>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcAnswerOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">Nitrogen</p></lcAnswerContent2>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcAnswerOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">Chlorine</p></lcAnswerContent2>
+                    </lcAnswerOption2>
+                </lcAnswerOptionGroup2>
+            </lcMultipleSelect2>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment><learningAssessment xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase     learningAssessment/learningAssessment " id="unique_23" topicrefclass="- map/topicref " nd:nd-id="open" oid="open" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Postcard</ph></title>
+    <learningAssessmentbody class="- topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody ">
+        <lcIntro class="- topic/section learningBase/lcIntro "><p class="- topic/p ">Read this postcard from your English pen-friend, Sam.</p>
+            <lq class="- topic/lq "><p class="- topic/p ">Here is a postcard of my town. Please send me a postcard from your town. What
+                    size is yourtown? What is the nicest part of your town? Where do you go in the
+                    evenings? Sam.</p></lq>
+        </lcIntro>
+        <lcInteraction class="- topic/section learningBase/lcInteraction ">
+            <lcOpenQuestion2 class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 learning2-d/lcOpenQuestion2 ">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 "><p class="- topic/p ">Write Sam a postcard. Answer the questions. Write 25-35
+                    words.</p></lcQuestion2>
+                <lcOpenAnswer2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcOpenAnswer2 "><p class="- topic/p ">Hi Sam, in my town are living around 50.000 people. The nicest part is the neighbourhood near to
+                        the park. Sometimes I go to a pub in the town center. Dave</p></lcOpenAnswer2>
+            </lcOpenQuestion2>
+
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment><learningAssessment xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase     learningAssessment/learningAssessment " id="unique_24" topicrefclass="- map/topicref " nd:nd-id="order" oid="order" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Bremer Stadtmusikanten</ph></title>
+    <learningAssessmentbody class="- topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody ">
+       <lcIntro class="- topic/section learningBase/lcIntro "><p class="- topic/p ">In the fairy tale "Die Bremer Stadtmusikanten" there are four animals which are get off and sing together.</p></lcIntro>
+        <lcInteraction class="- topic/section learningBase/lcInteraction ">
+            <lcSequencing2 class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 learning2-d/lcSequencing2 ">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 "><p class="- topic/p ">In which order does they build their pyramid?</p>
+                    <p class="- topic/p ">Sort who is standing below and then up to the top.</p></lcQuestion2>
+                <lcSequenceOptionGroup2 class="+ topic/ol learningInteractionBase2-d/ol learning2-d/lcSequenceOptionGroup2 " shuffle="yes">
+                    <lcSequenceOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcSequenceOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">donkey</p></lcAnswerContent2>
+                        <lcSequence2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcSequence2 " name="lcSequence2" value="1"/>
+                    </lcSequenceOption2>
+                    <lcSequenceOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcSequenceOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">dog</p></lcAnswerContent2>
+                        <lcSequence2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcSequence2 " name="lcSequence2" value="2"/>
+                    </lcSequenceOption2>
+                    <lcSequenceOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcSequenceOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">cat</p></lcAnswerContent2>
+                        <lcSequence2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcSequence2 " name="lcSequence2" value="3"/>
+                    </lcSequenceOption2>
+                    <lcSequenceOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcSequenceOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">cock</p></lcAnswerContent2>
+                        <lcSequence2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcSequence2 " name="lcSequence2" value="4"/>
+                    </lcSequenceOption2>
+                </lcSequenceOptionGroup2>
+            </lcSequencing2>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment><learningAssessment xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase     learningAssessment/learningAssessment " id="unique_25" topicrefclass="- map/topicref " nd:nd-id="ss" oid="ss" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">The Netherlands</ph></title>
+    <learningAssessmentbody class="- topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody ">
+        <lcInteraction class="- topic/section learningBase/lcInteraction ">
+            <lcSingleSelect2 class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 learning2-d/lcSingleSelect2 ">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 "><p class="- topic/p ">What is the capital of The Netherlands?</p></lcQuestion2>
+                <lcAsset2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAsset2 ">
+                    <image class="- topic/image " href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/dita13.lc.extra-interactions/examples/netherlands.jpg" id="unique_25_Connect_42_image_gs5_qrx_ddb" nd:nd-id="image_gs5_qrx_ddb" placement="inline"/>
+                </lcAsset2>
+                <lcAnswerOptionGroup2 class="+ topic/ul learningInteractionBase2-d/ul learning2-d/lcAnswerOptionGroup2 ">
+                    <lcAnswerOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcAnswerOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">Den Hague</p></lcAnswerContent2>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcAnswerOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">Amsterdam</p></lcAnswerContent2><lcCorrectResponse2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcCorrectResponse2 " name="lcCorrectResponse2" value="lcCorrectResponse2"/>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcAnswerOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">Rotterdam</p></lcAnswerContent2>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcAnswerOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">Utrecht</p></lcAnswerContent2>
+                    </lcAnswerOption2>
+                </lcAnswerOptionGroup2>
+            </lcSingleSelect2>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment><learningAssessment xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.3" break-before="true" is-chapter="true" class="- topic/topic learningBase/learningBase     learningAssessment/learningAssessment " id="unique_26" topicrefclass="- map/topicref " nd:nd-id="tf" oid="tf" specializations="@props/deliveryTarget" xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:3.0">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Quiz</ph></title>
+    <learningAssessmentbody class="- topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody ">
+        <lcIntro class="- topic/section learningBase/lcIntro " id="unique_26_Connect_42_lcIntro_orp_3hy_ddb" nd:nd-id="lcIntro_orp_3hy_ddb">
+            <p class="- topic/p ">Not everything you thought you knew might be true...</p>
+        </lcIntro>
+        <lcInteraction class="- topic/section learningBase/lcInteraction ">
+            <lcTrueFalse2 class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 learning2-d/lcTrueFalse2 ">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 "><p class="- topic/p ">Lightning never strikes in the same place twice.</p></lcQuestion2>
+                <lcAsset2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAsset2 ">
+                    <image class="- topic/image " href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/dita13.lc.extra-interactions/examples/ligthning.jpg" id="unique_26_Connect_42_image_g1y_1yx_ddb" nd:nd-id="image_g1y_1yx_ddb" placement="inline"/>
+                </lcAsset2>
+                <lcAnswerOptionGroup2 class="+ topic/ul learningInteractionBase2-d/ul learning2-d/lcAnswerOptionGroup2 ">
+                    <lcAnswerOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcAnswerOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">True</p></lcAnswerContent2>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcAnswerOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">False</p></lcAnswerContent2><lcCorrectResponse2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcCorrectResponse2 " name="lcCorrectResponse2" value="lcCorrectResponse2"/>
+                    </lcAnswerOption2>
+                </lcAnswerOptionGroup2>
+            </lcTrueFalse2>
+            <lcTrueFalse2 class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 learning2-d/lcTrueFalse2 ">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 "><p class="- topic/p ">The top of the Eiffel Tower leans away from the sun.</p></lcQuestion2>
+                <lcAnswerOptionGroup2 class="+ topic/ul learningInteractionBase2-d/ul learning2-d/lcAnswerOptionGroup2 ">
+                    <lcAnswerOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcAnswerOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">True</p></lcAnswerContent2><lcCorrectResponse2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcCorrectResponse2 " name="lcCorrectResponse2" value="lcCorrectResponse2"/>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcAnswerOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">False</p></lcAnswerContent2>
+                    </lcAnswerOption2>
+                </lcAnswerOptionGroup2>
+            </lcTrueFalse2>
+            <lcTrueFalse2 class="+ topic/div learningInteractionBase2-d/lcInteractionBase2 learning2-d/lcTrueFalse2 ">
+                <lcQuestion2 class="+ topic/div learningInteractionBase2-d/lcQuestionBase2 learning2-d/lcQuestion2 "><p class="- topic/p ">Twinkies have an infinite shelf life.</p></lcQuestion2>
+                <lcAnswerOptionGroup2 class="+ topic/ul learningInteractionBase2-d/ul learning2-d/lcAnswerOptionGroup2 ">
+                    <lcAnswerOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcAnswerOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">True</p></lcAnswerContent2>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2 class="+ topic/li learningInteractionBase2-d/li learning2-d/lcAnswerOption2 ">
+                        <lcAnswerContent2 class="+ topic/div learningInteractionBase2-d/div learning2-d/lcAnswerContent2 "><p class="- topic/p ">False</p></lcAnswerContent2><lcCorrectResponse2 class="+ topic/data learningInteractionBase2-d/data learning2-d/lcCorrectResponse2 " name="lcCorrectResponse2" value="lcCorrectResponse2"/>
+                    </lcAnswerOption2>
+                </lcAnswerOptionGroup2>
+            </lcTrueFalse2>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment></map>

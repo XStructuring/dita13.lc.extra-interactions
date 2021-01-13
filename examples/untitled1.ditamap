@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:map.xsd">
+    <title>Test lcMatching</title>
+    <topicref href="lcMatching2.dita"/>
+    <topicref href="../test%20DITA-OT/lceChainMatching.dita"/>
+</map>
