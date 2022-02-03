@@ -118,6 +118,7 @@
         <xs:sequence>
             <xs:choice minOccurs="0" maxOccurs="unbounded">
                 <xs:group ref="basic.ph"/>
+                <xs:group ref="basic.lcemath"/>
             </xs:choice>
         </xs:sequence>
     </xs:group>

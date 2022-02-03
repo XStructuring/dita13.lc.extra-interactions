@@ -54,9 +54,7 @@
    <!-- Add -->
    <!-- ======= lce specialization modules ======= -->
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceGGMDomain.xsd"/>
-   <!--<xs:include schemaLocation="urn:dita13lce:names:xsd:lceInlineInteractionDomain.xsd"/>-->
-   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceInlineInteractionDomainConstraint.xsd"/>
-   <!--  -->
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceInlineInteractionDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceTextEntryDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceGapMatchDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceInlineChoiceDomain.xsd"/>
