@@ -76,12 +76,10 @@
             </xs:complexContent>
         </xs:complexType>
     </xs:element>
-    <xs:complexType name="lceFraction.class" mixed="true">
+    <xs:complexType name="lceFraction.class">
         <xs:sequence>
-            
-                <xs:group ref="lceNumerator" minOccurs="1" maxOccurs="1"/>
-                <xs:group ref="lceDenominator" minOccurs="1" maxOccurs="1"/>
-            
+            <xs:group ref="lceNumerator" minOccurs="1" maxOccurs="1"/>
+            <xs:group ref="lceDenominator" minOccurs="1" maxOccurs="1"/>
         </xs:sequence>
         <xs:attributeGroup ref="lceFraction.attributes"/>
     </xs:complexType>
