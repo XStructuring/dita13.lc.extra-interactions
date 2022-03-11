@@ -10,18 +10,18 @@
                     <!-- For the lceHottextMeaning you could create a learningAssessment with only meaning and use the conref mechanisme to insert them in the real questions  -->
                     <p><lceHottextMeaning id="m01" outputclass="green">verb</lceHottextMeaning><lceHottextMeaning id="m02" outputclass="blue">noun</lceHottextMeaning></p>
                     <p>Wer <lceHottextOption>
-                        <lceAnswerContentInline>reitet</lceAnswerContentInline><xref href="#./m01"/>
+                        <lceAnswerContentInline>reitet</lceAnswerContentInline><lceRef href="#./m01"/>
                     </lceHottextOption> so spät durch <lceHottextOption>
-                        <lceAnswerContentInline>Nacht</lceAnswerContentInline><xref href="#./m02"/>
+                        <lceAnswerContentInline>Nacht</lceAnswerContentInline><lceRef href="#./m02"/>
                     </lceHottextOption> und <lceHottextOption>
-                        <lceAnswerContentInline>Wind</lceAnswerContentInline><xref href="#./m02"/>
+                        <lceAnswerContentInline>Wind</lceAnswerContentInline><lceRef href="#./m02"/>
                     </lceHottextOption>?</p>
                     <p>Es <lceHottextOption>
-                        <lceAnswerContentInline>ist</lceAnswerContentInline><xref href="#./m01"/>
+                        <lceAnswerContentInline>ist</lceAnswerContentInline><lceRef href="#./m01"/>
                     </lceHottextOption> der <lceHottextOption>
-                        <lceAnswerContentInline>Vater</lceAnswerContentInline><xref href="#./m02"/>
+                        <lceAnswerContentInline>Vater</lceAnswerContentInline><lceRef href="#./m02"/>
                     </lceHottextOption> mit seinem <lceHottextOption>
-                        <lceAnswerContentInline>Kind</lceAnswerContentInline><xref href="#./m02"/>
+                        <lceAnswerContentInline>Kind</lceAnswerContentInline><lceRef href="#./m02"/>
                     </lceHottextOption>;</p>
                 </lceInlineInteractionText>
             </lceHottext>
