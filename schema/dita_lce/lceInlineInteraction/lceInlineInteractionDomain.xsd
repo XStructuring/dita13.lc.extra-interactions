@@ -12,6 +12,7 @@
                 <xs:element ref="lceTextEntry"/>
                 <xs:element ref="lceInlineChoice"/>
                 <xs:element ref="lceHottext"/>
+                <xs:element ref="lceInlineOrder"/>
             </xs:choice>
         </xs:sequence>
     </xs:group>
@@ -22,6 +23,7 @@
                 <xs:element ref="lceTextEntry"/>
                 <xs:element ref="lceInlineChoice"/>
                 <xs:element ref="lceHottext"/>
+                <xs:element ref="lceInlineOrder"/>
             </xs:choice>
         </xs:sequence>
     </xs:group>
@@ -35,6 +37,7 @@
                 <xs:element ref="lceHottextOption"/>
                 <xs:element ref="lceHottextMeaning"/>
                 <xs:element ref="lceCalculation"/>
+                <xs:element ref="lceInlineOrderOptions"/>
             </xs:choice>
         </xs:sequence>
     </xs:group>

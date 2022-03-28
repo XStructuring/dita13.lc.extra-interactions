@@ -5,6 +5,18 @@ Even already the follow up of "dita13.lc.extra-interactions" already exists, "eu
 we decided to also make a new version for "dita13.lc.extra-interactions" because most vendors and clients still use "dita13.lc.extra-interactions".
 The changes will also be transfered to a new version of "eu.xstructuring.dita.lce".
 
+Version 2.6
+- new attributes for answers
+  - answerlength - for gaps, t-shirt sizing
+  - answerlines - for open questions, integer
+  - answerformat - mainly for gaps, values: text, math, decimal, integer, date
+  - answernumbercorrect - for e.g. hotspot if all hotspot are correct but only a certain amount must be chosen
+- new attribute: questiontype - to define the sort question, at the moment only "opinion"
+- new attribute: placeholder - for text which must be overwritten by the end-user
+- new question element: lceInlineOrder - new question in which words or fragements within a sentence can be ordered; add to the inline interactions
+
+
+
 Version 2.5
 - new elements: lceCalculation, lceFraction, with children lceNumerator and lceDenominator), lceMathSign and lceMathPh. The lceCalculation should only be used in the lceTextEntry.
 - new elements: lceHottextMeaning and lceRef. In the lceHottextMeaning should be used to define the meaning of a hottext. From the lceHottextOption you can use the lceRef element to link the right meaning.

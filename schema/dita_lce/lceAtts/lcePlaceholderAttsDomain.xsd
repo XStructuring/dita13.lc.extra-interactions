@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ============================================================= -->
+<!--                    HEADER                                     -->
+
+<!-- ============================================================= -->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+  
+    <xs:annotation>
+      <xs:appinfo>
+        <dita:domainsModule xmlns:dita="http://dita.oasis-open.org/architecture/2005/">a(base placeholder)</dita:domainsModule>
+      </xs:appinfo>
+      <xs:documentation/>
+      
+    </xs:annotation>
+  
+  <xs:attributeGroup name="lcePlaceholderAtt-d-attribute">
+    <xs:attribute name="placeholdertext" type="xs:string">
+      <xs:annotation>
+        <xs:documentation>This attribute contains a placeholder text which is shown to the user and must be overwritten. It is not a predefined answer or answer example.
+        </xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+  </xs:attributeGroup>
+  
+  
+</xs:schema>

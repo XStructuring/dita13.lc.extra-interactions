@@ -16,6 +16,20 @@
 			</xs:choice>
 		</xs:group>
 		
+		
+		<xs:group name="lcItem2.content">
+			<xs:sequence>
+				<xs:choice minOccurs="0" maxOccurs="unbounded">
+					<xs:group ref="basic.block"/>
+					<xs:group ref="basic.ph"/>
+					<xs:group ref="data.elements.incl"/>
+					<xs:group ref="foreign.unknown.incl"/>
+					<xs:group ref="txt.incl"/>
+					<xs:group ref="lcSequence2"/>
+				</xs:choice>
+			</xs:sequence>
+		</xs:group>
+		
 	</xs:redefine>
 
 </xs:schema>

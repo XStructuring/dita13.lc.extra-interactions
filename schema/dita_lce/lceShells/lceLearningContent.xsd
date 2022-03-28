@@ -14,6 +14,7 @@
 <!-- version: 2.3.0  date:   author: Birgit -->
 <!-- version: 2.4.0  date:   author: Birgit -->
 <!-- version: 2.5.0  date: 02-02-2022  author: Birgit -->
+<!-- version: 2.6.0  date: 24-03-2022  author: Birgit -->
 
 <!-- ============================================================= -->
 <xs:schema xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
@@ -81,11 +82,15 @@
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceBoxDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceMathDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceRefDomainMod.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceInlineOrderDomain.xsd"/>
    
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceAnswerAttsDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceOrientationAttsDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceEduAttsDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceContentclassAttsDomain.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceMathAttsDomain.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceQuestionAttsDomain.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lcePlaceholderAttsDomain.xsd"/>
    
    <!--  -->
 
@@ -170,6 +175,8 @@
          <xs:attributeGroup ref="lceAnswerAtt-d-attribute"/>
          <xs:attributeGroup ref="lceOrientationAtt-d-attribute"/>
          <xs:attributeGroup ref="lceEduAtt-d-attribute"/>
+         <xs:attributeGroup ref="lceQuestionAtt-d-attribute"/>
+         <xs:attributeGroup ref="lcePlaceholderAtt-d-attribute"/>
       </xs:attributeGroup>
    </xs:redefine>
    <xs:redefine schemaLocation="urn:oasis:names:tc:dita:xsd:metaDeclGrp.xsd:1.3">
