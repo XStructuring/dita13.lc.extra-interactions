@@ -14,6 +14,7 @@ Version 2.6
 - new attribute: questiontype - to define the sort question, at the moment only "opinion"
 - new attribute: placeholder - for text which must be overwritten by the end-user
 - new question element: lceInlineOrder - new question in which words or fragements within a sentence can be ordered; add to the inline interactions
+- new element: lceMarginal - special element for content e.g. hyperlinks which must stand the marginal in a print product; in a digital product it should be mouse over or something like that. 
 
 
 
