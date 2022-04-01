@@ -229,6 +229,14 @@
         <uri name="urn:dita13lce:names:xsd:lceInlineOrderDomain.xsd" uri="lceInlineOrderDomain.xsd" />
     </group>
     
+    <group xml:base="lceMarginal/">
+        <system systemId="lceMarginalDomain.xsd" uri="lceMarginalDomain.xsd" />
+        <system systemId="urn:dita13lce:names:xsd:lceMarginalDomain.xsd" uri="lceMarginalDomain.xsd" />
+        
+        <uri name="lceMarginalDomain.xsd" uri="lceMarginalDomain.xsd" />
+        <uri name="urn:dita13lce:names:xsd:lceMarginalDomain.xsd" uri="lceMarginalDomain.xsd" />
+    </group>
+    
     <group xml:base="lceMatchInteraction/">
         <system systemId="lceChainMatchingDomain.xsd" uri="lceChainMatchingDomain.xsd" />
         <system systemId="urn:dita13lce:names:xsd:lceChainMatchingDomain.xsd" uri="lceChainMatchingDomain.xsd" />

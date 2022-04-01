@@ -103,10 +103,11 @@
             </xs:complexContent>
         </xs:complexType>
     </xs:element>
-    <xs:complexType name="lceNumerator.class" mixed="true">
+    <xs:complexType name="lceNumerator.class">
         <xs:sequence>
-            <xs:choice minOccurs="0" maxOccurs="1">
+            <xs:choice minOccurs="1" maxOccurs="1">
                 <xs:group ref="lceTextEntryOptions"/>
+                <xs:group ref="lceMathPh"/>
             </xs:choice>
         </xs:sequence>
         <xs:attributeGroup ref="lceFraction.attributes"/>
@@ -124,10 +125,11 @@
             </xs:complexContent>
         </xs:complexType>
     </xs:element>
-    <xs:complexType name="lceDenominator.class" mixed="true">
+    <xs:complexType name="lceDenominator.class">
         <xs:sequence>
-            <xs:choice minOccurs="0" maxOccurs="1">
+            <xs:choice minOccurs="1" maxOccurs="1">
                 <xs:group ref="lceTextEntryOptions"/>
+                <xs:group ref="lceMathPh"/>
             </xs:choice>
         </xs:sequence>
         <xs:attributeGroup ref="lceFraction.attributes"/>

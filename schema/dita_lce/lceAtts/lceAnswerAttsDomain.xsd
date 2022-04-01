@@ -44,6 +44,11 @@
         <xs:documentation>This attribute should be used with the lceChoiceInteraction or lceGraphicHotspot. In the lceGraphicHotspot this would be used when each hotspot is correct but only a certain amount must be choosen. </xs:documentation>
       </xs:annotation>
     </xs:attribute>
+    <xs:attribute name="outputorder" type="xs:integer" use="optional">
+      <xs:annotation>
+        <xs:documentation>This attribute can be used to define the outputorder if shuffle is not wanted and the order in the XML is different</xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
   </xs:attributeGroup>
   
   <xs:simpleType name="answertype-atts.class">

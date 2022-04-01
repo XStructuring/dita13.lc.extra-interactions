@@ -14,7 +14,7 @@
 <!-- version: 2.3.0  date:   author: Birgit -->
 <!-- version: 2.4.0  date:   author: Birgit -->
 <!-- version: 2.5.0  date: 02-02-2022  author: Birgit -->
-<!-- version: 2.6.0  date: 24-03-2022  author: Birgit -->
+<!-- version: 2.6.0  date: 29-03-2022  author: Birgit -->
 
 <!-- ============================================================= -->
 <xs:schema xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
@@ -83,6 +83,7 @@
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceMathDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceRefDomainMod.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceInlineOrderDomain.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceMarginalDomain.xsd"/>
    
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceAnswerAttsDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceOrientationAttsDomain.xsd"/>
@@ -118,6 +119,7 @@
             <!-- add -->
             <xs:group ref="equation-d-fig"/>
             <xs:group ref="lcebox-d-fig"/>
+            <xs:group ref="lcemarginal-d-fig"/>
          </xs:choice>
       </xs:group>
       <xs:group name="div">

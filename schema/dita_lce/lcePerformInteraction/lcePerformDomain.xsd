@@ -18,6 +18,8 @@
         <xs:sequence>
             <xs:choice>
                 <xs:element ref="lcePerformQuestion"/>
+                <!-- add -->
+                <xs:element ref="div"/>
             </xs:choice>
         </xs:sequence>
     </xs:group>
