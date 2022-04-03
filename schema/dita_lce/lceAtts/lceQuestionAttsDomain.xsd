@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ============================================================= -->
+<!--                    HEADER                                     -->
+
+<!-- ============================================================= -->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+  
+    <xs:annotation>
+      <xs:appinfo>
+        <dita:domainsModule xmlns:dita="http://dita.oasis-open.org/architecture/2005/">a(base questiontype)</dita:domainsModule>
+      </xs:appinfo>
+      <xs:documentation/>
+      
+    </xs:annotation>
+  
+  <xs:attributeGroup name="lceQuestionAtt-d-attribute">
+    <xs:attribute name="questiontype" type="question-atts.class" use="optional">
+      <xs:annotation>
+        <xs:documentation>This attribute can be used to define the kind of question. In v2p6 only one value: opinion
+        </xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+  </xs:attributeGroup>
+  
+  <xs:simpleType name="question-atts.class">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="opinion"/>
+    </xs:restriction>
+  </xs:simpleType>
+  
+ 
+</xs:schema>

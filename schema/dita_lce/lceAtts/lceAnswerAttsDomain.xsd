@@ -17,8 +17,36 @@
   <xs:attributeGroup name="lceAnswerAtt-d-attribute">
     <xs:attribute name="answertype" type="answertype-atts.class" use="optional">
       <xs:annotation>
-        <xs:documentation>this attribute should only be uesd with answer elements.
+        <xs:documentation>This attribute should only be uesd with answer elements.
         </xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+    <xs:attribute name="answerlength" type="answerlength-atts.class" use="optional">
+      <xs:annotation>
+        <xs:documentation>This attribute should only be uesd with gap answer elements. If the length for a gab is not defined than the output applicatie has to.
+        </xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+    <xs:attribute name="answerlines" type="xs:integer" use="optional">
+      <xs:annotation>
+        <xs:documentation>This attribute should only be use with open question to give information about the amount of lines.
+        </xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+    <xs:attribute name="answerformat" type="answerformat-atts.class" use="optional">
+      <xs:annotation>
+        <xs:documentation>This attribute should be used with gap answer elements. The attribute gives information over the kind of format in the gap.
+        </xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+    <xs:attribute name="answernumbercorrect" type="xs:integer" use="optional">
+      <xs:annotation>
+        <xs:documentation>This attribute should be used with the lceChoiceInteraction or lceGraphicHotspot. In the lceGraphicHotspot this would be used when each hotspot is correct but only a certain amount must be choosen. </xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+    <xs:attribute name="outputorder" type="xs:integer" use="optional">
+      <xs:annotation>
+        <xs:documentation>This attribute can be used to define the outputorder if shuffle is not wanted and the order in the XML is different</xs:documentation>
       </xs:annotation>
     </xs:attribute>
   </xs:attributeGroup>
@@ -26,6 +54,27 @@
   <xs:simpleType name="answertype-atts.class">
     <xs:restriction base="xs:string">
       <xs:enumeration value="predefined"/>
+      <xs:enumeration value="inexact"/>
+    </xs:restriction>
+  </xs:simpleType>
+  
+  <xs:simpleType name="answerlength-atts.class">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="xs"/>
+      <xs:enumeration value="s"/>
+      <xs:enumeration value="m"/>
+      <xs:enumeration value="l"/>
+      <xs:enumeration value="xl"/>
+    </xs:restriction>
+  </xs:simpleType>
+  
+  <xs:simpleType name="answerformat-atts.class">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="text"/>
+      <xs:enumeration value="math"/>
+      <xs:enumeration value="decimal"/>
+      <xs:enumeration value="integer"/>
+      <xs:enumeration value="date"/>
     </xs:restriction>
   </xs:simpleType>
   

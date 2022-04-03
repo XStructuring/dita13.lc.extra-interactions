@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningAssessment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:2.6" id="x01">
+    <title>Inline order with outputorder</title>
+    <learningAssessmentbody>
+        <lcInteraction>
+            <lceInlineOrder>
+                <lcQuestion2><p>Sort the sentences</p></lcQuestion2>
+                <lceInlineInteractionText>
+                    <ol>
+                        <li><p><lceInlineOrderOptions shuffle="yes">
+                            <lceInlineOrderOption>
+                                <lceAnswerContentInline>Ben</lceAnswerContentInline>
+                                <lcSequence2 value="1"></lcSequence2>
+                            </lceInlineOrderOption><lceInlineOrderOption>
+                                <lceAnswerContentInline>is</lceAnswerContentInline>
+                                <lcSequence2 value="2"></lcSequence2>
+                            </lceInlineOrderOption><lceInlineOrderOption>
+                                <lceAnswerContentInline>going</lceAnswerContentInline>
+                                <lcSequence2 value="3"></lcSequence2>
+                            </lceInlineOrderOption><lceInlineOrderOption>
+                                <lceAnswerContentInline>to</lceAnswerContentInline>
+                                <lcSequence2 value="4"></lcSequence2>
+                            </lceInlineOrderOption><lceInlineOrderOption>
+                                <lceAnswerContentInline>school</lceAnswerContentInline>
+                                <lcSequence2 value="5"></lcSequence2>
+                            </lceInlineOrderOption>
+                        </lceInlineOrderOptions>.</p></li>
+                        <li><p><lceInlineOrderOptions shuffle="yes">
+                            <lceInlineOrderOption>
+                                <lceAnswerContentInline>Dany</lceAnswerContentInline>
+                                <lcSequence2 value="1"></lcSequence2>
+                            </lceInlineOrderOption><lceInlineOrderOption>
+                                <lceAnswerContentInline>is</lceAnswerContentInline>
+                                <lcSequence2 value="2"></lcSequence2>
+                            </lceInlineOrderOption><lceInlineOrderOption>
+                                <lceAnswerContentInline>listening</lceAnswerContentInline>
+                                <lcSequence2 value="3"></lcSequence2>
+                            </lceInlineOrderOption><lceInlineOrderOption>
+                                <lceAnswerContentInline>to</lceAnswerContentInline>
+                                <lcSequence2 value="4"></lcSequence2>
+                            </lceInlineOrderOption><lceInlineOrderOption>
+                                <lceAnswerContentInline>music</lceAnswerContentInline>
+                                <lcSequence2 value="5"></lcSequence2>
+                            </lceInlineOrderOption>
+                        </lceInlineOrderOptions>.</p></li>
+                        <li><p><lceInlineOrderOptions shuffle="no">
+                            <lceInlineOrderOption outputorder="3">
+                                <lceAnswerContentInline>July</lceAnswerContentInline>
+                                <lcSequence2 value="1"></lcSequence2>
+                            </lceInlineOrderOption><lceInlineOrderOption outputorder="1">
+                                <lceAnswerContentInline>is</lceAnswerContentInline>
+                                <lcSequence2 value="2"></lcSequence2>
+                            </lceInlineOrderOption><lceInlineOrderOption outputorder="4">
+                                <lceAnswerContentInline>playing</lceAnswerContentInline>
+                                <lcSequence2 value="3"></lcSequence2>
+                            </lceInlineOrderOption><lceInlineOrderOption outputorder="2">
+                                <lceAnswerContentInline>piano</lceAnswerContentInline>
+                                <lcSequence2 value="4"></lcSequence2>
+                            </lceInlineOrderOption>
+                        </lceInlineOrderOptions>.</p></li>
+                    </ol>
+                </lceInlineInteractionText>
+            </lceInlineOrder>
+        </lcInteraction>
+     </learningAssessmentbody>
+</learningAssessment>
