@@ -99,7 +99,6 @@
             <xs:group ref="data"/>
             <xs:group ref="ut-d-data"/>
             <xs:group ref="lcedata-d-data"/>
-            <xs:group ref="lcSequence2"/>
          </xs:choice>
       </xs:group>
       <xs:group name="note">
