@@ -15,7 +15,8 @@ Version 2.6
   - answernumbercorrect - for e.g. hotspot if all hotspot are correct but only a certain amount must be chosen
   - outputorder - if shuffle is not wanted and the order must be a certain
 - new attribute: questiontype - to define the sort question, at the moment only "opinion"
-- new attribute: placeholder - for text which must be overwritten by the end-user
+- add value "inexact" to attribut answertype; should be used for text entry questions when the answer can variate a bit
+- new attribute: placeholder - for text which must be overwritten by the end-user, usually used for text entry questions
 - new question element: lceInlineOrder - new question in which words or fragements within a sentence can be ordered; add to the inline interactions
 - new element: lceMarginal - special element for content e.g. hyperlinks which must stand the marginal in a print product; in a digital product it should be mouse over or something like that. 
 - changed content model of lcInteraction, now the div element is allowed as child of lcInteraction; this is done by adding div to the group lceperforminteraction-d-lcInteractionBase2
