@@ -11,6 +11,7 @@ Defines a DITA-OT 2.x plugin containing the LCE DITA 1.3 specializations.
 The dita lce extention/spezialisation is only done for the follwoing to topic types:
 - learningAssessment
 - learningContent
+
 If using other topic type no lce changes will appear. One of them is the integration of mathML and SVG. Both are missing in the original version of all learning topic types. 
 
 ## Global information
