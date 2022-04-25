@@ -7,6 +7,12 @@ Defines a DITA-OT 2.x plugin containing the LCE DITA 1.3 specializations.
 1. Checkout this repository in ```{DITA_OT2.x_PATH}/plugins/dita13.lc.extra-interactions```
 2. From ```{DITA_OT2.x_PATH}``` run ```ant -f integrator.xml```
 
+## Important to know
+The dita lce extention/spezialisation is only done for the follwoing to topic types:
+- learningAssessment
+- learningContent
+If using other topic type no lce changes will appear. One of them is the integration of mathML and SVG. Both are missing in the original version of all learning topic types. 
+
 ## Global information
 
 The dita13.lc.extra-interactions has been developed from XStructuring with support of Fonto XML and ThiemeMeulenhoff 
@@ -15,11 +21,6 @@ using their experience with and knowledge of educational content.
 ## Schema documentation
 
 See map "documentation"
-
-## Schema roadmap
-
-Some more interactions: upload, crossword, graphicGapTextEntry
-
 
 ## License
 
