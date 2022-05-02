@@ -83,8 +83,8 @@
                     <lceAreaGTE>
                         <lceAnswerOptionInline>
                             <lceAnswerContentInline><lceFraction>
-                                    <lceNumerator>2</lceNumerator>
-                                    <lceDenominator>3</lceDenominator>
+                                    <lceNumerator><lceMathPh>2</lceMathPh></lceNumerator>
+                                    <lceDenominator><lceMathPh>3</lceMathPh></lceDenominator>
                                 </lceFraction></lceAnswerContentInline>
                         </lceAnswerOptionInline>
                         <lcAreaShape2>rect</lcAreaShape2>
