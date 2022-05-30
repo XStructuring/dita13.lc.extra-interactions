@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ============================================================= -->
+<!--                    HEADER                                     -->
+
+<!-- ============================================================= -->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+  
+    <xs:annotation>
+      <xs:appinfo>
+        <dita:domainsModule xmlns:dita="http://dita.oasis-open.org/architecture/2005/">(topic lce-sequencealt-d)</dita:domainsModule>
+      </xs:appinfo>
+      <xs:documentation>
+      
+      </xs:documentation>
+    </xs:annotation>
+
+
+  <xs:group name="lce-sequencealt-d-data">
+    <xs:choice>
+      <xs:element ref="lceSequenceAlt" />
+    </xs:choice>
+  </xs:group>
+  
+  <xs:group name="lceSequenceAlt">
+      <xs:sequence>
+         <xs:choice>
+           <xs:element ref="lceSequenceAlt"/>
+         </xs:choice>
+      </xs:sequence>
+   </xs:group>
+
+   
+  <!-- ================================= -->
+  
+  <xs:element name="lceSequenceAlt">
+    <xs:annotation>
+      <xs:documentation>For alternative orders. Use the set and the value atributes.</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="lceSequenceAlt.class">
+          <xs:attribute ref="class"
+            default="+ topic/data learningInteractionBase2-d/data lce-sequencealt-d/lceSequenceAlt "/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="lceSequenceAlt.class">
+    <xs:sequence>
+      <xs:group ref="lceSequenceAlt.content"/>
+    </xs:sequence>
+    <xs:attributeGroup ref="lceSequenceAlt.attributes"/>
+  </xs:complexType>
+  <xs:group name="lceSequenceAlt.content">
+    <xs:sequence/>
+  </xs:group>
+  <xs:attributeGroup name="lceSequenceAlt.attributes">
+    <xs:attribute name="name" type="xs:string" />
+    <xs:attribute name="value" use="required" type="xs:string"/>
+    <xs:attributeGroup ref="univ-atts"/>
+    <xs:attribute name="outputclass" type="xs:string"/>
+    <xs:attributeGroup ref="global-atts"/>
+  </xs:attributeGroup>
+  
+</xs:schema>

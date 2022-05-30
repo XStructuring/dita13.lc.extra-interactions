@@ -81,6 +81,10 @@
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceRefDomainMod.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceInlineOrderDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceMarginalDomain.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceBrDomainMod.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceRefpointDomainMod.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceSequenceAltDomainMod.xsd"/>
+   
    
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceAnswerAttsDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceOrientationAttsDomain.xsd"/>
@@ -89,6 +93,7 @@
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceMathAttsDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceQuestionAttsDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lcePlaceholderAttsDomain.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceSetAttsDomain.xsd"/>
    
    
    <!--  -->
@@ -141,6 +146,8 @@
             <!-- add -->
             <xs:group ref="equation-d-ph"/>
             <xs:group ref="lceinlineinteraction-d-ph"/>
+            <xs:group ref="lce-br-d-ph"/>
+            <xs:group ref="lce-refpoint-d-ph"/>
          </xs:choice>
       </xs:group>
       <xs:group name="foreign">
@@ -170,6 +177,7 @@
          <xs:attributeGroup ref="props-attribute-extensions"/>
          <xs:attributeGroup ref="deliveryTargetAtt-d-attribute"/>
          <xs:attributeGroup ref="lceContentclassAtt-d-attribute"/>
+         <xs:attributeGroup ref="lceSetAtt-d-attribute"/>
       </xs:attributeGroup>
       <xs:attributeGroup name="base-attribute-extensions">
          <xs:attributeGroup ref="base-attribute-extensions"/>
@@ -200,6 +208,15 @@
                <xs:group ref="lcAsset2"/>
                <xs:group ref="lceExplanation"/>
             </xs:choice>
+      </xs:group>
+      
+      <xs:group name="lcSequence2">
+         <xs:sequence>
+            <xs:choice>
+               <xs:group ref="lcSequence2"/>
+               <xs:group ref="lce-sequencealt-d-data"/>
+            </xs:choice>
+         </xs:sequence>
       </xs:group>
    </xs:redefine>
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:map.xsd">
+    xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceMap.xsd:2.7">
     <title>Map_with_interactions.ditamap</title>
     <topicgroup>
         <topicmeta>
