@@ -164,7 +164,9 @@
       <xs:group name="xref">
             <xs:choice>
                <xs:group ref="xref"/>
+               <!-- add -->
                <xs:group ref="lcegapinteraction-d-xref"/>
+               <xs:group ref="lceref-d-xref"/>
             </xs:choice>         
       </xs:group>
       <xs:attributeGroup name="props-attribute-extensions">
