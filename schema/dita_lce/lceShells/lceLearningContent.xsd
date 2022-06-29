@@ -15,6 +15,7 @@
 <!-- version: 2.4.0  date:   author: Birgit -->
 <!-- version: 2.5.0  date: 02-02-2022  author: Birgit -->
 <!-- version: 2.6.0  date: 29-03-2022  author: Birgit -->
+<!-- version: 2.6.1  date: 29-06-2022  author: Birgit -->
 
 <!-- ============================================================= -->
 <xs:schema xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
@@ -164,7 +165,9 @@
       <xs:group name="xref">
             <xs:choice>
                <xs:group ref="xref"/>
+               <!-- add -->
                <xs:group ref="lcegapinteraction-d-xref"/>
+               <xs:group ref="lceref-d-xref"/>
             </xs:choice>         
       </xs:group>
       <xs:attributeGroup name="props-attribute-extensions">
