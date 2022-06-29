@@ -6,6 +6,10 @@ we decided to also make a new version for "dita13.lc.extra-interactions" because
 
 It is not defined yet if the changes will be moved to the 3.0 version or if the 3.0 version will be deleted. Most of the important changes are already in 2.6.
 
+Version 2.6.1
+Bugfix
+- add all fig attributes to lceMarginal
+- add ref to lceRef in xs:group of xref in learningContent shell
 
 Version 2.6
 - new attributes for answers
