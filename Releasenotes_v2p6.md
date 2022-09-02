@@ -6,6 +6,12 @@ we decided to also make a new version for "dita13.lc.extra-interactions" because
 
 It is not defined yet if the changes will be moved to the 3.0 version or if the 3.0 version will be deleted. Most of the important changes are already in 2.6.
 
+Version 2.6.2
+Bugfix/changes
+- changed type of attribute questiontype, now xs:string instead of value opinion
+- new atribute opinion xs:boolean
+- questiontype and opinion are attributes of the group lceQuestionAtt-d-attribute, thus now changes in the shell XSDs 
+
 Version 2.6.1
 Bugfix
 - add all fig attributes to lceMarginal
