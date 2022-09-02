@@ -15,19 +15,13 @@
     </xs:annotation>
   
   <xs:attributeGroup name="lceQuestionAtt-d-attribute">
-    <xs:attribute name="questiontype" type="question-atts.class" use="optional">
+    <xs:attribute name="questiontype" use="optional" type="xs:string">
       <xs:annotation>
-        <xs:documentation>This attribute can be used to define the kind of question. In v2p6 only one value: opinion
-        </xs:documentation>
+        <xs:documentation>This attribute can be used to define the kind of question.</xs:documentation>
       </xs:annotation>
     </xs:attribute>
+    <xs:attribute name="opinion" type="xs:boolean" use="optional"></xs:attribute>
   </xs:attributeGroup>
-  
-  <xs:simpleType name="question-atts.class">
-    <xs:restriction base="xs:string">
-      <xs:enumeration value="opinion"/>
-    </xs:restriction>
-  </xs:simpleType>
-  
+    
  
 </xs:schema>
