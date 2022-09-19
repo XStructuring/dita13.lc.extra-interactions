@@ -20,8 +20,15 @@
         <xs:documentation>This attribute can be used to define the kind of question.</xs:documentation>
       </xs:annotation>
     </xs:attribute>
-    <xs:attribute name="opinion" type="xs:boolean" use="optional"></xs:attribute>
+    <xs:attribute name="opinion" type="opinion-atts.class" use="optional"></xs:attribute>
   </xs:attributeGroup>
+  
+  <xs:simpleType name="opinion-atts.class">
+  <xs:restriction base="xs:string">
+    <xs:enumeration value="yes"/>
+    <xs:enumeration value="no"/>
+  </xs:restriction>
+</xs:simpleType>
     
  
 </xs:schema>
