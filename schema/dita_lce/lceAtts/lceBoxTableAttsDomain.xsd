@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ============================================================= -->
+<!--                    HEADER                                     -->
+
+<!-- ============================================================= -->
+
+<xs:schema xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:annotation>
+    <xs:appinfo>
+      <dita:domainsModule xmlns:dita="http://dita.oasis-open.org/architecture/2005/">a(base lceBoxAtts)</dita:domainsModule>
+    </xs:appinfo>
+  </xs:annotation>
+  
+  <xs:attributeGroup name="lceBoxTableAtt-d-attribute">
+    <xs:attribute name="boxwidth" type="rel-atts.class">
+      <xs:annotation>
+        <xs:documentation>Specifies the width of a box.</xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+    <xs:attribute name="boxheight" type="rel-atts.class">
+      <xs:annotation>
+        <xs:documentation>Specifies the height of a box.</xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+    <xs:attribute name="conerradius" type="xs:string">
+      <xs:annotation>
+        <xs:documentation>Specifies if and how round the corners of a box should be.</xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+    <xs:attribute name="rowheight" type="xs:string">
+      <xs:annotation>
+        <xs:documentation>Specifies the height of a row. Same data type as colwidth.</xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+    <xs:attribute name="linestyle" type="linestyle-atts.class">
+      <xs:annotation>
+        <xs:documentation>Specifies the stype of a frame</xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+    
+  </xs:attributeGroup>
+  
+  
+  
+  <xs:simpleType name="rel-atts.class">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="automatic"/>
+      <xs:enumeration value="50%"/>
+      <xs:enumeration value="30%"/>
+    </xs:restriction>
+  </xs:simpleType>
+  
+  <xs:simpleType name="linestyle-atts.class">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="standard"/>
+      <xs:enumeration value="dotted"/>
+      <xs:enumeration value="dashed"/>
+      <xs:enumeration value="bold"/>
+      <xs:enumeration value="double"/>
+    </xs:restriction>
+  </xs:simpleType>
+  
+  
+  
+</xs:schema>

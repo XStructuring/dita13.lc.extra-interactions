@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ============================================================= -->
+<!--                    HEADER                                     -->
+
+<!-- ============================================================= -->
+
+<xs:schema xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:annotation>
+    <xs:appinfo>
+      <dita:domainsModule xmlns:dita="http://dita.oasis-open.org/architecture/2005/">a(base lceListType)</dita:domainsModule>
+    </xs:appinfo>
+  </xs:annotation>
+  
+  <xs:attributeGroup name="lceListTypeAtt-d-attribute">
+    <xs:attribute name="oltype" type="oltype-atts.class" default="decimal">
+      <xs:annotation>
+        <xs:documentation>Specifies the list style for ol</xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+    <xs:attribute name="olstart" type="xs:string" >
+      <xs:annotation>
+        <xs:documentation>Specifies the start number</xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+    <xs:attribute name="olhierarchicalsep" type="olhierarchicalsep-atts.class" default="point" use="optional">
+      <xs:annotation>
+        <xs:documentation>In case of nested ol's in this attribuut the seperator which should be used is defined</xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+    <xs:attribute name="ultype" type="ultype-atts.class" default="bullet">
+      <xs:annotation>
+        <xs:documentation>Specifies the list style for ul</xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+  </xs:attributeGroup>
+  
+  
+  <!-- most values like in css -->
+  <xs:simpleType name="oltype-atts.class">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="decimal"/>
+      <xs:enumeration value="lower-roman"/>
+      <xs:enumeration value="upper-roman"/>
+      <xs:enumeration value="lower-latin"/>
+      <xs:enumeration value="upper-latin"/>
+      <xs:enumeration value="lower-greek"/>
+    </xs:restriction>
+  </xs:simpleType>
+  
+  <xs:simpleType name="olhierarchicalsep-atts.class">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="none"/>
+      <xs:enumeration value="point"/>
+      <xs:enumeration value="closingbracket"/>
+    </xs:restriction>
+  </xs:simpleType>
+  
+  <xs:simpleType name="ultype-atts.class">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="bullet"/>
+      <xs:enumeration value="circle"/>
+      <xs:enumeration value="square"/>
+      <xs:enumeration value="checkbox"/>
+      <xs:enumeration value="dash"/>
+      <xs:enumeration value="blank"/>
+      <xs:enumeration value="arrow"/>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>

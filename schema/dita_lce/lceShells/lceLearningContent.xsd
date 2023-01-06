@@ -15,7 +15,9 @@
 <!-- version: 2.4.0  date:   author: Birgit -->
 <!-- version: 2.5.0  date: 02-02-2022  author: Birgit -->
 <!-- version: 2.6.0  date: 29-03-2022  author: Birgit -->
-<!-- version: 2.7.0  date: 30-05-2022  author: Birgit -->
+<!-- version: 2.6.1  date:   author: Birgit -->
+<!-- version: 2.7.0  date: 06-01-2022  author: Birgit -->
+
 
 <!-- ============================================================= -->
 <xs:schema xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
@@ -96,6 +98,10 @@
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceQuestionAttsDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lcePlaceholderAttsDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceSetAttsDomain.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceListAttsDomain.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lcePositionAttsDomain.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceBoxTableAttsDomain.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceColorAttsDomain.xsd"/>
    
    <!--  -->
 
@@ -186,6 +192,10 @@
          <xs:attributeGroup ref="lceEduAtt-d-attribute"/>
          <xs:attributeGroup ref="lceQuestionAtt-d-attribute"/>
          <xs:attributeGroup ref="lcePlaceholderAtt-d-attribute"/>
+         <xs:attributeGroup ref="lceListTypeAtt-d-attribute"/>
+         <xs:attributeGroup ref="lcePositionAtt-d-attribute"/>
+         <xs:attributeGroup ref="lceBoxTableAtt-d-attribute"/>
+         <xs:attributeGroup ref="lceColorAtt-d-attribute"/>
       </xs:attributeGroup>
    </xs:redefine>
    <xs:redefine schemaLocation="urn:oasis:names:tc:dita:xsd:metaDeclGrp.xsd:1.3">
