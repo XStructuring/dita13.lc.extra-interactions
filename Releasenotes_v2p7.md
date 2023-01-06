@@ -6,6 +6,25 @@ we decided to also make a new version for "dita13.lc.extra-interactions" because
 
 It is not defined yet if the changes will be moved to the 3.0 version or if the 3.0 version will be deleted. Most of the important changes are already in 2.6.
 
+Version 2.7
+- new shell XSD voor lceMap; now a map with all lce attributes can be used
+- new attributes for list, box and table layout
+  - oltype: defines the style of the ol, values are: decimal, upper-latin, lower-latin, upper-roman, lower-roman and lower-greek
+  - ultype: defines the stype for the symbol used, values are: bullet, dash, circle, blank, square, checkbox and arrow
+  - olstart: defines with which number should be started if different from 1
+  - olhierarchicalsep: defines the seperator which should be used for nested ol
+  - boxwidth: defines the relative width of a box
+  - boxheight: defines the relative height of a box
+  - rowheight: defines the height of a row
+  - linestyle: defines how the line/border of a box, table, colom, row or entry should look like.
+  - conerradius: defines if an how round the coners of a box should be.
+- new attributes for using colors
+  - color: type xs:string, can be used to define the color of a text (using the ph element)
+  - background: type xs:string, can be used to define the background color of text (using the ph element), box, table, col, row and entry.
+- new attribute position: can be used to define the position in the print layout
+
+Version 2.6.1 and 2.6.2
+- Bugfixes
 
 Version 2.6
 - new attributes for answers
