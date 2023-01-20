@@ -105,6 +105,30 @@
         
         <uri name="lceSetAttsDomain.xsd" uri="lceSetAttsDomain.xsd" />
         <uri name="urn:dita13lce:names:xsd:lceSetAttsDomain.xsd" uri="lceSetAttsDomain.xsd" />
+        
+        <system systemId="lceListAttsDomain.xsd" uri="lceListAttsDomain.xsd" />
+        <system systemId="urn:dita13lce:names:xsd:lceListAttsDomain.xsd" uri="lceListAttsDomain.xsd" />
+        
+        <uri name="lceListAttsDomain.xsd" uri="lceListAttsDomain.xsd" />
+        <uri name="urn:dita13lce:names:xsd:lceListAttsDomain.xsd" uri="lceListAttsDomain.xsd" />
+        
+        <system systemId="lcePositionAttsDomain.xsd" uri="lcePositionAttsDomain.xsd" />
+        <system systemId="urn:dita13lce:names:xsd:lcePositionAttsDomain.xsd" uri="lcePositionAttsDomain.xsd" />
+        
+        <uri name="lcePositionAttsDomain.xsd" uri="lcePositionAttsDomain.xsd" />
+        <uri name="urn:dita13lce:names:xsd:lcePositionAttsDomain.xsd" uri="lcePositionAttsDomain.xsd" />
+        
+        <system systemId="lceBoxTableAttsDomain.xsd" uri="lceBoxTableAttsDomain.xsd" />
+        <system systemId="urn:dita13lce:names:xsd:lceBoxTableAttsDomain.xsd" uri="lceBoxTableAttsDomain.xsd" />
+        
+        <uri name="lceBoxTableAttsDomain.xsd" uri="lceBoxTableAttsDomai.xsdn" />
+        <uri name="urn:dita13lce:names:xsd:lceBoxTableAttsDomain.xsd" uri="lceBoxTableAttsDomain.xsd" />
+        
+        <system systemId="lceColorAttsDomain.xsd" uri="lceColorAttsDomain.xsd" />
+        <system systemId="urn:dita13lce:names:xsd:lceColorAttsDomain.xsd" uri="lceColorAttsDomain.xsd" />
+        
+        <uri name="lceColorAttsDomain.xsd" uri="lceColorAttsDomain.xsdn" />
+        <uri name="urn:dita13lce:names:xsd:lceColorAttsDomain.xsd" uri="lceColorAttsDomain.xsd" />
     </group>
     
     <group xml:base="lceBox/">
