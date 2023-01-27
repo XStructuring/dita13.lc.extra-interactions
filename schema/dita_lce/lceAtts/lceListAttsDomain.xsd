@@ -13,7 +13,7 @@
   </xs:annotation>
   
   <xs:attributeGroup name="lceListTypeAtt-d-attribute">
-    <xs:attribute name="oltype" type="oltype-atts.class" default="decimal">
+    <xs:attribute name="olstyle" type="olstyle-atts.class" default="decimal">
       <xs:annotation>
         <xs:documentation>Specifies the list style for ol</xs:documentation>
       </xs:annotation>
@@ -28,16 +28,21 @@
         <xs:documentation>In case of nested ol's in this attribuut the seperator which should be used is defined</xs:documentation>
       </xs:annotation>
     </xs:attribute>
-    <xs:attribute name="ultype" type="ultype-atts.class" default="bullet">
+    <xs:attribute name="ulstyle" type="ulstyle-atts.class" default="bullet">
       <xs:annotation>
         <xs:documentation>Specifies the list style for ul</xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+    <xs:attribute name="licheckboxmark" type="xs:boolean">
+      <xs:annotation>
+        <xs:documentation>Specifies if the checkbox for a li in checklist is already marked</xs:documentation>
       </xs:annotation>
     </xs:attribute>
   </xs:attributeGroup>
   
   
   <!-- most values like in css -->
-  <xs:simpleType name="oltype-atts.class">
+  <xs:simpleType name="olstyle-atts.class">
     <xs:restriction base="xs:string">
       <xs:enumeration value="decimal"/>
       <xs:enumeration value="lower-roman"/>
@@ -56,7 +61,7 @@
     </xs:restriction>
   </xs:simpleType>
   
-  <xs:simpleType name="ultype-atts.class">
+  <xs:simpleType name="ulstyle-atts.class">
     <xs:restriction base="xs:string">
       <xs:enumeration value="bullet"/>
       <xs:enumeration value="circle"/>

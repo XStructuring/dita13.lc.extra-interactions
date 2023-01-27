@@ -17,14 +17,13 @@
   <xs:attributeGroup name="lceColorAtt-d-attribute">
     <xs:attribute name="color" type="xs:string" use="optional">
       <xs:annotation>
-        <xs:documentation>This attribute can be used to define the color of something
+        <xs:documentation>This attribute can be used to define the color eg. text
         </xs:documentation>
       </xs:annotation>
     </xs:attribute>
     <xs:attribute name="background" type="xs:string" use="optional">
       <xs:annotation>
-        <xs:documentation>This attribute can be used to define the background of something. 
-          If an image should be used as background, this should be defined in a data element with href to the image.
+        <xs:documentation>This attribute can be used to define the background of a block element eg. box. This can be a color or an imagecode. You cannot link an image.
         </xs:documentation>
       </xs:annotation>
     </xs:attribute>

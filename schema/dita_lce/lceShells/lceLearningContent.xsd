@@ -196,6 +196,7 @@
          <xs:attributeGroup ref="lcePositionAtt-d-attribute"/>
          <xs:attributeGroup ref="lceBoxTableAtt-d-attribute"/>
          <xs:attributeGroup ref="lceColorAtt-d-attribute"/>
+         <xs:attributeGroup ref="lceIconclassAtt-d-attribute"/>
       </xs:attributeGroup>
    </xs:redefine>
    <xs:redefine schemaLocation="urn:oasis:names:tc:dita:xsd:metaDeclGrp.xsd:1.3">

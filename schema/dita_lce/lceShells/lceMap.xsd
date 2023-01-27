@@ -147,6 +147,7 @@
          <xs:attributeGroup ref="lcePositionAtt-d-attribute"/>
          <xs:attributeGroup ref="lceBoxTableAtt-d-attribute"/>
          <xs:attributeGroup ref="lceColorAtt-d-attribute"/>
+         <xs:attributeGroup ref="lceIconclassAtt-d-attribute"/>
       </xs:attributeGroup>
    </xs:redefine>
    

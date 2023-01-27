@@ -22,5 +22,14 @@
       </xs:annotation>
     </xs:attribute>
   </xs:attributeGroup>
+  
+  <xs:attributeGroup name="lceIconclassAtt-d-attribute">
+    <xs:attribute name="icon" type="xs:string">
+      <xs:annotation>
+        <xs:documentation>In this attribut there can be given a code for a certain icon. This also can be a unicode symbol.
+        </xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+  </xs:attributeGroup>
 
 </xs:schema>
