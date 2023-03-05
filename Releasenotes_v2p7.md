@@ -24,6 +24,7 @@ Version 2.7
   - background: type xs:string, can be used to define the background color of text (using the ph element), or block elements like box, table, col, row and entry. Instead of a color it is possible to use an image code for a background image.
 - new attribute position: can be used to define the position in the print layout
 - new attribute icon: in this attribute a code for an icon can be given
+- new attribute participation: with this attribute you can define if a question or sub-question should be worked out with a partner or in a group.
 
 Version 2.6.1 and 2.6.2
 - Bugfixes
