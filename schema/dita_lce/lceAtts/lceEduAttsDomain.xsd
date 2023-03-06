@@ -33,6 +33,12 @@
         </xs:documentation>
       </xs:annotation>
     </xs:attribute>
+    <xs:attribute name="participation" type="participation-atts.class" use="optional">
+      <xs:annotation>
+        <xs:documentation>This attribute can be used to define who should work together for this question or interaction
+        </xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
   </xs:attributeGroup>
   
   <xs:simpleType name="shuffle-atts.class">
@@ -48,5 +54,14 @@
     <xs:enumeration value="no"/>
   </xs:restriction>
 </xs:simpleType>
+  
+  <xs:simpleType name="participation-atts.class">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="single"/>
+      <xs:enumeration value="partner"/>
+      <xs:enumeration value="group"/>
+      <xs:enumeration value="class"/>
+    </xs:restriction>
+  </xs:simpleType>
 
 </xs:schema>

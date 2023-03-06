@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ============================================================= -->
+<!--                    HEADER                                     -->
+
+<!-- ============================================================= -->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+  
+    <xs:annotation>
+      <xs:appinfo>
+        <dita:domainsModule xmlns:dita="http://dita.oasis-open.org/architecture/2005/">a(base position)</dita:domainsModule>
+      </xs:appinfo>
+      <xs:documentation/>
+      
+    </xs:annotation>
+  
+  <xs:attributeGroup name="lcePositionAtt-d-attribute">
+    <xs:attribute name="position" type="position-atts.class" use="optional">
+      <xs:annotation>
+        <xs:documentation>This attribute can be used with a box to define the position.
+        </xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+  </xs:attributeGroup>
+  
+  <xs:simpleType name="position-atts.class">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="marginal"/>
+      <xs:enumeration value="inside"/>
+      <xs:enumeration value="outside"/>
+      <xs:enumeration value="textflow"/>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>
