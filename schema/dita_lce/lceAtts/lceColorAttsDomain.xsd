@@ -8,25 +8,22 @@
   
     <xs:annotation>
       <xs:appinfo>
-        <dita:domainsModule xmlns:dita="http://dita.oasis-open.org/architecture/2005/">a(props contentclass)</dita:domainsModule>
+        <dita:domainsModule xmlns:dita="http://dita.oasis-open.org/architecture/2005/">a(base colorlayouts)</dita:domainsModule>
       </xs:appinfo>
       <xs:documentation/>
       
     </xs:annotation>
   
-  <xs:attributeGroup name="lceContentclassAtt-d-attribute">
-    <xs:attribute name="contentclass" type="xs:string"  use="optional">
+  <xs:attributeGroup name="lceColorAtt-d-attribute">
+    <xs:attribute name="color" type="xs:string" use="optional">
       <xs:annotation>
-        <xs:documentation>this attribute should be used to specify the semantic meaning of a generic element e.g. div
+        <xs:documentation>This attribute can be used to define the color eg. text
         </xs:documentation>
       </xs:annotation>
     </xs:attribute>
-  </xs:attributeGroup>
-  
-  <xs:attributeGroup name="lceIconclassAtt-d-attribute">
-    <xs:attribute name="icon" type="xs:string">
+    <xs:attribute name="background" type="xs:string" use="optional">
       <xs:annotation>
-        <xs:documentation>In this attribut there can be given a code for a certain icon. This also can be a unicode symbol.
+        <xs:documentation>This attribute can be used to define the background of a block element eg. box. This can be a color or an imagecode. You cannot link an image.
         </xs:documentation>
       </xs:annotation>
     </xs:attribute>

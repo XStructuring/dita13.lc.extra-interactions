@@ -17,7 +17,7 @@
 <!-- version: 2.6.0  date: 29-03-2022  author: Birgit -->
 <!-- version: 2.6.1  date: 29-06-2022  author: Birgit -->
 <!-- version: 2.6.2  date: 02-09-2022  author: Birgit -->
-
+<!-- version: 2.7    date: 05-03-2023  author: Birgit -->
 
 
 <!-- ============================================================= -->
@@ -84,6 +84,10 @@
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceRefDomainMod.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceInlineOrderDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceMarginalDomain.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceBrDomainMod.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceRefpointDomainMod.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceSequenceAltDomainMod.xsd"/>
+   
    
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceAnswerAttsDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceOrientationAttsDomain.xsd"/>
@@ -92,6 +96,11 @@
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceMathAttsDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceQuestionAttsDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lcePlaceholderAttsDomain.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceSetAttsDomain.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceListAttsDomain.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lcePositionAttsDomain.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceBoxTableAttsDomain.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceColorAttsDomain.xsd"/>
    
    
    <!--  -->
@@ -144,6 +153,8 @@
             <!-- add -->
             <xs:group ref="equation-d-ph"/>
             <xs:group ref="lceinlineinteraction-d-ph"/>
+            <xs:group ref="lce-br-d-ph"/>
+            <xs:group ref="lce-refpoint-d-ph"/>
          </xs:choice>
       </xs:group>
       <xs:group name="foreign">
@@ -173,6 +184,7 @@
          <xs:attributeGroup ref="props-attribute-extensions"/>
          <xs:attributeGroup ref="deliveryTargetAtt-d-attribute"/>
          <xs:attributeGroup ref="lceContentclassAtt-d-attribute"/>
+         <xs:attributeGroup ref="lceSetAtt-d-attribute"/>
       </xs:attributeGroup>
       <xs:attributeGroup name="base-attribute-extensions">
          <xs:attributeGroup ref="base-attribute-extensions"/>
@@ -182,6 +194,11 @@
          <xs:attributeGroup ref="lceMathAtt-d-attribute"/>
          <xs:attributeGroup ref="lceQuestionAtt-d-attribute"/>
          <xs:attributeGroup ref="lcePlaceholderAtt-d-attribute"/>
+         <xs:attributeGroup ref="lceListTypeAtt-d-attribute"/>
+         <xs:attributeGroup ref="lcePositionAtt-d-attribute"/>
+         <xs:attributeGroup ref="lceBoxTableAtt-d-attribute"/>
+         <xs:attributeGroup ref="lceColorAtt-d-attribute"/>
+         <xs:attributeGroup ref="lceIconclassAtt-d-attribute"/>
       </xs:attributeGroup>
       
    </xs:redefine>
@@ -203,6 +220,15 @@
                <xs:group ref="lcAsset2"/>
                <xs:group ref="lceExplanation"/>
             </xs:choice>
+      </xs:group>
+      
+      <xs:group name="lcSequence2">
+         <xs:sequence>
+            <xs:choice>
+               <xs:group ref="lcSequence2"/>
+               <xs:group ref="lce-sequencealt-d-data"/>
+            </xs:choice>
+         </xs:sequence>
       </xs:group>
    </xs:redefine>
 
