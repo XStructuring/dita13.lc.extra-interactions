@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"> 
+    <xs:annotation>
+        <xs:appinfo>
+            <dita:domainsModule xmlns:dita="http://dita.oasis-open.org/architecture/2005/">(lce lcetextentry-d)</dita:domainsModule>
+        </xs:appinfo>
+    </xs:annotation>
+    
+    <xs:group name="lceSpeaking">
+        <xs:sequence>
+            <xs:choice>
+                <xs:element ref="lceSpeaking"/>
+            </xs:choice>
+        </xs:sequence>
+    </xs:group>
+    
+    <xs:group name="lceSpeakingOptions">
+        <xs:sequence>
+            <xs:choice>
+                <xs:element ref="lceSpeakingOptions"/>
+            </xs:choice>
+        </xs:sequence>
+    </xs:group>
+    
+    <xs:group name="lceSpeakingAnswerOptionInline">
+        <xs:sequence>
+            <xs:choice>
+                <xs:element ref="lceSpeakingAnswerOptionInline"/>
+            </xs:choice>
+        </xs:sequence>
+    </xs:group>
+    
+    <xs:group name="lceAnswerObjectInline">
+        <xs:sequence>
+            <xs:choice>
+                <xs:element ref="lceAnswerObjectInline"/>
+            </xs:choice>
+        </xs:sequence>
+    </xs:group>
+    
+    
+<!-- ============================================================= -->
+    
+    <xs:element name="lceSpeaking">
+        <xs:annotation>
+            <xs:documentation>
+                The lceSpeaking is a auditive interaction in which a student has to pronounce the word given.
+            </xs:documentation>
+        </xs:annotation>
+        <xs:complexType>
+            <xs:complexContent>
+                <xs:extension base="lceSpeaking.class">
+                    <xs:attribute ref="class"
+                        default="+ topic/div learningInteractionBase2-d/lcInteractionBase2 lcespeaking-d/lceSpeaking "/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+    </xs:element>
+    <xs:complexType name="lceSpeaking.class">
+        <xs:sequence>
+            <xs:group ref="lceSpeaking.content"/>
+        </xs:sequence>
+        <xs:attributeGroup ref="lceSpeaking.attributes"/>
+    </xs:complexType>
+    <xs:group name="lceSpeaking.content">
+        <xs:sequence>
+            <xs:group ref="lcInteractionLabel2" minOccurs="0"/>
+            <xs:group ref="lcQuestion2"/>
+            <xs:group ref="lcAsset2" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:group ref="lceInlineInteractionText"/>
+            <xs:group ref="lcFeedback2" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:group ref="lcFeedbackIncorrect2" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:group ref="lcFeedbackCorrect2" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:group ref="data" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:group>
+    <xs:attributeGroup name="lceSpeaking.attributes">
+        <xs:attribute name="id" type="xs:NMTOKEN"/>
+        <xs:attributeGroup ref="conref-atts"/>
+        <xs:attributeGroup ref="select-atts"/>
+        <xs:attributeGroup ref="localization-atts"/>
+        <xs:attribute name="outputclass" type="xs:string"/>
+        <xs:attributeGroup ref="global-atts"/>
+    </xs:attributeGroup>
+    
+    <xs:element name="lceSpeakingOptions">
+        <xs:annotation>
+            <xs:documentation>
+                In the lceTextEntryOptions the correct and alternatives answers are defined.
+            </xs:documentation>
+        </xs:annotation>
+        <xs:complexType>
+            <xs:complexContent>
+                <xs:extension base="lceSpeakingOptions.class">
+                    <xs:attribute ref="class"
+                        default="+ topic/div lcespeaking-d/lceSpeakingOptions "/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+    </xs:element>
+    <xs:complexType name="lceSpeakingOptions.class">
+        <xs:sequence>
+            <xs:group ref="lceSpeakingOptions.content"/>
+        </xs:sequence>
+        <xs:attributeGroup ref="lceSpeakingOptions.attributes"/>
+    </xs:complexType>
+    <xs:group name="lceSpeakingOptions.content">
+        <xs:sequence>
+            <xs:group ref="data" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:group ref="lceSpeakingAnswerOptionInline" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:group>
+    <xs:attributeGroup name="lceSpeakingOptions.attributes">
+        <xs:attributeGroup ref="univ-atts"/>
+        <xs:attribute name="outputclass" type="xs:string"/>
+        <xs:attributeGroup ref="global-atts"/>
+    </xs:attributeGroup>
+    
+    <xs:element name="lceSpeakingAnswerOptionInline">
+        <xs:annotation>
+            <xs:documentation>The lceSpeakingAnswerOption contains the word which must be read aloud and an audio answer</xs:documentation>
+        </xs:annotation>
+        <xs:complexType>
+            <xs:complexContent>
+                <xs:extension base="lceSpeakingAnswerOptionInline.class">
+                    <xs:attribute ref="class"
+                        default="+ topic/ph lcespeaking-d/lceSpeakingAnswerOptionInline "/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+    </xs:element>
+    <xs:complexType name="lceSpeakingAnswerOptionInline.class">
+        <xs:sequence>
+            <xs:group ref="lceSpeakingAnswerOptionInline.content"/>
+        </xs:sequence>
+        <xs:attributeGroup ref="lceSpeakingAnswerOptionInline.attributes"/>
+    </xs:complexType>
+    <xs:group name="lceSpeakingAnswerOptionInline.content">
+        <xs:sequence>
+            <xs:group ref="lceAnswerContentInline"/>
+            <xs:group ref="lceAnswerObjectInline" maxOccurs="unbounded"/>
+            <xs:choice minOccurs="0" maxOccurs="1">
+                <xs:group ref="lcCorrectResponse2"/>
+                <xs:group ref="lceAlternativeResponse"/>
+            </xs:choice>
+            <xs:group ref="lceFeedbackInlineCorrect" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:group ref="lceFeedbackInlineIncorrect" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:group>
+    <xs:attributeGroup name="lceSpeakingAnswerOptionInline.attributes">
+        <xs:attributeGroup ref="univ-atts"/>
+        <xs:attribute name="outputclass" type="xs:string"/>
+        <xs:attributeGroup ref="global-atts"/>
+    </xs:attributeGroup>
+    
+    <xs:element name="lceAnswerObjectInline">
+        <xs:annotation>
+            <xs:documentation>The lceAnswerObjectInline contains the audio answer</xs:documentation>
+        </xs:annotation>
+        <xs:complexType>
+            <xs:complexContent>
+                <xs:extension base="lceAnswerObjectInline.class">
+                    <xs:attribute ref="class"
+                        default="+ topic/data lcespeaking-d/lceAnswerObjectInline "/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+    </xs:element>
+    <xs:complexType name="lceAnswerObjectInline.class">
+        <xs:sequence>
+            <xs:group ref="lceAnswerObjectInline.content"/>
+        </xs:sequence>
+        <xs:attributeGroup ref="lceSpeakingAnswerOptionInline.attributes"/>
+    </xs:complexType>
+    <xs:group name="lceAnswerObjectInline.content">
+        <xs:sequence>
+            <xs:group ref="object"/>
+        </xs:sequence>
+    </xs:group>
+    <xs:attributeGroup name="lceAnswerObjectInline.attributes">
+        <xs:attributeGroup ref="global-atts"/>
+    </xs:attributeGroup>
+</xs:schema>

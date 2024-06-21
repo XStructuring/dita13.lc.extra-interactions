@@ -281,6 +281,12 @@
         
         <uri name="lceInlineOrderDomain.xsd" uri="lceInlineOrderDomain.xsd" />
         <uri name="urn:dita13lce:names:xsd:lceInlineOrderDomain.xsd" uri="lceInlineOrderDomain.xsd" />
+        
+        <system systemId="lceSpeakingDomain.xsd" uri="lceSpeakingDomain.xsd" />
+        <system systemId="urn:dita13lce:names:xsd:lceSpeakingDomain.xsd" uri="lceSpeakingDomain.xsd" />
+        
+        <uri name="lceSpeakingDomain.xsd" uri="lceSpeakingDomain.xsd" />
+        <uri name="urn:dita13lce:names:xsd:lceSpeakingDomain.xsd" uri="lceSpeakingDomain.xsd" />
     </group>
     
     <group xml:base="lceMarginal/">
