@@ -89,6 +89,7 @@
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceRefpointDomainMod.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceSequenceAltDomainMod.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceSpeakingDomain.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceBasicPuzzleInteractionDomain.xsd"/>
    
    
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceAnswerAttsDomain.xsd"/>

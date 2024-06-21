@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningAssessment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:2.8" id="x01">
+    <title></title>
+    <learningAssessmentbody>
+        <lcInteraction>
+            <lceBasicPuzzle id="mm">
+                <lcQuestion2><p>Follow the pictures clues and questions, to fill in the words, and the arrowed column will reveal
+                        a key word related to this scene.</p></lcQuestion2>
+                <lcAsset2>
+                    <image href="acrostic.jpg" id="image_t1p_dzp_1db"/>
+                </lcAsset2>
+                <lceBasicPuzzleOptionGroup>
+                    <lceBasicPuzzleOption>
+                        <lcePuzzleClue>How do you call a young cat?</lcePuzzleClue>
+                        <lceBasicPuzzleAnswer>
+                            <lcePuzzleWord>
+                                <stentry>k</stentry>
+                                <stentry>i</stentry>
+                                <stentry answertype="solutionpart">t</stentry>
+                                <stentry>t</stentry>
+                                <stentry>e</stentry>
+                                <stentry>n</stentry>
+                            </lcePuzzleWord>
+                        </lceBasicPuzzleAnswer>
+                    </lceBasicPuzzleOption>
+                    <lceBasicPuzzleOption>
+                        <lcePuzzleClue>What does the dog has in in mouth?</lcePuzzleClue>
+                        <lceBasicPuzzleAnswer>
+                            <lcePuzzleWord>
+                                <stentry>t</stentry>
+                                <stentry>h</stentry>
+                                <stentry>e</stentry>
+                                <stentry>e</stentry>
+                                <stentry>s</stentry>
+                            </lcePuzzleWord>
+                        </lceBasicPuzzleAnswer>
+                    </lceBasicPuzzleOption>
+                    <lceBasicPuzzleOption>
+                        <lcePuzzleClue>What does the dog like to eat?</lcePuzzleClue>
+                        <lceBasicPuzzleAnswer>
+                            <lcePuzzleWord>
+                                <stentry>b</stentry>
+                                <stentry>o</stentry>
+                                <stentry>n</stentry>
+                                <stentry>e</stentry>
+                                
+                            </lcePuzzleWord>
+                        </lceBasicPuzzleAnswer>
+                    </lceBasicPuzzleOption>
+                    <lceBasicPuzzleOption>
+                        <lcePuzzleClue>What kind of bird can you see?</lcePuzzleClue>
+                        <lceBasicPuzzleAnswer>
+                            <lcePuzzleWord>
+                                <stentry>c</stentry>
+                                <stentry>h</stentry>
+                                <stentry>i</stentry>
+                                <stentry>c</stentry>
+                                <stentry>k</stentry>
+                                <stentry>e</stentry>
+                                <stentry>n</stentry>
+                            </lcePuzzleWord>
+                        </lceBasicPuzzleAnswer>
+                    </lceBasicPuzzleOption>
+                    <lceBasicPuzzleOption>
+                        <lcePuzzleClue>What comes out of the chicken?</lcePuzzleClue>
+                        <lceBasicPuzzleAnswer>
+                            <lcePuzzleWord>
+                                <stentry>e</stentry>
+                                <stentry>g</stentry>
+                                <stentry>g</stentry>
+                                
+                            </lcePuzzleWord>
+                        </lceBasicPuzzleAnswer>
+                    </lceBasicPuzzleOption>
+                    <lceBasicPuzzleOption>
+                        <lcePuzzleClue>What does the dog has to show that he is happy or angry?</lcePuzzleClue>
+                        <lceBasicPuzzleAnswer>
+                            <lcePuzzleWord>
+                                <stentry>t</stentry>
+                                <stentry>a</stentry>
+                                <stentry>i</stentry>
+                                <stentry>l</stentry>
+                                
+                            </lcePuzzleWord>
+                        </lceBasicPuzzleAnswer>
+                    </lceBasicPuzzleOption>
+                </lceBasicPuzzleOptionGroup>
+            </lceBasicPuzzle>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment>
