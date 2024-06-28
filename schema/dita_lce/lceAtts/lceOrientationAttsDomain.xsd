@@ -27,6 +27,7 @@
     <xs:restriction base="xs:string">
       <xs:enumeration value="vertical"/>
       <xs:enumeration value="horizontal"/>
+      <xs:enumeration value="cross"/>
     </xs:restriction>
   </xs:simpleType>
 </xs:schema>

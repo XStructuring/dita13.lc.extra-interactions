@@ -23,7 +23,7 @@
         <xs:documentation>Specifies the height of a box.</xs:documentation>
       </xs:annotation>
     </xs:attribute>
-    <xs:attribute name="conerradius" type="xs:boolean">
+    <xs:attribute name="cornerradius" type="xs:boolean">
       <xs:annotation>
         <xs:documentation>Specifies if and how round the corners of a box should be.</xs:documentation>
       </xs:annotation>

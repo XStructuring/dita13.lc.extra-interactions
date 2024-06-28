@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningAssessment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:2.8" id="x01">
+    <title></title>
+    <learningAssessmentbody>
+        <lcInteraction>
+<lceSpeaking>
+    <lcQuestion2><p>Read the words aloud.</p>
+        <lcInstructornote2><p>The audio contains the correct pronunciation. It can be used before the student has to read the word so that the student can listen to it before. The audio can also be used when the student read the word wrong and wants to hear the correct answer.</p></lcInstructornote2></lcQuestion2>
+    <lceInlineInteractionText>
+        <ul>
+            <li><p><lceSpeakingOptions>
+                <lceSpeakingAnswerOptionInline>
+                    <lceAnswerContentInline>animal</lceAnswerContentInline>
+                    <lceAnswerObjectInline>
+                        <object data="animal.mp3" type="audio"/>
+                    </lceAnswerObjectInline>
+                </lceSpeakingAnswerOptionInline>
+            </lceSpeakingOptions></p></li>
+            <li><p><lceSpeakingOptions>
+                <lceSpeakingAnswerOptionInline>
+                    <lceAnswerContentInline>plants</lceAnswerContentInline>
+                    <lceAnswerObjectInline>
+                        <object data="plants.mp3" type="audio"/>
+                    </lceAnswerObjectInline>
+                </lceSpeakingAnswerOptionInline>
+            </lceSpeakingOptions></p></li>
+            <li><p><lceSpeakingOptions>
+                <lceSpeakingAnswerOptionInline>
+                    <lceAnswerContentInline>computer</lceAnswerContentInline>
+                    <lceAnswerObjectInline>
+                        <object data="computer.mp3" type="audio"/>
+                    </lceAnswerObjectInline>
+                </lceSpeakingAnswerOptionInline>
+            </lceSpeakingOptions></p></li>
+            <li><p><lceSpeakingOptions>
+                <lceSpeakingAnswerOptionInline>
+                    <lceAnswerContentInline>footbal</lceAnswerContentInline>
+                    <lceAnswerObjectInline>
+                        <object data="footbal.mp3" type="audio"/>
+                    </lceAnswerObjectInline>
+                </lceSpeakingAnswerOptionInline>
+            </lceSpeakingOptions></p></li>
+        </ul>
+        </lceInlineInteractionText>
+</lceSpeaking>
+        </lcInteraction>
+     </learningAssessmentbody>
+</learningAssessment>

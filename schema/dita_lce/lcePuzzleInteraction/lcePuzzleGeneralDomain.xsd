@@ -17,6 +17,7 @@
             <xs:choice>
                 <xs:element ref="lceAcrosticPuzzle"/>
                 <xs:element ref="lceCrossWordPuzzle"/>
+                <xs:element ref="lceBasicPuzzle"/>
             </xs:choice>
         </xs:sequence>
     </xs:group>
@@ -26,6 +27,7 @@
             <xs:choice>
                 <xs:element ref="lceAcrosticPuzzle"/>
                 <xs:element ref="lceCrossWordPuzzle"/>
+                <xs:element ref="lceBasicPuzzle"/>
             </xs:choice>
         </xs:sequence>
     </xs:group>

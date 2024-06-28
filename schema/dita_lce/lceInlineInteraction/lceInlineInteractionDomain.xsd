@@ -13,6 +13,7 @@
                 <xs:element ref="lceInlineChoice"/>
                 <xs:element ref="lceHottext"/>
                 <xs:element ref="lceInlineOrder"/>
+                <xs:element ref="lceSpeaking"/>
             </xs:choice>
         </xs:sequence>
     </xs:group>
@@ -24,6 +25,7 @@
                 <xs:element ref="lceInlineChoice"/>
                 <xs:element ref="lceHottext"/>
                 <xs:element ref="lceInlineOrder"/>
+                <xs:element ref="lceSpeaking"/>
             </xs:choice>
         </xs:sequence>
     </xs:group>
@@ -38,6 +40,7 @@
                 <xs:element ref="lceHottextMeaning"/>
                 <xs:element ref="lceCalculation"/>
                 <xs:element ref="lceInlineOrderOptions"/>
+                <xs:element ref="lceSpeakingOptions"/>
             </xs:choice>
         </xs:sequence>
     </xs:group>

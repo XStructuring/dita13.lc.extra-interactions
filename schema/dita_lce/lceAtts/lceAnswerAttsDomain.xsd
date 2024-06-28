@@ -55,6 +55,8 @@
     <xs:restriction base="xs:string">
       <xs:enumeration value="predefined"/>
       <xs:enumeration value="inexact"/>
+      <xs:enumeration value="inactive"/>
+      <xs:enumeration value="solutionpart"/>
     </xs:restriction>
   </xs:simpleType>
   

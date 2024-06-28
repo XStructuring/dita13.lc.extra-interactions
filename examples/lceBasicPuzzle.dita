@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningAssessment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:dita13lce:names:xsd:lceLearningAssessment.xsd:2.8" id="x01">
+    <title>Basic puzzle</title>
+    <learningAssessmentbody>
+        <lcInteraction>
+            <lceBasicPuzzle id="mm">
+                <lcQuestion2><p>Follow the pictures clues and questions, to fill in the words, and the arrowed column will reveal
+                        a key word related to this scene.</p></lcQuestion2>
+                <lcAsset2>
+                    <image href="acrostic.jpg" id="image_t1p_dzp_1db"/>
+                </lcAsset2>
+                <lceBasicPuzzleOptionGroup>
+                    <lceBasicPuzzleOption>
+                        <lcePuzzleClue>How do you call a young cat?</lcePuzzleClue>
+                        <lceBasicPuzzleAnswer>
+                            <lcePuzzleRow>
+                                <lcePuzzleEntry>k</lcePuzzleEntry>
+                                <lcePuzzleEntry>i</lcePuzzleEntry>
+                                <lcePuzzleEntry answertype="solutionpart">t</lcePuzzleEntry>
+                                <lcePuzzleEntry>t</lcePuzzleEntry>
+                                <lcePuzzleEntry>e</lcePuzzleEntry>
+                                <lcePuzzleEntry>n</lcePuzzleEntry>
+                            </lcePuzzleRow>
+                        </lceBasicPuzzleAnswer>
+                    </lceBasicPuzzleOption>
+                    <lceBasicPuzzleOption>
+                        <lcePuzzleClue>What does the dog has in in mouth?</lcePuzzleClue>
+                        <lceBasicPuzzleAnswer>
+                            <lcePuzzleRow>
+                                <lcePuzzleEntry>t</lcePuzzleEntry>
+                                <lcePuzzleEntry>h</lcePuzzleEntry>
+                                <lcePuzzleEntry>e</lcePuzzleEntry>
+                                <lcePuzzleEntry>e</lcePuzzleEntry>
+                                <lcePuzzleEntry>s</lcePuzzleEntry>
+                            </lcePuzzleRow>
+                        </lceBasicPuzzleAnswer>
+                    </lceBasicPuzzleOption>
+                    <lceBasicPuzzleOption>
+                        <lcePuzzleClue>What does the dog like to eat?</lcePuzzleClue>
+                        <lceBasicPuzzleAnswer>
+                            <lcePuzzleRow>
+                                <lcePuzzleEntry>b</lcePuzzleEntry>
+                                <lcePuzzleEntry>o</lcePuzzleEntry>
+                                <lcePuzzleEntry>n</lcePuzzleEntry>
+                                <lcePuzzleEntry>e</lcePuzzleEntry>
+                                
+                            </lcePuzzleRow>
+                        </lceBasicPuzzleAnswer>
+                    </lceBasicPuzzleOption>
+                    <lceBasicPuzzleOption>
+                        <lcePuzzleClue>What kind of bird can you see?</lcePuzzleClue>
+                        <lceBasicPuzzleAnswer>
+                            <lcePuzzleRow>
+                                <lcePuzzleEntry>c</lcePuzzleEntry>
+                                <lcePuzzleEntry>h</lcePuzzleEntry>
+                                <lcePuzzleEntry>i</lcePuzzleEntry>
+                                <lcePuzzleEntry>c</lcePuzzleEntry>
+                                <lcePuzzleEntry>k</lcePuzzleEntry>
+                                <lcePuzzleEntry>e</lcePuzzleEntry>
+                                <lcePuzzleEntry>n</lcePuzzleEntry>
+                            </lcePuzzleRow>
+                        </lceBasicPuzzleAnswer>
+                    </lceBasicPuzzleOption>
+                    <lceBasicPuzzleOption>
+                        <lcePuzzleClue>What comes out of the chicken?</lcePuzzleClue>
+                        <lceBasicPuzzleAnswer>
+                            <lcePuzzleRow>
+                                <lcePuzzleEntry>e</lcePuzzleEntry>
+                                <lcePuzzleEntry>g</lcePuzzleEntry>
+                                <lcePuzzleEntry>g</lcePuzzleEntry>
+                                
+                            </lcePuzzleRow>
+                        </lceBasicPuzzleAnswer>
+                    </lceBasicPuzzleOption>
+                    <lceBasicPuzzleOption>
+                        <lcePuzzleClue>What does the dog has to show that he is happy or angry?</lcePuzzleClue>
+                        <lceBasicPuzzleAnswer>
+                            <lcePuzzleRow>
+                                <lcePuzzleEntry>t</lcePuzzleEntry>
+                                <lcePuzzleEntry>a</lcePuzzleEntry>
+                                <lcePuzzleEntry>i</lcePuzzleEntry>
+                                <lcePuzzleEntry>l</lcePuzzleEntry>
+                                
+                            </lcePuzzleRow>
+                        </lceBasicPuzzleAnswer>
+                    </lceBasicPuzzleOption>
+                </lceBasicPuzzleOptionGroup>
+                <lcePuzzleComposeAnswer>
+                    <p>The word is:</p>
+                </lcePuzzleComposeAnswer>
+            </lceBasicPuzzle>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment>
