@@ -6,6 +6,15 @@ we decided to also make a new version for "dita13.lc.extra-interactions" because
 
 It is not defined yet if the changes will be moved to the 3.0 version or if the 3.0 version will be deleted. Most of the important changes are already in 2.6.
 
+Version 2.8
+- new interaction: lceSpeakingQuestion. This interaction looks a bit like a textEntry. You can fill in a word or sentence the student must read. You can also add an audio (or more if you have audio e.g. for EN-GB and EN-US). The audio can be played before the student is reading or used as correct answer and be played after the students answer was wrong. Both, text and audio are children of the same container element.
+- new interaction: lceBasicPuzzle. This is a more simple XML for a puzzle question. The puzzle answer is based on the simpletable. It is up to the output how the puzzle wil look like. It can be used for acrostic and for crossword puzzles. Use the attribut 'orientation' to define this.
+- add values to attribut answertype
+  - inactive, this can be used in e.g. a hotspot when some hotspots are defined but should not be active.
+  - solutionpart, this can be used in the basic puzzle to define that a letter of a word is part of the overall solution.
+- add value to attribut orienation
+  - cross - should be used for the basic puzzle when the output should be a crossword.
+
 Version 2.7
 - new shell XSD voor lceMap; now in the map all lce attributes can be used
 - new attributes for list, box and table layout
