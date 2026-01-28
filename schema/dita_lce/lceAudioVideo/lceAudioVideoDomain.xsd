@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"> 
+    <xs:annotation>
+        <xs:appinfo>
+            <dita:domainsModule xmlns:dita="http://dita.oasis-open.org/architecture/2005/">(lce lceaudiovideo-d)</dita:domainsModule>
+        </xs:appinfo>
+    </xs:annotation>
+    
+    <xs:group name="lceaudiovideo-d-fig">
+        <xs:sequence>
+            <xs:choice>
+                <xs:element ref="lceAudio"/>
+                <xs:element ref="lceVideo"/>
+            </xs:choice>
+        </xs:sequence>
+    </xs:group>
+    
+    <xs:group name="lceAudio">
+        <xs:sequence>
+            <xs:choice>
+                <xs:element ref="lceAudio"/>
+            </xs:choice>
+        </xs:sequence>
+    </xs:group>
+    
+    <xs:group name="lceVideo">
+        <xs:sequence>
+            <xs:choice>
+                <xs:element ref="lceVideo"/>
+            </xs:choice>
+        </xs:sequence>
+    </xs:group>
+    
+    <xs:group name="lceFallback">
+        <xs:sequence>
+            <xs:choice>
+                <xs:element ref="lceFallback"/>
+            </xs:choice>
+        </xs:sequence>
+    </xs:group>
+    <xs:group name="lceVideoPoster">
+        <xs:sequence>
+            <xs:choice>
+                <xs:element ref="lceVideoPoster"/>
+            </xs:choice>
+        </xs:sequence>
+    </xs:group>
+    <xs:group name="lceMediaSource">
+        <xs:sequence>
+            <xs:choice>
+                <xs:element ref="lceMediaSource"/>
+            </xs:choice>
+        </xs:sequence>
+    </xs:group>
+    <xs:group name="lceMediaTrack">
+        <xs:sequence>
+            <xs:choice>
+                <xs:element ref="lceMediaTrack"/>
+            </xs:choice>
+        </xs:sequence>
+    </xs:group>
+
+ 
+    <!-- ============================================================= -->
+
+    <xs:element name="lceAudio">
+        <xs:annotation>
+            <xs:documentation>Audio element modeled on DITA 2.0</xs:documentation>
+        </xs:annotation>
+        <xs:complexType>
+            <xs:complexContent>
+                <xs:extension base="lceAudio.class">
+                    <xs:attribute ref="class" default="- topic/fig lceaudiovideo-d/lceAudio "/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+    </xs:element>
+    <xs:complexType name="lceAudio.class">
+        <xs:sequence>
+            <xs:group ref="lceAudio.content"/>
+        </xs:sequence>
+        <xs:attributeGroup ref="lceAudio.attributes"/>
+    </xs:complexType>
+    <xs:group name="lceAudio.content">
+        <xs:sequence>
+            <xs:group ref="desc" minOccurs="0"/>
+            <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:group ref="lceFallback"/>
+                <xs:group ref="lceMediaSource"/>
+                <xs:group ref="lceMediaTrack" />
+            </xs:choice>
+        </xs:sequence>
+    </xs:group>
+    <xs:attributeGroup name="lceAudio.attributes">
+        <xs:attributeGroup ref="display-atts"/>
+        <xs:attribute name="spectitle" type="xs:string"/>
+        <xs:attributeGroup ref="univ-atts"/>
+        <xs:attribute name="outputclass" type="xs:string"/>
+        <xs:attributeGroup ref="global-atts"/>
+    </xs:attributeGroup>
+    
+    <xs:element name="lceVideo">
+        <xs:annotation>
+            <xs:documentation>Video element modeled on DITA 2.0</xs:documentation>
+        </xs:annotation>
+        <xs:complexType>
+            <xs:complexContent>
+                <xs:extension base="lceVideo.class">
+                    <xs:attribute ref="class" default="- topic/fig lceaudiovideo-d/lceVideo "/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+    </xs:element>
+    <xs:complexType name="lceVideo.class">
+        <xs:sequence>
+            <xs:group ref="lceVideo.content"/>
+        </xs:sequence>
+        <xs:attributeGroup ref="lceVideo.attributes"/>
+    </xs:complexType>
+    <xs:group name="lceVideo.content">
+        <xs:sequence>
+            <xs:group ref="desc" minOccurs="0"/>
+            <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:group ref="lceFallback"/>
+                <xs:group ref="lceVideoPoster"/>
+                <xs:group ref="lceMediaSource"/>
+                <xs:group ref="lceMediaTrack" />
+            </xs:choice>
+        </xs:sequence>
+    </xs:group>
+    <xs:attributeGroup name="lceVideo.attributes">
+        <xs:attributeGroup ref="display-atts"/>
+        <xs:attribute name="spectitle" type="xs:string"/>
+        <xs:attributeGroup ref="univ-atts"/>
+        <xs:attribute name="outputclass" type="xs:string"/>
+        <xs:attributeGroup ref="global-atts"/>
+    </xs:attributeGroup>
+    
+    <!-- ========================================== -->
+    
+    <xs:element name="lceFallback">
+        <xs:annotation>
+            <xs:documentation>Element for text which will be shown if the audio isn't available</xs:documentation>
+        </xs:annotation>
+        <xs:complexType>
+            <xs:complexContent>
+                <xs:extension base="lceFallback.class">
+                    <xs:attribute ref="class" default="- topic/p lceaudiovideo-d/lceFallback"/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+    </xs:element>
+    <xs:complexType name="lceFallback.class" mixed="true">
+        <xs:sequence>
+            <xs:group ref="lceFallback.content"/>
+        </xs:sequence>
+        <xs:attributeGroup ref="lceFallback.attributes"/>
+    </xs:complexType>
+    <xs:group name="lceFallback.content">
+        <xs:sequence>
+            <xs:choice>
+                <xs:group ref="image"/>
+                <xs:group ref="basic.ph"/>
+                <xs:group ref="data.elements.incl"/>
+                <xs:group ref="foreign.unknown.incl"/>
+            </xs:choice>
+        </xs:sequence>
+    </xs:group>
+    <xs:attributeGroup name="lceFallback.attributes">
+        <xs:attributeGroup ref="univ-atts"/>
+        <xs:attribute name="outputclass" type="xs:string"/>
+        <xs:attributeGroup ref="global-atts"/>
+    </xs:attributeGroup>
+    
+    
+    <xs:element name="lceVideoPoster">
+        <xs:annotation>
+            <xs:documentation>A video poster is an image that is displayed while a video is loading.</xs:documentation>
+        </xs:annotation>
+        <xs:complexType>
+            <xs:complexContent>
+                <xs:extension base="lceVideoPoster.class">
+                    <xs:attribute ref="class" default="- topic/image lceaudiovideo-d/lceVideoPoster"/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+    </xs:element>
+    <xs:complexType name="lceVideoPoster.class">
+        <xs:sequence>
+            <xs:group ref="lceVideoPoster.content"/>
+        </xs:sequence>
+        <xs:attributeGroup ref="lceVideoPoster.attributes"/>
+    </xs:complexType>
+    <xs:group name="lceVideoPoster.content">
+        <xs:sequence>
+            <xs:group ref="alt" minOccurs="0"/>
+            <xs:group ref="longdescref" minOccurs="0"/>
+        </xs:sequence>
+    </xs:group>
+    <xs:attributeGroup name="lceVideoPoster.attributes">
+        <xs:attribute name="href" type="xs:string"/>
+        <xs:attribute name="scope">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:enumeration value="external"/>
+                    <xs:enumeration value="local"/>
+                    <xs:enumeration value="peer"/>
+                    <xs:enumeration value="-dita-use-conref-target"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="keyref" type="xs:string"/>
+        <xs:attribute name="alt" type="xs:string"/>
+        <xs:attribute name="longdescref" type="xs:string"/>
+        <xs:attribute name="height" type="xs:NMTOKEN"/>
+        <xs:attribute name="width" type="xs:NMTOKEN"/>
+        <xs:attribute name="align" type="xs:string"/>
+        <xs:attribute name="scale" type="xs:NMTOKEN"/>
+        <xs:attribute name="scalefit">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:enumeration value="yes"/>
+                    <xs:enumeration value="no"/>
+                    <xs:enumeration value="-dita-use-conref-target"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="placement" default="inline">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:enumeration value="break"/>
+                    <xs:enumeration value="inline"/>
+                    <xs:enumeration value="-dita-use-conref-target"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attributeGroup ref="univ-atts"/>
+        <xs:attribute name="outputclass" type="xs:string"/>
+        <xs:attributeGroup ref="global-atts"/>
+    </xs:attributeGroup>
+    
+    <xs:element name="lceMediaSource">
+        <xs:annotation>
+            <xs:documentation>The media source specifies the location of an audio or video resource</xs:documentation>
+        </xs:annotation>
+        <xs:complexType>
+            <xs:complexContent>
+                <xs:extension base="lceMediaSource.class">
+                    <xs:attribute ref="class" default="- topic/xref lceaudiovideo-d/lceMediaSource"/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+    </xs:element>
+    <xs:complexType name="lceMediaSource.class" mixed="true">
+        <xs:sequence>
+            <xs:group ref="lceMediaSource.content"/>
+        </xs:sequence>
+        <xs:attributeGroup ref="lceMediaSource.attributes"/>
+    </xs:complexType>
+    <xs:group name="lceMediaSource.content">
+        <xs:sequence>
+            <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:group ref="xreftext.cnt"/>
+            </xs:choice>
+        </xs:sequence>
+    </xs:group>
+    <xs:attributeGroup name="lceMediaSource.attributes">
+        <xs:attribute name="href" type="xs:string"/>
+        <xs:attribute name="keyref" type="xs:string"/>
+        <xs:attribute name="type" type="xs:string"/>
+        <xs:attribute name="format" type="xs:string"/>
+        <xs:attribute name="scope">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:enumeration value="external"/>
+                    <xs:enumeration value="local"/>
+                    <xs:enumeration value="peer"/>
+                    <xs:enumeration value="-dita-use-conref-target"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attributeGroup ref="univ-atts"/>
+        <xs:attribute name="outputclass" type="xs:string"/>
+        <xs:attributeGroup ref="global-atts"/>
+    </xs:attributeGroup>
+    
+    <xs:element name="lceMediaTrack">
+        <xs:annotation>
+            <xs:documentation>Media track settings specify the location of supplemental, text-based data for the referenced media, for
+                example, subtitles or descriptions.</xs:documentation>
+        </xs:annotation>
+        <xs:complexType>
+            <xs:complexContent>
+                <xs:extension base="lceMediaTrack.class">
+                    <xs:attribute ref="class" default="- topic/xref lceaudiovideo-d/lceMediaTrack"/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+    </xs:element>
+    <xs:complexType name="lceMediaTrack.class" mixed="true">
+        <xs:sequence>
+            <xs:group ref="lceMediaTrack.content"/>
+        </xs:sequence>
+        <xs:attributeGroup ref="lceMediaTrack.attributes"/>
+    </xs:complexType>
+    <xs:group name="lceMediaTrack.content">
+        <xs:sequence>
+            <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:group ref="xreftext.cnt"/>
+            </xs:choice>
+        </xs:sequence>
+    </xs:group>
+    <xs:attributeGroup name="lceMediaTrack.attributes">
+        <xs:attribute name="href" type="xs:string"/>
+        <xs:attribute name="keyref" type="xs:string"/>
+        <xs:attribute name="type" type="xs:string"/>
+        <xs:attribute name="format" type="xs:string"/>
+        <xs:attribute name="scope">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:enumeration value="external"/>
+                    <xs:enumeration value="local"/>
+                    <xs:enumeration value="peer"/>
+                    <xs:enumeration value="-dita-use-conref-target"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attributeGroup ref="univ-atts"/>
+        <xs:attribute name="outputclass" type="xs:string"/>
+        <xs:attributeGroup ref="global-atts"/>
+    </xs:attributeGroup>
+    
+           
+</xs:schema>

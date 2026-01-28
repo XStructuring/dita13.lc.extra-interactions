@@ -25,6 +25,49 @@
             </xs:choice>
         </xs:sequence>
     </xs:group>
+    
+    <!-- ================================= -->
+    
+    <xs:group name="lceImageSource">
+        <xs:sequence>
+            <xs:choice>
+                <xs:element ref="lceImageSource"/>
+            </xs:choice>
+        </xs:sequence>
+    </xs:group>
+    
+    <!-- ================================= -->
+    
+    <xs:element name="lceImageSource">
+        <xs:annotation>
+            <xs:documentation>Element for the source of the image in the interactive graphic questions</xs:documentation>
+        </xs:annotation>
+        <xs:complexType>
+            <xs:complexContent>
+                <xs:extension base="lceImageSource.class">
+                    <xs:attribute ref="class" default="+ topic/figgroup lcegraphic-d/lceImageSource "/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+    </xs:element>
+    <xs:complexType name="lceImageSource.class">
+        <xs:sequence>
+            <xs:group ref="lceImageSource.content"/>
+        </xs:sequence>
+        <xs:attributeGroup ref="lceImageSource.attributes"/>
+    </xs:complexType>
+    <xs:group name="lceImageSource.content">
+        <xs:sequence>
+            <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:group ref="figgroup.cnt"/>
+            </xs:choice>
+        </xs:sequence>
+    </xs:group>
+    <xs:attributeGroup name="lceImageSource.attributes">
+        <xs:attributeGroup ref="univ-atts"/>
+        <xs:attribute name="outputclass" type="xs:string"/>
+        <xs:attributeGroup ref="global-atts"/>
+    </xs:attributeGroup>
 
 
 </xs:schema>

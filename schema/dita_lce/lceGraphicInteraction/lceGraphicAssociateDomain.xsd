@@ -54,6 +54,7 @@
     <xs:group name="lceGAMap.content">
         <xs:sequence>
             <xs:group ref="image"/>
+            <xs:group ref="lceImageSource" minOccurs="0"/>
             <xs:group ref="lceAssociableHotspot" minOccurs="1" maxOccurs="unbounded"/>
         </xs:sequence>
     </xs:group>
