@@ -107,6 +107,7 @@
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lcePositionAttsDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceBoxTableAttsDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceColorAttsDomain.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceAudioVideoDomain.xsd"/>
    
    <!--  -->
 
@@ -205,6 +206,7 @@
          <xs:attributeGroup ref="lceBoxTableAtt-d-attribute"/>
          <xs:attributeGroup ref="lceColorAtt-d-attribute"/>
          <xs:attributeGroup ref="lceIconclassAtt-d-attribute"/>
+         <xs:attributeGroup ref="lceAudioVideoAtt-d-attribute"/>
       </xs:attributeGroup>
    </xs:redefine>
    <xs:redefine schemaLocation="urn:oasis:names:tc:dita:xsd:metaDeclGrp.xsd:1.3">

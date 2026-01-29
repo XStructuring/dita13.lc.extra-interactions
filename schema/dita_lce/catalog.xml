@@ -149,6 +149,12 @@
         
         <uri name="lceColorAttsDomain.xsd" uri="lceColorAttsDomain.xsdn" />
         <uri name="urn:dita13lce:names:xsd:lceColorAttsDomain.xsd" uri="lceColorAttsDomain.xsd" />
+        
+        <system systemId="lceAudioVideoAttsDomain.xsd" uri="lceAudioVideoAttsDomain.xsd" />
+        <system systemId="urn:dita13lce:names:xsd:lceAudioVideoAttsDomain.xsd" uri="lceAudioVideoAttsDomain.xsd" />
+        
+        <uri name="lceAudioVideoAttsDomain.xsd" uri="lceAudioVideoAttsDomain.xsd" />
+        <uri name="urn:dita13lce:names:xsd:lceAudioVideoAttsDomain.xsd" uri="lceAudioVideoAttsDomain.xsd" />
     </group>
     
     <group xml:base="lceAudioVideo/">

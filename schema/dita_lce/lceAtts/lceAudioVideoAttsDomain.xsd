@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ============================================================= -->
+<!--                    HEADER                                     -->
+
+<!-- ============================================================= -->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+  
+    <xs:annotation>
+      <xs:appinfo>
+        <dita:domainsModule xmlns:dita="http://dita.oasis-open.org/architecture/2005/">a(base audiovideo)</dita:domainsModule>
+      </xs:appinfo>
+      <xs:documentation/>
+      
+    </xs:annotation>
+  
+  <xs:attributeGroup name="lceAudioVideoAtt-d-attribute">
+    <xs:attribute name="autoplay" type="xs:boolean" use="optional">
+      <xs:annotation>
+        <xs:documentation>Specifies whether the resource automatically plays when it is presented
+        </xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+    <xs:attribute name="loop" type="xs:boolean" use="optional">
+      <xs:annotation>
+        <xs:documentation>Specifies whether the resource loops when played
+        </xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+    <xs:attribute name="kind" type="kind-atts.class" use="optional">
+      <xs:annotation>
+        <xs:documentation>Specifies the usage for the track resource.</xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+  </xs:attributeGroup>
+  
+  <xs:simpleType name="kind-atts.class">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="subtitels">
+        <xs:annotation><xs:documentation>Transcription or translation of the dialogue, suitable for when the sound is available but not
+            understood, for example, because the user does not understand the language of the soundtrack.
+            Subtitles are rendered over the video.</xs:documentation></xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="captions">
+        <xs:annotation><xs:documentation>Transcription or translation of the dialogue, sound effects, relevant musical cues, and other
+            relevant audio information. This is intended for use when the soundtrack is unavailable, for
+            example, because it is muted or because the user is hard-of-hearing. This information is
+            rendered over the video and labeled as appropriate for hard-of-hearing users</xs:documentation></xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="chapters">
+        <xs:annotation><xs:documentation>Chapter titles, which are intended to be used for navigating the media resource. The chapter
+            titles are rendered as an interactive list in the interface for the user agent.</xs:documentation></xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="descriptions">
+        <xs:annotation><xs:documentation>Textual descriptions of the video component of the media resource. This is intended for audio
+            synthesis when the visual component is unavailable, for example, because the user is
+            interacting with the application without a screen or because the user is blind. Descriptions are
+            synthesized as separate audio tracks</xs:documentation></xs:annotation>
+      </xs:enumeration>
+      
+    </xs:restriction>
+  </xs:simpleType>
+
+</xs:schema>

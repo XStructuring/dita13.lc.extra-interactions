@@ -19,7 +19,7 @@
 <!-- version: 2.6.2  date: 02-09-2022  author: Birgit -->
 <!-- version: 2.7.0  date: 05-03-2023  author: Birgit -->
 <!-- version: 2.8.0  date: 30-06-2024  author: Birgit -->
-<!-- version: 2.9.0  date: 16-01-2026  author: Birgit -->
+<!-- version: 2.9.0  date: 28-01-2026  author: Birgit -->
 
 
 <!-- ============================================================= -->
@@ -106,6 +106,7 @@
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lcePositionAttsDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceBoxTableAttsDomain.xsd"/>
    <xs:include schemaLocation="urn:dita13lce:names:xsd:lceColorAttsDomain.xsd"/>
+   <xs:include schemaLocation="urn:dita13lce:names:xsd:lceAudioVideoDomain.xsd"/>
    
    
    <!--  -->
@@ -204,7 +205,7 @@
          <xs:attributeGroup ref="lcePositionAtt-d-attribute"/>
          <xs:attributeGroup ref="lceBoxTableAtt-d-attribute"/>
          <xs:attributeGroup ref="lceColorAtt-d-attribute"/>
-         <xs:attributeGroup ref="lceIconclassAtt-d-attribute"/>
+         <xs:attributeGroup ref="lceIconclassAtt-d-attribute"/>             
       </xs:attributeGroup>
       
    </xs:redefine>

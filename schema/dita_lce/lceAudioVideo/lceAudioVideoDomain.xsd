@@ -145,14 +145,14 @@
         <xs:complexType>
             <xs:complexContent>
                 <xs:extension base="lceFallback.class">
-                    <xs:attribute ref="class" default="- topic/p lceaudiovideo-d/lceFallback"/>
+                    <xs:attribute ref="class" default="- topic/p lceaudiovideo-d/lceFallback "/>
                 </xs:extension>
             </xs:complexContent>
         </xs:complexType>
     </xs:element>
     <xs:complexType name="lceFallback.class" mixed="true">
         <xs:sequence>
-            <xs:group ref="lceFallback.content"/>
+            <xs:group ref="lceFallback.content" minOccurs="0" maxOccurs="unbounded"/>
         </xs:sequence>
         <xs:attributeGroup ref="lceFallback.attributes"/>
     </xs:complexType>
@@ -180,7 +180,7 @@
         <xs:complexType>
             <xs:complexContent>
                 <xs:extension base="lceVideoPoster.class">
-                    <xs:attribute ref="class" default="- topic/image lceaudiovideo-d/lceVideoPoster"/>
+                    <xs:attribute ref="class" default="- topic/image lceaudiovideo-d/lceVideoPoster "/>
                 </xs:extension>
             </xs:complexContent>
         </xs:complexType>
@@ -246,7 +246,7 @@
         <xs:complexType>
             <xs:complexContent>
                 <xs:extension base="lceMediaSource.class">
-                    <xs:attribute ref="class" default="- topic/xref lceaudiovideo-d/lceMediaSource"/>
+                    <xs:attribute ref="class" default="- topic/xref lceaudiovideo-d/lceMediaSource "/>
                 </xs:extension>
             </xs:complexContent>
         </xs:complexType>
@@ -292,7 +292,7 @@
         <xs:complexType>
             <xs:complexContent>
                 <xs:extension base="lceMediaTrack.class">
-                    <xs:attribute ref="class" default="- topic/xref lceaudiovideo-d/lceMediaTrack"/>
+                    <xs:attribute ref="class" default="- topic/xref lceaudiovideo-d/lceMediaTrack "/>
                 </xs:extension>
             </xs:complexContent>
         </xs:complexType>
