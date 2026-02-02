@@ -9,6 +9,8 @@
                 <p>Click on it.</p></lcQuestion2>
                 <lcHotspotMap2>
                     <image href="planets.jpg" id="image_wmy_tsx_ddb"/>
+                    <lceImageSource><cite>source of the image</cite></lceImageSource>
+                    <!-- you can also use other child elements or write directly -->
                     <lcArea2>
                         <lcAreaShape2>rect</lcAreaShape2>
                         <lcAreaCoords2>49, 51, 50, 30</lcAreaCoords2><lcCorrectResponse2/>

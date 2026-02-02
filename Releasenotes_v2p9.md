@@ -8,6 +8,7 @@ It is not defined yet if the changes will be moved to the 3.0 version or if the 
 
 Version 2.9
 - New element lceImageSource in all graphic interactions to add a source to the interactive image used in the interaction
+- New elements lceAudio and lceVideo, both modelled on the upcoming DITA 2.0 but honestly the content model are bit less; direct targeting is not possible, you have to use the child element lceMediaSource. For all details look at the modules lceAudioVideo and lceAudioVideoAtts. 
 
 Version 2.8
 - new interaction: lceSpeakingQuestion. This interaction looks a bit like a textEntry. You can fill in a word or sentence the student must read. You can also add an audio (or more if you have audio e.g. for EN-GB and EN-US). The audio can be played before the student is reading or used as correct answer and be played after the students answer was wrong. Both, text and audio are children of the same container element.
